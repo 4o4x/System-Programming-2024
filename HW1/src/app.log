@@ -1,0 +1,88 @@
+gtuStudentGrades "computer_science_students.txt",success,File created,Wed Mar 20 22:26:06 2024
+gtuStudentGrades "2024_spring.txt",success,File created,Wed Mar 20 22:26:11 2024
+gtuStudentGrades "computer_science_students.txt" "aa",fail,Incorrect number of arguments! Expected: 1,Wed Mar 20 22:27:36 2024
+addStudentGrade "computer_science_students.txt" "John Smith" "BA",success,Student grade added,Wed Mar 20 22:35:04 2024
+addStudentGrade "2024_spring.txt" "Emily Davis" "CB",success,Student grade added,Wed Mar 20 22:35:11 2024
+addStudentGrade "computer_science_students.txt" "Michael Brown" "AA",success,Student grade added,Wed Mar 20 22:35:18 2024
+addStudentGrade "2024_spring.txt" "Jessica Taylor" "BB",success,Student grade added,Wed Mar 20 22:38:05 2024
+addStudentGrade "computer_science_students.txt" "Daniel Miller" "CC",success,Student grade added,Wed Mar 20 22:38:11 2024
+addStudentGrade "2024_spring.txt" "Sophia Wilson" "DC",success,Student grade added,Wed Mar 20 22:38:16 2024
+addStudentGrade "computer_science_students.txt" "David Jones" "DD",success,Student grade added,Wed Mar 20 22:38:23 2024
+addStudentGrade "2024_spring.txt" "Olivia Garcia" "FD",success,Student grade added,Wed Mar 20 22:38:27 2024
+addStudentGrade "computer_science_students.txt" "James Martin" "FF",success,Student grade added,Wed Mar 20 22:38:39 2024
+addStudentGrade "2024_spring.txt" "Isabella Rodriguez" "AA",success,Student grade added,Wed Mar 20 22:38:43 2024
+addStudentGrade "computer_science_students.txt" "Emma Martinez" "AB",success,Student grade added,Wed Mar 20 22:38:47 2024
+addStudentGrade "2024_spring.txt" "Lucas Hernandez" "AC",success,Student grade added,Wed Mar 20 22:38:51 2024
+addStudentGrade "computer_science_students.txt" "Mia Lopez" "AD",success,Student grade added,Wed Mar 20 22:38:56 2024
+addStudentGrade "2024_spring.txt" "Alexander Gonzalez" "AE",success,Student grade added,Wed Mar 20 22:39:00 2024
+addStudentGrade "computer_science_students.txt" "Ava Anderson" "AF",success,Student grade added,Wed Mar 20 22:39:05 2024
+addStudentGrade "2024_spring.txt" "Ethan Young" "AG",success,Student grade added,Wed Mar 20 22:39:09 2024
+addStudentGrade "computer_science_students.txt" "Charlotte Hall" "AH",success,Student grade added,Wed Mar 20 22:39:13 2024
+addStudentGrade "2024_spring.txt" "Jacob Allen" "AI",success,Student grade added,Wed Mar 20 22:39:18 2024
+addStudentGrade "computer_science_students.txt" "Amelia Wright" "AJ",success,Student grade added,Wed Mar 20 22:39:23 2024
+addStudentGrade "2024_spring.txt" "Michael King" "AK",success,Student grade added,Wed Mar 20 22:39:31 2024
+addStudentGrade "computer_science_students.txt" "Sofia Scott" "AL",success,Student grade added,Wed Mar 20 22:39:35 2024
+addStudentGrade "2024_spring.txt" "Benjamin Green" "BA",success,Student grade added,Wed Mar 20 22:39:39 2024
+addStudentGrade "computer_science_students.txt" "Chloe Adams" "BB",success,Student grade added,Wed Mar 20 22:39:48 2024
+addStudentGrade "2024_spring.txt" "William Baker" "BC",success,Student grade added,Wed Mar 20 22:39:52 2024
+addStudentGrade "computer_science_students.txt" "Lily Turner" "BD",success,Student grade added,Wed Mar 20 22:39:56 2024
+addStudentGrade "2024_spring.txt" "Zoe Phillips" "BE",success,Student grade added,Wed Mar 20 22:39:59 2024
+addStudentGrade "computer_science_students.txt" "Alexander White" "BF",success,Student grade added,Wed Mar 20 22:40:04 2024
+addStudentGrade "2024_spring.txt" "Madison Harris" "BG",success,Student grade added,Wed Mar 20 22:40:08 2024
+addStudentGrade "computer_science_students.txt" "Elijah Lewis" "BH",success,Student grade added,Wed Mar 20 22:40:12 2024
+addStudentGrade "2024_spring.txt" "Grace Walker" "BI",success,Student grade added,Wed Mar 20 22:40:16 2024
+addStudentGrade "computer_science_students.txt" "James Robinson" "BJ",success,Student grade added,Wed Mar 20 22:40:23 2024
+addStudentGrade "2024_spring.txt" "Victoria Clark" "CA",success,Student grade added,Wed Mar 20 22:40:27 2024
+addStudentGrade "computer_science_students.txt" "Mason Hill" "CB",success,Student grade added,Wed Mar 20 22:40:30 2024
+addStudentGrade "2024_spring.txt" "Ella Perez" "CC",success,Student grade added,Wed Mar 20 22:40:34 2024
+addStudentGrade "computer_science_students.txt" "Maxwell Nelson" "CD",success,Student grade added,Wed Mar 20 22:40:39 2024
+addStudentGrade "2024_spring.txt" "Nora Carter" "CE",success,Student grade added,Wed Mar 20 22:40:43 2024
+addStudentGrade "computer_science_students.txt" "Ryan Mitchell" "CF",success,Student grade added,Wed Mar 20 22:40:46 2024
+addStudentGrade "2024_spring.txt" "Camila Roberts" "CG",success,Student grade added,Wed Mar 20 22:40:50 2024
+addStudentGrade "computer_science_students.txt" "Lucas Moore" "CH",success,Student grade added,Wed Mar 20 22:40:54 2024
+addStudentGrade "2024_spring.txt" "Lauren Jackson" "CI",success,Student grade added,Wed Mar 20 22:41:00 2024
+addStudentGrade "computer_science_students.txt" "Isaac Lee" "CJ",success,Student grade added,Wed Mar 20 22:41:04 2024
+addStudentGrade "2024_spring.txt" "Liam Thompson" "CK",success,Student grade added,Wed Mar 20 22:41:08 2024
+addStudentGrade "computer_science_students.txt" "Emma Anderson" "CL",success,Student grade added,Wed Mar 20 22:41:15 2024
+addStudentGrade "2024_spring.txt" "Oliver Martinez" "DA",success,Student grade added,Wed Mar 20 22:41:19 2024
+addStudentGrade "computer_science_students.txt" "Avery Thomas" "DB",success,Student grade added,Wed Mar 20 22:41:23 2024
+addStudentGrade "2024_spring.txt" "Brooklyn White" "DC",success,Student grade added,Wed Mar 20 22:41:28 2024
+addStudentGrade "computer_science_students.txt" "Sebastian Taylor" "DD",success,Student grade added,Wed Mar 20 22:41:32 2024
+addStudentGrade "2024_spring.txt" "Zoe Brooks" "DE",success,Student grade added,Wed Mar 20 22:41:36 2024
+addStudentGrade "computer_science_students.txt" "John Doe" "AA" "aa",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 22:41:44 2024
+addStudentGrade "computer_science_students.txt",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 22:42:00 2024
+addStudentGrade "computer_science_students.txt" "John Doe",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 22:42:06 2024
+addStudentGrade "computer_science_students.txt" "AA",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 22:42:11 2024
+addStudentGrade,fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 22:42:14 2024
+searchStudent "computer_science_students.txt" "John Smith",success,Student grade found,Wed Mar 20 22:49:29 2024
+searchStudent "2024_spring.txt" "Emily Davis",success,Student grade found,Wed Mar 20 22:49:35 2024
+searchStudent "computer_science_students.txt" "Michael Brown",success,Student grade found,Wed Mar 20 22:49:41 2024
+searchStudent "2024_spring.txt" "Jessica Taylor",success,Student grade found,Wed Mar 20 22:49:48 2024
+searchStudent "computer_science_students.txt" "Daniel Miller",success,Student grade found,Wed Mar 20 22:49:54 2024
+searchStudent "computer_science_students.txt" "Unknown Student",fail,Student grade cannot be found,Wed Mar 20 22:52:15 2024
+searchStudent "2024_spring.txt" "Unknown Student",fail,Student grade cannot be found,Wed Mar 20 22:52:21 2024
+searchStudent "computer_science_students.txt" "John Doe" "AA",fail,Incorrect number of arguments! Expected: 2,Wed Mar 20 22:54:29 2024
+searchStudent "computer_science_students.txt",fail,Incorrect number of arguments! Expected: 2,Wed Mar 20 22:54:36 2024
+sortAll "computer_science_students.txt" "name" "a",success,Student grades sorted,Wed Mar 20 22:56:45 2024
+sortAll "2024_spring.txt" "grade" "d",success,Student grades sorted,Wed Mar 20 22:59:07 2024
+sortAll "computer_science_students.txt" "name" "a" "d",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 23:01:02 2024
+sortAll "computer_science_students.txt" "name" "aa",fail,Invalid order,Wed Mar 20 23:01:11 2024
+sortAll,fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 23:01:21 2024
+showAll "computer_science_students.txt",success,Student grades displayed,Wed Mar 20 23:03:12 2024
+showAll "2024_spring.txt",success,Student grades displayed,Wed Mar 20 23:05:36 2024
+showAll "computer_science_students.txt" "argument2",fail,Incorrect number of arguments! Expected: 1,Wed Mar 20 23:06:24 2024
+showAll ,fail,Incorrect number of arguments! Expected: 1,Wed Mar 20 23:06:29 2024
+listGrades "computer_science_students.txt",success,Student grades listed,Wed Mar 20 23:08:22 2024
+listGrades "2024_spring.txt",success,Student grades listed,Wed Mar 20 23:08:47 2024
+listGrades "small.txt",fail,There are less than 5 entries in the file,Wed Mar 20 23:11:20 2024
+listGrades "computer_science_students.txt" "argument2",fail,Incorrect number of arguments! Expected: 1,Wed Mar 20 23:12:44 2024
+listGrades ,fail,Incorrect number of arguments! Expected: 1,Wed Mar 20 23:12:48 2024
+listSome "computer_science_students.txt" "5" "1",success,Student grades listed,Wed Mar 20 23:17:16 2024
+listSome "2024_spring.txt" "3" "2",success,Student grades listed,Wed Mar 20 23:17:25 2024
+listSome "small.txt" "10" "5",fail,There are not enough entries in the file,Wed Mar 20 23:19:05 2024
+listSome "computer_science_students.txt" "5" "1" "argument4",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 23:19:14 2024
+listSome "computer_science_students.txt" "5",fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 23:19:19 2024
+listSome,fail,Incorrect number of arguments! Expected: 3,Wed Mar 20 23:19:26 2024
+gtuStudentGrades,success,Display all of the available commands,Wed Mar 20 23:27:03 2024
+exit,success,Exit the program,Wed Mar 20 23:29:39 2024
+Unknown_Command,fail,Invalid command,Wed Mar 20 23:31:49 2024
