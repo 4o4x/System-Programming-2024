@@ -35,9 +35,6 @@ void sigchld_handler(int sig) {
             }
             children--;
         }
-
-        
-
 }
 
 
@@ -73,15 +70,14 @@ int main (int argc, char *argv[]) {
         }
     }
 
-    //printf("FIFO1 created\n");
-
+    
     if (mkfifo(FIFO_NAME_2, 0666) == -1) {
         if (errno != EEXIST) {
             perror("Failed to create fifo2");
             exit(1);
         }
     }
-    //printf("FIFO2 created\n");
+    
 
 
     struct sigaction sa;
@@ -102,10 +98,8 @@ int main (int argc, char *argv[]) {
     
     else if (pid_1 == 0) {
 
-        printf("Child Process 1 -> Child 1 Started\n\n");
-        printf("Child Process 1 -> Child 1 PID: %d\n\n",getpid());
+        printf("Child Process 1 -> Child 1 Started PID: %d\n\n",getpid());
         sleep(10);
-        printf("Child Process 1 -> Child 1 is proceeding...\n\n");
 
         int fifo1_fd = open(FIFO_NAME_1, O_RDONLY);
         if (fifo1_fd == -1) {
@@ -113,25 +107,16 @@ int main (int argc, char *argv[]) {
             exit(1);
         }
 
-        //printf("Child Process 1 -> Child 1 opened fifo1 for reading\n\n");
-
-
         int * arr_1 = (int *)malloc(number * sizeof(int));
 
-        //printf("Child Process 1 -> Child 1 reading array from fifo1\n\n");
         if (read(fifo1_fd, arr_1, number * sizeof(int)) == -1) {
             perror("Failed to read from fifo1");
             free(arr_1);
             exit(1);
         }
 
-        //printf("Child Process 1 -> Child 1 received array: ");
-        //print_array(arr_1,number);
-        //printf("\n\n");
 
         close(fifo1_fd);
-        //printf("Child Process 1 -> Child 1 closed fifo1\n\n");
-
 
         int sum = sum_array(arr_1,number);
         //printf("Child Process 1 -> Child 1 calculated the sum: %d\n\n",sum);
@@ -146,20 +131,13 @@ int main (int argc, char *argv[]) {
             exit(1);
         }
 
-        //printf("Child Process 1 -> Child 1 opened fifo2 for writing\n\n");
 
-        
-
-        //printf("Child Process 1 -> Child 1 writing sum to fifo2\n\n");
         if (write(fifo2_fd, &sum, sizeof(sum)) == -1) {
             perror("Failed to write to fifo2");
             exit(1);
         }
 
-        //printf("Child Process 1 -> Child 1 wrote sum to fifo2: %d\n\n",sum);
-
         close(fifo2_fd);
-        //printf("Child Process 1 -> Child 1 closed fifo2\n\n");
 
         exit(0);
 
@@ -175,10 +153,10 @@ int main (int argc, char *argv[]) {
 
         else if (pid_2 == 0) {
             
-            printf("Child Process 2 -> Child 2 Started\n\n");
-            printf("Child Process 2 -> Child 2 PID: %d\n\n",getpid());
+            printf("Child Process 2 -> Child 2 Started PID: %d\n\n",getpid());
+
             sleep(10);
-            printf("Child Process 2 -> Child 2 is proceeding...\n\n");
+
             int * arr_2 = (int *)malloc(number * sizeof(int));
             int fifo2_fd = open(FIFO_NAME_2, O_RDONLY);
             if (fifo2_fd == -1) {
@@ -186,9 +164,6 @@ int main (int argc, char *argv[]) {
                 exit(1);
             }
 
-            //printf("Child Process 2 -> Child 2 opened fifo2 for reading\n\n");
-
-            //printf("Child Process 2 -> Child 2 reading array from fifo2\n\n");
             if (read(fifo2_fd, arr_2, number * sizeof(int)) == -1) {
                 perror("Failed to read from fifo2");
                 exit(1);
@@ -201,14 +176,14 @@ int main (int argc, char *argv[]) {
             //read from fifo2
 
             char * result = (char *)malloc(9 * sizeof(char));
-            //printf("Child Process 2 -> Child 2 reading operation from fifo2\n\n");
+
             if (read(fifo2_fd, result, 9 * sizeof(char)) == -1) {
                 perror("Failed to read from fifo2");
                 free(result);
                 exit(1);
             }
 
-            //printf("Child Process 2 -> Child 2 received command: %s\n\n", result);
+
 
             int multiply;
 
@@ -226,10 +201,10 @@ int main (int argc, char *argv[]) {
 
             free(arr_2);
             free(result);
-            //printf("Child Process 2 -> Child 2 freed memory\n\n");
+
             
             int sum_child1;
-            //printf("Child Process 2 -> Child 2 reading sum from fifo2\n\n");
+
             if (read(fifo2_fd, &sum_child1, sizeof(sum_child1)) == -1) {
                 perror("Failed to read from fifo2");
                 exit(1);
@@ -245,38 +220,40 @@ int main (int argc, char *argv[]) {
 
         else{
             
-            //printf("Parent Process -> Parent Process Started\n\n");
-
             int fd1;
             if ((fd1 = open(FIFO_NAME_1, O_WRONLY)) == -1) {
                 perror("Failed to open fifo1 for writing");
                 exit(1);
             }
-            //printf("Parent Process -> Parent opened fifo1 for writing\n\n");
+            
 
             int fd2;
             if ((fd2 = open(FIFO_NAME_2, O_WRONLY)) == -1) {
                 perror("Failed to open fifo2 for writing");
                 exit(1);
             }
-            //printf("Parent Process -> Parent opened fifo2 for writing\n\n");
 
-            
-            
+            int check_write = write(fd2, arr, number * sizeof(int));
+  
+            if (check_write == -1) {
+                perror("Failed to write to fifo2");
+                exit(1);
+            }   
 
-            //printf("Parent Process -> Parent writing array to fifo2\n\n");
-            write(fd2, arr, number * sizeof(int));
-            //printf("Parent Process -> Parent wrote array to fifo2\n\n");
 
+            int check_write2 = write(fd2, "multiply", 9 * sizeof(char));
 
-            //printf("Parent Process -> Parent writing operation to fifo2\n\n");
-            write(fd2, "multiply", 9 * sizeof(char));
-            //printf("Parent Process -> Parent wrote operation to fifo2\n\n");
+            if (check_write2 == -1) {
+                perror("Failed to write to fifo2");
+                exit(1);
+            }
 
-            //printf("Parent Process -> Parent writing array to fifo1\n\n");
-            write(fd1, arr, number * sizeof(int));
-            //printf("Parent Process -> Parent wrote array to fifo1\n\n");
+            int check_write3 = write(fd1, arr, number * sizeof(int));
 
+            if (check_write3 == -1) {
+                perror("Failed to write to fifo1");
+                exit(1);
+            }
             
 
             while (children > 0) {
