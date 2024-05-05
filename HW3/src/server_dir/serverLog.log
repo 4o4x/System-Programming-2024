@@ -1,0 +1,288 @@
+[2024-05-05 00:12:12] Server is started
+[2024-05-05 00:12:12] Server PID: 1488
+[2024-05-05 00:12:50] Client PID: 1491 connected as "client_0"
+[2024-05-05 00:16:31] Server is started
+[2024-05-05 00:16:31] Server PID: 58
+[2024-05-05 00:16:46] Client PID: 59 connected as "client_0"
+[2024-05-05 00:17:56] Server is started
+[2024-05-05 00:17:56] Server PID: 85
+[2024-05-05 00:18:00] Server is started
+[2024-05-05 00:18:00] Server PID: 86
+[2024-05-05 00:18:05] Client PID: 87 connected as "client_0"
+[2024-05-05 00:18:38] Server is started
+[2024-05-05 00:18:38] Server PID: 102
+[2024-05-05 00:18:47] Client PID: 104 connected as "client_0"
+[2024-05-05 00:20:55] Client PID: 105 is disconnected
+[2024-05-05 00:21:24] Server is started
+[2024-05-05 00:21:24] Server PID: 107
+[2024-05-05 00:24:15] Client PID: 111 connected as "client_0"
+[2024-05-05 00:24:36] Client PID: 114 connected as "client_1"
+[2024-05-05 00:24:52] Client PID: 116 connected as "client_2"
+[2024-05-05 00:29:29] Client PID: 129 Server is full. You are rejected
+[2024-05-05 00:30:59] Client PID: 130 Server is full. Connection request is added to the queue
+[2024-05-05 00:32:08] Client PID: 112 is disconnected
+[2024-05-05 00:32:08] Client PID: 130 connected as "client_3"
+[2024-05-05 00:39:13] Server is started
+[2024-05-05 00:39:13] Server PID: 143
+[2024-05-05 00:39:16] Client PID: 144 connected as "client_0"
+[2024-05-05 00:39:21] Client PID: 146 connected as "client_1"
+[2024-05-05 00:39:31] Client PID: 149 Server is full. Connection request is added to the queue
+[2024-05-05 00:39:35] Client PID: 147 is disconnected
+[2024-05-05 00:39:35] Client PID: 149 connected as "client_2"
+[2024-05-05 00:54:50] Server is started
+[2024-05-05 00:54:50] Server PID: 201
+[2024-05-05 00:55:00] Client PID: 203 connected as "client_0"
+[2024-05-05 00:55:19] Client PID: 203 is disconnected
+[2024-05-05 00:55:27] Server is started
+[2024-05-05 00:55:27] Server PID: 217
+[2024-05-05 00:55:54] Client PID: 220 connected as "client_0"
+[2024-05-05 00:57:09] Client PID: 226 connected as "client_1"
+[2024-05-05 00:57:27] Client PID: 229 Server is full. Connection request is added to the queue
+[2024-05-05 01:00:49] Client PID: 226 is disconnected
+[2024-05-05 01:00:49] Client PID: 229 connected as "client_2"
+[2024-05-05 01:09:06] Client PID: 220 is disconnected
+[2024-05-05 01:13:43] Client PID: 265 connected as "client_3"
+[2024-05-05 01:14:39] Client PID: 265 is disconnected
+[2024-05-05 01:14:49] Client PID: 280 connected as "client_4"
+[2024-05-05 01:14:56] Client PID: 280 is disconnected
+[2024-05-05 01:14:59] Client PID: 283 connected as "client_5"
+[2024-05-05 01:15:24] Client PID: 283 is disconnected
+[2024-05-05 01:15:30] Client PID: 297 connected as "client_6"
+[2024-05-05 01:15:51] Client PID: 297 is disconnected
+[2024-05-05 01:15:53] Client PID: 310 connected as "client_7"
+[2024-05-05 01:21:17] Server is started
+[2024-05-05 01:21:17] Server PID: 314
+[2024-05-05 01:21:24] Client PID: 316 connected as "client_0"
+[2024-05-05 01:22:18] Client PID: 316 is disconnected
+[2024-05-05 01:22:32] Server is started
+[2024-05-05 01:22:32] Server PID: 329
+[2024-05-05 01:22:38] Client PID: 330 connected as "client_0"
+[2024-05-05 01:27:03] Client PID: 330 is disconnected
+[2024-05-05 01:27:17] Server is started
+[2024-05-05 01:27:17] Server PID: 334
+[2024-05-05 01:27:23] Client PID: 335 connected as "client_0"
+[2024-05-05 01:27:29] Client PID: 335 is disconnected
+[2024-05-05 01:27:38] Server is started
+[2024-05-05 01:27:38] Server PID: 349
+[2024-05-05 01:27:43] Client PID: 350 connected as "client_0"
+[2024-05-05 01:31:33] Client PID: 350 is disconnected
+[2024-05-05 01:32:07] Server is started
+[2024-05-05 01:32:07] Server PID: 363
+[2024-05-05 01:32:12] Client PID: 364 connected as "client_0"
+[2024-05-05 01:33:45] Client PID: 364 is disconnected
+[2024-05-05 01:33:50] Client PID: 377 connected as "client_1"
+[2024-05-05 01:45:55] Client PID: 377 is disconnected
+[2024-05-05 01:45:58] Server is started
+[2024-05-05 01:45:58] Server PID: 390
+[2024-05-05 01:46:01] Client PID: 391 connected as "client_0"
+[2024-05-05 01:47:40] Client PID: 391 is disconnected
+[2024-05-05 01:47:43] Server is started
+[2024-05-05 01:47:43] Server PID: 404
+[2024-05-05 01:47:47] Client PID: 405 connected as "client_0"
+[2024-05-05 01:49:54] Client PID: 405 is disconnected
+[2024-05-05 01:49:57] Server is started
+[2024-05-05 01:49:57] Server PID: 418
+[2024-05-05 01:50:04] Client PID: 419 connected as "client_0"
+[2024-05-05 01:50:44] Client PID: 419 is disconnected
+[2024-05-05 01:50:47] Server is started
+[2024-05-05 01:50:47] Server PID: 432
+[2024-05-05 01:50:53] Client PID: 433 connected as "client_0"
+[2024-05-05 01:53:14] Client PID: 433 is disconnected
+[2024-05-05 01:53:17] Server is started
+[2024-05-05 01:53:17] Server PID: 446
+[2024-05-05 01:53:23] Client PID: 447 connected as "client_0"
+[2024-05-05 01:54:06] Client PID: 447 is disconnected
+[2024-05-05 01:56:24] Server is started
+[2024-05-05 01:56:24] Server PID: 463
+[2024-05-05 01:56:29] Client PID: 464 connected as "client_0"
+[2024-05-05 01:56:50] Client PID: 464 is disconnected
+[2024-05-05 01:57:14] Server is started
+[2024-05-05 01:57:14] Server PID: 477
+[2024-05-05 01:57:19] Client PID: 478 connected as "client_0"
+[2024-05-05 01:59:57] Server is started
+[2024-05-05 01:59:57] Server PID: 492
+[2024-05-05 02:00:00] Client PID: 493 connected as "client_0"
+[2024-05-05 02:02:13] Client PID: 493 is disconnected
+[2024-05-05 02:02:16] Server is started
+[2024-05-05 02:02:16] Server PID: 506
+[2024-05-05 02:02:19] Client PID: 507 connected as "client_0"
+[2024-05-05 02:24:07] Client PID: 507 is disconnected
+[2024-05-05 02:24:12] Server is started
+[2024-05-05 02:24:12] Server PID: 520
+[2024-05-05 02:24:23] Client PID: 521 connected as "client_0"
+[2024-05-05 02:27:10] Client PID: 521 is disconnected
+[2024-05-05 02:27:13] Server is started
+[2024-05-05 02:27:13] Server PID: 534
+[2024-05-05 02:27:16] Client PID: 535 connected as "client_0"
+[2024-05-05 02:28:26] Client PID: 535 is disconnected
+[2024-05-05 02:28:37] Server is started
+[2024-05-05 02:28:37] Server PID: 537
+[2024-05-05 02:28:41] Client PID: 538 connected as "client_0"
+[2024-05-05 02:29:58] Client PID: 538 is disconnected
+[2024-05-05 02:30:04] Server is started
+[2024-05-05 02:30:04] Server PID: 551
+[2024-05-05 02:30:07] Client PID: 552 connected as "client_0"
+[2024-05-05 02:30:36] Client PID: 552 is disconnected
+[2024-05-05 02:30:40] Server is started
+[2024-05-05 02:30:40] Server PID: 565
+[2024-05-05 02:30:44] Client PID: 566 connected as "client_0"
+[2024-05-05 02:31:58] Client PID: 566 is disconnected
+[2024-05-05 02:32:01] Server is started
+[2024-05-05 02:32:01] Server PID: 579
+[2024-05-05 02:32:04] Client PID: 580 connected as "client_0"
+[2024-05-05 02:33:02] Client PID: 580 is disconnected
+[2024-05-05 02:33:05] Server is started
+[2024-05-05 02:33:05] Server PID: 593
+[2024-05-05 02:33:08] Client PID: 594 connected as "client_0"
+[2024-05-05 02:33:45] Client PID: 594 is disconnected
+[2024-05-05 02:34:08] Server is started
+[2024-05-05 02:34:08] Server PID: 609
+[2024-05-05 02:34:12] Client PID: 610 connected as "client_0"
+[2024-05-05 02:38:50] Client PID: 610 is disconnected
+[2024-05-05 02:38:57] Server is started
+[2024-05-05 02:38:57] Server PID: 612
+[2024-05-05 02:39:00] Client PID: 613 connected as "client_0"
+[2024-05-05 02:39:20] Client PID: 613 is disconnected
+[2024-05-05 02:40:13] Server is started
+[2024-05-05 02:40:13] Server PID: 627
+[2024-05-05 02:40:17] Client PID: 628 connected as "client_0"
+[2024-05-05 02:42:46] Server is started
+[2024-05-05 02:42:46] Server PID: 632
+[2024-05-05 02:42:49] Client PID: 633 connected as "client_0"
+[2024-05-05 02:43:36] Server is started
+[2024-05-05 02:43:36] Server PID: 637
+[2024-05-05 02:43:39] Client PID: 638 connected as "client_0"
+[2024-05-05 02:45:00] Server is started
+[2024-05-05 02:45:00] Server PID: 652
+[2024-05-05 02:45:04] Client PID: 653 connected as "client_0"
+[2024-05-05 02:45:40] Server is started
+[2024-05-05 02:45:40] Server PID: 667
+[2024-05-05 02:45:43] Client PID: 668 connected as "client_0"
+[2024-05-05 02:47:32] Server is started
+[2024-05-05 02:47:32] Server PID: 672
+[2024-05-05 02:47:41] Client PID: 685 connected as "client_0"
+[2024-05-05 02:50:29] Client PID: 685 is disconnected
+[2024-05-05 02:50:33] Server is started
+[2024-05-05 02:50:33] Server PID: 698
+[2024-05-05 02:50:36] Client PID: 699 connected as "client_0"
+[2024-05-05 02:51:00] Client PID: 699 is disconnected
+[2024-05-05 03:00:10] Server is started
+[2024-05-05 03:00:10] Server PID: 723
+[2024-05-05 03:00:17] Client PID: 724 connected as "client_0"
+[2024-05-05 03:05:18] Client PID: 724 is disconnected
+[2024-05-05 03:07:22] Server is started
+[2024-05-05 03:07:22] Server PID: 753
+[2024-05-05 03:07:26] Client PID: 754 connected as "client_0"
+[2024-05-05 03:07:44] Client PID: 754 is disconnected
+[2024-05-05 03:11:35] Client PID: 757 connected as "client_1"
+[2024-05-05 03:23:59] Client PID: 757 is disconnected
+[2024-05-05 03:25:32] Server is started
+[2024-05-05 03:25:32] Server PID: 792
+[2024-05-05 03:25:35] Client PID: 793 connected as "client_0"
+[2024-05-05 03:34:27] Client PID: 793 is disconnected
+[2024-05-05 03:35:50] Server is started
+[2024-05-05 03:35:50] Server PID: 795
+[2024-05-05 03:35:54] Client PID: 796 connected as "client_0"
+[2024-05-05 03:37:37] Client PID: 796 is disconnected
+[2024-05-05 03:38:59] Server is started
+[2024-05-05 03:38:59] Server PID: 809
+[2024-05-05 03:39:04] Client PID: 810 connected as "client_0"
+[2024-05-05 03:39:22] Client PID: 810 is disconnected
+[2024-05-05 03:39:32] Client PID: 812 connected as "client_1"
+[2024-05-05 03:39:41] Client PID: 812 is disconnected
+[2024-05-05 03:39:56] Server is started
+[2024-05-05 03:39:56] Server PID: 814
+[2024-05-05 03:40:06] Client PID: 817 connected as "client_0"
+[2024-05-05 03:40:13] Client PID: 817 is disconnected
+[2024-05-05 03:41:41] Server is started
+[2024-05-05 03:41:41] Server PID: 819
+[2024-05-05 03:41:46] Client PID: 820 connected as "client_0"
+[2024-05-05 03:42:23] Client PID: 820 is disconnected
+[2024-05-05 03:42:35] Server is started
+[2024-05-05 03:42:35] Server PID: 833
+[2024-05-05 03:42:40] Client PID: 834 connected as "client_0"
+[2024-05-05 03:43:31] Client PID: 834 is disconnected
+[2024-05-05 03:44:34] Server is started
+[2024-05-05 03:44:34] Server PID: 882
+[2024-05-05 03:44:40] Client PID: 883 connected as "client_0"
+[2024-05-05 03:44:55] Client PID: 883 is disconnected
+[2024-05-05 03:45:15] Client PID: 887 connected as "client_1"
+[2024-05-05 03:45:30] Client PID: 887 is disconnected
+[2024-05-05 03:46:31] Client PID: 901 connected as "client_2"
+[2024-05-05 03:46:49] Client PID: 901 is disconnected
+[2024-05-05 03:49:03] Server is started
+[2024-05-05 03:49:03] Server PID: 926
+[2024-05-05 03:49:18] Client PID: 927 connected as "client_0"
+[2024-05-05 03:49:58] Client PID: 927 is disconnected
+[2024-05-05 03:49:59] Client PID: 929 connected as "client_1"
+[2024-05-05 03:50:30] Client PID: 929 is disconnected
+[2024-05-05 03:50:33] Client PID: 942 connected as "client_2"
+[2024-05-05 03:51:09] Client PID: 942 is disconnected
+[2024-05-05 03:52:31] Client PID: 956 connected as "client_3"
+[2024-05-05 03:53:10] Client PID: 956 is disconnected
+[2024-05-05 03:54:47] Client PID: 971 connected as "client_4"
+[2024-05-05 03:54:52] Client PID: 971 is disconnected
+[2024-05-05 03:55:03] Client PID: 973 connected as "client_5"
+[2024-05-05 03:55:09] Client PID: 973 is disconnected
+[2024-05-05 03:58:47] Client PID: 1008 connected as "client_6"
+[2024-05-05 03:58:58] Client PID: 1008 is disconnected
+[2024-05-05 04:00:54] Server is started
+[2024-05-05 04:00:54] Server PID: 1043
+[2024-05-05 04:01:00] Client PID: 1044 connected as "client_0"
+[2024-05-05 04:01:51] Client PID: 1044 is disconnected
+[2024-05-05 04:02:04] Server is started
+[2024-05-05 04:02:04] Server PID: 1057
+[2024-05-05 04:02:07] Client PID: 1058 connected as "client_0"
+[2024-05-05 04:02:51] Client PID: 1058 is disconnected
+[2024-05-05 04:03:08] Server is started
+[2024-05-05 04:03:08] Server PID: 1071
+[2024-05-05 04:03:13] Client PID: 1072 connected as "client_0"
+[2024-05-05 04:03:28] Client PID: 1072 is disconnected
+[2024-05-05 04:04:03] Client PID: 1077 connected as "client_1"
+[2024-05-05 04:04:35] Client PID: 1077 is disconnected
+[2024-05-05 04:05:08] Server is started
+[2024-05-05 04:05:08] Server PID: 1090
+[2024-05-05 04:05:14] Client PID: 1091 connected as "client_0"
+[2024-05-05 04:05:23] Client PID: 1091 is disconnected
+[2024-05-05 04:05:32] Client PID: 1095 connected as "client_1"
+[2024-05-05 04:05:43] Client PID: 1095 is disconnected
+[2024-05-05 04:08:32] Client PID: 1103 connected as "client_2"
+[2024-05-05 04:08:59] Client PID: 1103 is disconnected
+[2024-05-05 04:09:28] Client PID: 1107 connected as "client_3"
+[2024-05-05 04:11:29] Client PID: 1107 is disconnected
+[2024-05-05 04:11:32] Client PID: 1120 connected as "client_4"
+[2024-05-05 04:12:01] Client PID: 1120 is disconnected
+[2024-05-05 04:14:31] Server is started
+[2024-05-05 04:14:31] Server PID: 1133
+[2024-05-05 04:14:36] Client PID: 1134 connected as "client_0"
+[2024-05-05 04:16:07] Server is started
+[2024-05-05 04:16:07] Server PID: 1147
+[2024-05-05 04:16:11] Client PID: 1148 connected as "client_0"
+[2024-05-05 04:17:20] Client PID: 1148 is disconnected
+[2024-05-05 04:18:26] Server is started
+[2024-05-05 04:18:26] Server PID: 1151
+[2024-05-05 04:18:30] Client PID: 1152 connected as "client_0"
+[2024-05-05 04:19:55] Client PID: 1152 is disconnected
+[2024-05-05 04:19:59] Client PID: 1166 connected as "client_1"
+[2024-05-05 04:20:08] Client PID: 1166 is disconnected
+[2024-05-05 04:20:48] Server is started
+[2024-05-05 04:20:48] Server PID: 1170
+[2024-05-05 04:20:54] Client PID: 1171 connected as "client_0"
+[2024-05-05 04:21:37] Client PID: 1171 is disconnected
+[2024-05-05 04:21:48] Server is started
+[2024-05-05 04:21:48] Server PID: 1175
+[2024-05-05 04:21:56] Client PID: 1179 connected as "client_0"
+[2024-05-05 04:22:00] Client PID: 1179 is disconnected
+[2024-05-05 04:22:44] Server is started
+[2024-05-05 04:22:44] Server PID: 1182
+[2024-05-05 04:22:52] Client PID: 1184 connected as "client_0"
+[2024-05-05 04:23:06] Server is terminated
+[2024-05-05 04:23:29] Server is started
+[2024-05-05 04:23:29] Server PID: 1186
+[2024-05-05 04:23:41] Server is started
+[2024-05-05 04:23:41] Server PID: 1200
+[2024-05-05 04:24:03] Client PID: 1201 connected as "client_0"
+[2024-05-05 04:24:18] Client PID: 1203 connected as "client_1"
+[2024-05-05 04:24:27] Client PID: 1205 connected as "client_2"
+[2024-05-05 04:24:36] Client PID: 1208 connected as "client_3"
+[2024-05-05 04:24:44] Server is terminated

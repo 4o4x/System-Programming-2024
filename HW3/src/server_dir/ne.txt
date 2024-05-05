@@ -1,0 +1,6 @@
+./server deneme 10
+Server PID: 758
+Request: 761 0 0 
+Client PID: 761 connected as "client_0"
+Client PID: 761 connected as "client_0"
+Client_child

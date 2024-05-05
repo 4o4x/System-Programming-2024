@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "__locale": "c"
+        "__locale": "c",
+        "istream": "c",
+        "__verbose_abort": "c",
+        "cstdio": "c"
     }
 }
