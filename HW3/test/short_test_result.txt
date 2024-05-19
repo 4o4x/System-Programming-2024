@@ -1,0 +1,46 @@
+
+-> Pickup 1 owner arrives.
+
++ Pickup 1 is parked in temporary parking.
+
+# Vale takes the pickup 1 from temporary parking.
+# Pickup 1 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 0
+
+-> Automobile 1 owner arrives.
+
++ Automobile 1 is parked in temporary parking.
+
+# Vale takes the automobile 1 from temporary parking.
+# Automobile 1 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 1
+
+-> Automobile 2 owner arrives.
+
++ Automobile 2 is parked in temporary parking.
+
+# Vale takes the automobile 2 from temporary parking.
+# Automobile 2 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 0
+
+-> Pickup 2 owner arrives.
+
++ Pickup 2 is parked in temporary parking.
+
+- The parking lot is full. Pickup 2 owner leaves the temporary parking slot.
+
+$ Pickup 1 owner leaves the park slot.Free parking spots on Pickup: 1
+
+-> Pickup 3 owner arrives.
+
++ Pickup 3 is parked in temporary parking.
+
+# Vale takes the pickup 3 from temporary parking.
+# Pickup 3 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 0
+
+$ Automobile 1 owner leaves the park slot. Free parking spots on Automobile: 1
+
+$ Automobile 2 owner leaves the park slot. Free parking spots on Automobile: 2
+
+$ Pickup 3 owner leaves the park slot.Free parking spots on Pickup: 1

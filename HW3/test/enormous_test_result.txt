@@ -1,0 +1,5003 @@
+
+-> Automobile 1 owner arrives.
+
++ Automobile 1 is parked in temporary parking.
+
+# Vale takes the automobile 1 from temporary parking.
+# Automobile 1 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 199
+
+-> Automobile 2 owner arrives.
+
++ Automobile 2 is parked in temporary parking.
+
+# Vale takes the automobile 2 from temporary parking.
+# Automobile 2 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 198
+
+-> Automobile 3 owner arrives.
+
++ Automobile 3 is parked in temporary parking.
+
+-> Pickup 1 owner arrives.
+
++ Pickup 1 is parked in temporary parking.
+
+-> Automobile 4 owner arrives.
+
+# Vale takes the pickup 1 from temporary parking.
+# Pickup 1 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 99
+
+# Vale takes the automobile 4 from temporary parking.
+# Automobile 4 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 197
+
++ Automobile 4 is parked in temporary parking.
+
+# Vale takes the automobile 4 from temporary parking.
+# Automobile 4 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 196
+
+-> Automobile 5 owner arrives.
+
++ Automobile 5 is parked in temporary parking.
+
+# Vale takes the automobile 5 from temporary parking.
+# Automobile 5 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 195
+
+-> Automobile 6 owner arrives.
+
++ Automobile 6 is parked in temporary parking.
+
+# Vale takes the automobile 6 from temporary parking.
+# Automobile 6 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 194
+
+-> Automobile 7 owner arrives.
+
++ Automobile 7 is parked in temporary parking.
+
+# Vale takes the automobile 7 from temporary parking.
+# Automobile 7 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 193
+
+-> Automobile 8 owner arrives.
+
++ Automobile 8 is parked in temporary parking.
+
+# Vale takes the automobile 8 from temporary parking.
+# Automobile 8 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 192
+
+-> Pickup 2 owner arrives.
+
++ Pickup 2 is parked in temporary parking.
+
+# Vale takes the pickup 2 from temporary parking.
+# Pickup 2 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 98
+
+-> Pickup 3 owner arrives.
+
++ Pickup 3 is parked in temporary parking.
+
+# Vale takes the pickup 3 from temporary parking.
+# Pickup 3 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 97
+
+-> Pickup 4 owner arrives.
+
++ Pickup 4 is parked in temporary parking.
+
+# Vale takes the pickup 4 from temporary parking.
+# Pickup 4 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 96
+
+-> Pickup 5 owner arrives.
+
++ Pickup 5 is parked in temporary parking.
+
+# Vale takes the pickup 5 from temporary parking.
+# Pickup 5 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 95
+
+-> Pickup 6 owner arrives.
+
++ Pickup 6 is parked in temporary parking.
+
+# Vale takes the pickup 6 from temporary parking.
+# Pickup 6 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 94
+
+-> Automobile 9 owner arrives.
+
++ Automobile 9 is parked in temporary parking.
+
+# Vale takes the automobile 9 from temporary parking.
+# Automobile 9 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 191
+
+-> Automobile 10 owner arrives.
+
++ Automobile 10 is parked in temporary parking.
+
+-> Pickup 7 owner arrives.
+
++ Pickup 7 is parked in temporary parking.
+
+# Vale takes the automobile 10 from temporary parking.
+# Automobile 10 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 190
+
+# Vale takes the pickup 7 from temporary parking.
+# Pickup 7 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 93
+
+-> Automobile 11 owner arrives.
+
++ Automobile 11 is parked in temporary parking.
+
+# Vale takes the automobile 11 from temporary parking.
+# Automobile 11 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 189
+
+-> Pickup 8 owner arrives.
+
++ Pickup 8 is parked in temporary parking.
+
+# Vale takes the pickup 8 from temporary parking.
+# Pickup 8 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 92
+
+-> Automobile 12 owner arrives.
+
++ Automobile 12 is parked in temporary parking.
+
+# Vale takes the automobile 12 from temporary parking.
+# Automobile 12 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 188
+
+-> Automobile 13 owner arrives.
+
++ Automobile 13 is parked in temporary parking.
+
+# Vale takes the automobile 13 from temporary parking.
+# Automobile 13 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 187
+
+-> Automobile 14 owner arrives.
+
++ Automobile 14 is parked in temporary parking.
+
+# Vale takes the automobile 14 from temporary parking.
+# Automobile 14 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 186
+
+-> Automobile 15 owner arrives.
+
++ Automobile 15 is parked in temporary parking.
+
+# Vale takes the automobile 15 from temporary parking.
+# Automobile 15 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 185
+
+-> Pickup 9 owner arrives.
+
++ Pickup 9 is parked in temporary parking.
+
+# Vale takes the pickup 9 from temporary parking.
+# Pickup 9 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 91
+
+-> Pickup 10 owner arrives.
+
++ Pickup 10 is parked in temporary parking.
+
+# Vale takes the pickup 10 from temporary parking.
+# Pickup 10 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 90
+
+-> Pickup 11 owner arrives.
+
++ Pickup 11 is parked in temporary parking.
+
+# Vale takes the pickup 11 from temporary parking.
+# Pickup 11 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 89
+
+-> Pickup 12 owner arrives.
+
++ Pickup 12 is parked in temporary parking.
+
+# Vale takes the pickup 12 from temporary parking.
+# Pickup 12 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 88
+
+-> Pickup 13 owner arrives.
+
++ Pickup 13 is parked in temporary parking.
+
+# Vale takes the pickup 13 from temporary parking.
+# Pickup 13 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 87
+
+-> Automobile 16 owner arrives.
+
++ Automobile 16 is parked in temporary parking.
+
+-> Pickup 14 owner arrives.
+
++ Pickup 14 is parked in temporary parking.
+
+# Vale takes the automobile 16 from temporary parking.
+# Automobile 16 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 184
+
+# Vale takes the pickup 14 from temporary parking.
+# Pickup 14 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 86
+
+-> Automobile 17 owner arrives.
+
++ Automobile 17 is parked in temporary parking.
+
+# Vale takes the automobile 17 from temporary parking.
+# Automobile 17 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 183
+
+-> Pickup 15 owner arrives.
+
++ Pickup 15 is parked in temporary parking.
+
+# Vale takes the pickup 15 from temporary parking.
+# Pickup 15 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 85
+
+-> Pickup 16 owner arrives.
+
++ Pickup 16 is parked in temporary parking.
+
+# Vale takes the pickup 16 from temporary parking.
+# Pickup 16 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 84
+
+-> Pickup 17 owner arrives.
+
++ Pickup 17 is parked in temporary parking.
+
+# Vale takes the pickup 17 from temporary parking.
+# Pickup 17 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 83
+
+-> Pickup 18 owner arrives.
+
++ Pickup 18 is parked in temporary parking.
+
+# Vale takes the pickup 18 from temporary parking.
+# Pickup 18 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 82
+
+-> Pickup 19 owner arrives.
+
++ Pickup 19 is parked in temporary parking.
+
+# Vale takes the pickup 19 from temporary parking.
+# Pickup 19 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 81
+
+-> Automobile 18 owner arrives.
+
++ Automobile 18 is parked in temporary parking.
+
+# Vale takes the automobile 18 from temporary parking.
+# Automobile 18 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 182
+
+-> Automobile 19 owner arrives.
+
++ Automobile 19 is parked in temporary parking.
+
+# Vale takes the automobile 19 from temporary parking.
+# Automobile 19 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 181
+
+-> Pickup 20 owner arrives.
+
++ Pickup 20 is parked in temporary parking.
+
+# Vale takes the pickup 20 from temporary parking.
+# Pickup 20 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 80
+
+-> Automobile 20 owner arrives.
+
++ Automobile 20 is parked in temporary parking.
+
+# Vale takes the automobile 20 from temporary parking.
+# Automobile 20 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 180
+
+-> Pickup 21 owner arrives.
+
++ Pickup 21 is parked in temporary parking.
+
+# Vale takes the pickup 21 from temporary parking.
+# Pickup 21 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 79
+
+-> Automobile 21 owner arrives.
+
++ Automobile 21 is parked in temporary parking.
+
+# Vale takes the automobile 21 from temporary parking.
+# Automobile 21 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 179
+
+-> Pickup 22 owner arrives.
+
++ Pickup 22 is parked in temporary parking.
+
+# Vale takes the pickup 22 from temporary parking.
+# Pickup 22 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 78
+
+-> Automobile 22 owner arrives.
+
++ Automobile 22 is parked in temporary parking.
+
+# Vale takes the automobile 22 from temporary parking.
+# Automobile 22 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 178
+
+-> Automobile 23 owner arrives.
+
++ Automobile 23 is parked in temporary parking.
+
+# Vale takes the automobile 23 from temporary parking.
+# Automobile 23 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 177
+
+-> Automobile 24 owner arrives.
+
++ Automobile 24 is parked in temporary parking.
+
+# Vale takes the automobile 24 from temporary parking.
+# Automobile 24 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 176
+
+-> Automobile 25 owner arrives.
+
++ Automobile 25 is parked in temporary parking.
+
+-> Pickup 23 owner arrives.
+
++ Pickup 23 is parked in temporary parking.
+
+# Vale takes the pickup 23 from temporary parking.
+# Pickup 23 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 77
+
+# Vale takes the automobile 25 from temporary parking.
+# Automobile 25 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 175
+
+-> Pickup 24 owner arrives.
+
++ Pickup 24 is parked in temporary parking.
+
+# Vale takes the pickup 24 from temporary parking.
+# Pickup 24 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 76
+
+-> Pickup 25 owner arrives.
+
++ Pickup 25 is parked in temporary parking.
+
+# Vale takes the pickup 25 from temporary parking.
+# Pickup 25 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 75
+
+-> Automobile 26 owner arrives.
+
++ Automobile 26 is parked in temporary parking.
+
+# Vale takes the automobile 26 from temporary parking.
+# Automobile 26 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 174
+
+-> Pickup 26 owner arrives.
+
++ Pickup 26 is parked in temporary parking.
+
+# Vale takes the pickup 26 from temporary parking.
+# Pickup 26 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 74
+
+-> Automobile 27 owner arrives.
+
++ Automobile 27 is parked in temporary parking.
+
+# Vale takes the automobile 27 from temporary parking.
+# Automobile 27 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 173
+
+-> Pickup 27 owner arrives.
+
+-> Pickup 28 owner arrives.
+
++ Pickup 27 is parked in temporary parking.
+
+# Vale takes the pickup 28 from temporary parking.
+# Pickup 28 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 73
+
++ Pickup 28 is parked in temporary parking.
+
+# Vale takes the pickup 28 from temporary parking.
+# Pickup 28 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 72
+
+-> Automobile 28 owner arrives.
+
++ Automobile 28 is parked in temporary parking.
+
+# Vale takes the automobile 28 from temporary parking.
+# Automobile 28 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 172
+
+-> Pickup 29 owner arrives.
+
++ Pickup 29 is parked in temporary parking.
+
+# Vale takes the pickup 29 from temporary parking.
+# Pickup 29 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 71
+
+-> Automobile 29 owner arrives.
+
++ Automobile 29 is parked in temporary parking.
+
+# Vale takes the automobile 29 from temporary parking.
+# Automobile 29 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 171
+
+-> Automobile 30 owner arrives.
+
++ Automobile 30 is parked in temporary parking.
+
+# Vale takes the automobile 30 from temporary parking.
+# Automobile 30 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 170
+
+-> Automobile 31 owner arrives.
+
++ Automobile 31 is parked in temporary parking.
+
+# Vale takes the automobile 31 from temporary parking.
+# Automobile 31 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 169
+
+-> Pickup 30 owner arrives.
+
++ Pickup 30 is parked in temporary parking.
+
+# Vale takes the pickup 30 from temporary parking.
+# Pickup 30 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 70
+
+-> Pickup 31 owner arrives.
+
++ Pickup 31 is parked in temporary parking.
+
+# Vale takes the pickup 31 from temporary parking.
+# Pickup 31 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 69
+
+-> Pickup 32 owner arrives.
+
++ Pickup 32 is parked in temporary parking.
+
+# Vale takes the pickup 32 from temporary parking.
+# Pickup 32 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 68
+
+-> Automobile 32 owner arrives.
+
++ Automobile 32 is parked in temporary parking.
+
+# Vale takes the automobile 32 from temporary parking.
+# Automobile 32 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 168
+
+-> Pickup 33 owner arrives.
+
++ Pickup 33 is parked in temporary parking.
+
+# Vale takes the pickup 33 from temporary parking.
+# Pickup 33 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 67
+
+-> Pickup 34 owner arrives.
+
++ Pickup 34 is parked in temporary parking.
+
+# Vale takes the pickup 34 from temporary parking.
+# Pickup 34 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 66
+
+-> Pickup 35 owner arrives.
+
++ Pickup 35 is parked in temporary parking.
+
+# Vale takes the pickup 35 from temporary parking.
+# Pickup 35 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 65
+
+-> Automobile 33 owner arrives.
+
++ Automobile 33 is parked in temporary parking.
+
+# Vale takes the automobile 33 from temporary parking.
+# Automobile 33 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 167
+
+-> Automobile 34 owner arrives.
+
++ Automobile 34 is parked in temporary parking.
+
+# Vale takes the automobile 34 from temporary parking.
+# Automobile 34 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 166
+
+-> Pickup 36 owner arrives.
+
++ Pickup 36 is parked in temporary parking.
+
+# Vale takes the pickup 36 from temporary parking.
+# Pickup 36 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 64
+
+-> Pickup 37 owner arrives.
+
++ Pickup 37 is parked in temporary parking.
+
+# Vale takes the pickup 37 from temporary parking.
+# Pickup 37 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 63
+
+-> Pickup 38 owner arrives.
+
++ Pickup 38 is parked in temporary parking.
+
+# Vale takes the pickup 38 from temporary parking.
+# Pickup 38 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 62
+
+-> Pickup 39 owner arrives.
+
++ Pickup 39 is parked in temporary parking.
+
+# Vale takes the pickup 39 from temporary parking.
+# Pickup 39 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 61
+
+-> Automobile 35 owner arrives.
+
++ Automobile 35 is parked in temporary parking.
+
+# Vale takes the automobile 35 from temporary parking.
+# Automobile 35 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 165
+
+-> Automobile 36 owner arrives.
+
++ Automobile 36 is parked in temporary parking.
+
+# Vale takes the automobile 36 from temporary parking.
+# Automobile 36 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 164
+
+-> Pickup 40 owner arrives.
+
++ Pickup 40 is parked in temporary parking.
+
+# Vale takes the pickup 40 from temporary parking.
+# Pickup 40 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 60
+
+-> Automobile 37 owner arrives.
+
++ Automobile 37 is parked in temporary parking.
+
+# Vale takes the automobile 37 from temporary parking.
+# Automobile 37 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 163
+
+-> Automobile 38 owner arrives.
+
++ Automobile 38 is parked in temporary parking.
+
+# Vale takes the automobile 38 from temporary parking.
+# Automobile 38 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 162
+
+-> Automobile 39 owner arrives.
+
++ Automobile 39 is parked in temporary parking.
+
+# Vale takes the automobile 39 from temporary parking.
+# Automobile 39 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 161
+
+-> Automobile 40 owner arrives.
+
++ Automobile 40 is parked in temporary parking.
+
+# Vale takes the automobile 40 from temporary parking.
+# Automobile 40 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 160
+
+-> Automobile 41 owner arrives.
+
++ Automobile 41 is parked in temporary parking.
+
+# Vale takes the automobile 41 from temporary parking.
+# Automobile 41 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 159
+
+-> Pickup 41 owner arrives.
+
++ Pickup 41 is parked in temporary parking.
+
+# Vale takes the pickup 41 from temporary parking.
+# Pickup 41 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 59
+
+-> Pickup 42 owner arrives.
+
++ Pickup 42 is parked in temporary parking.
+
+# Vale takes the pickup 42 from temporary parking.
+# Pickup 42 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 58
+
+-> Pickup 43 owner arrives.
+
++ Pickup 43 is parked in temporary parking.
+
+# Vale takes the pickup 43 from temporary parking.
+# Pickup 43 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 57
+
+-> Automobile 42 owner arrives.
+
++ Automobile 42 is parked in temporary parking.
+
+# Vale takes the automobile 42 from temporary parking.
+# Automobile 42 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 158
+
+-> Automobile 43 owner arrives.
+
++ Automobile 43 is parked in temporary parking.
+
+# Vale takes the automobile 43 from temporary parking.
+# Automobile 43 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 157
+
+-> Automobile 44 owner arrives.
+
++ Automobile 44 is parked in temporary parking.
+
+# Vale takes the automobile 44 from temporary parking.
+# Automobile 44 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 156
+
+-> Automobile 45 owner arrives.
+
++ Automobile 45 is parked in temporary parking.
+
+# Vale takes the automobile 45 from temporary parking.
+# Automobile 45 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 155
+
+-> Pickup 44 owner arrives.
+
++ Pickup 44 is parked in temporary parking.
+
+# Vale takes the pickup 44 from temporary parking.
+# Pickup 44 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 56
+
+-> Automobile 46 owner arrives.
+
++ Automobile 46 is parked in temporary parking.
+
+# Vale takes the automobile 46 from temporary parking.
+# Automobile 46 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 154
+
+-> Automobile 47 owner arrives.
+
++ Automobile 47 is parked in temporary parking.
+
+# Vale takes the automobile 47 from temporary parking.
+# Automobile 47 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 153
+
+-> Pickup 45 owner arrives.
+
++ Pickup 45 is parked in temporary parking.
+
+# Vale takes the pickup 45 from temporary parking.
+# Pickup 45 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 55
+
+-> Pickup 46 owner arrives.
+
++ Pickup 46 is parked in temporary parking.
+
+# Vale takes the pickup 46 from temporary parking.
+# Pickup 46 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 54
+
+-> Automobile 48 owner arrives.
+
++ Automobile 48 is parked in temporary parking.
+
+# Vale takes the automobile 48 from temporary parking.
+# Automobile 48 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 152
+
+-> Pickup 47 owner arrives.
+
++ Pickup 47 is parked in temporary parking.
+
+# Vale takes the pickup 47 from temporary parking.
+# Pickup 47 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 53
+
+-> Automobile 49 owner arrives.
+
++ Automobile 49 is parked in temporary parking.
+
+# Vale takes the automobile 49 from temporary parking.
+# Automobile 49 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 151
+
+-> Automobile 50 owner arrives.
+
++ Automobile 50 is parked in temporary parking.
+
+# Vale takes the automobile 50 from temporary parking.
+# Automobile 50 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 150
+
+-> Automobile 51 owner arrives.
+
++ Automobile 51 is parked in temporary parking.
+
+# Vale takes the automobile 51 from temporary parking.
+# Automobile 51 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 149
+
+-> Automobile 52 owner arrives.
+
++ Automobile 52 is parked in temporary parking.
+
+-> Pickup 48 owner arrives.
+
++ Pickup 48 is parked in temporary parking.
+
+# Vale takes the automobile 52 from temporary parking.
+# Automobile 52 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 148
+
+# Vale takes the pickup 48 from temporary parking.
+# Pickup 48 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 52
+
+-> Pickup 49 owner arrives.
+
++ Pickup 49 is parked in temporary parking.
+
+# Vale takes the pickup 49 from temporary parking.
+# Pickup 49 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 51
+
+-> Pickup 50 owner arrives.
+
++ Pickup 50 is parked in temporary parking.
+
+# Vale takes the pickup 50 from temporary parking.
+# Pickup 50 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 50
+
+-> Automobile 53 owner arrives.
+
++ Automobile 53 is parked in temporary parking.
+
+# Vale takes the automobile 53 from temporary parking.
+# Automobile 53 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 147
+
+-> Automobile 54 owner arrives.
+
++ Automobile 54 is parked in temporary parking.
+
+# Vale takes the automobile 54 from temporary parking.
+# Automobile 54 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 146
+
+-> Automobile 55 owner arrives.
+
++ Automobile 55 is parked in temporary parking.
+
+# Vale takes the automobile 55 from temporary parking.
+# Automobile 55 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 145
+
+-> Automobile 56 owner arrives.
+
++ Automobile 56 is parked in temporary parking.
+
+# Vale takes the automobile 56 from temporary parking.
+# Automobile 56 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 144
+
+-> Automobile 57 owner arrives.
+
++ Automobile 57 is parked in temporary parking.
+
+# Vale takes the automobile 57 from temporary parking.
+# Automobile 57 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 143
+
+-> Pickup 51 owner arrives.
+
++ Pickup 51 is parked in temporary parking.
+
+# Vale takes the pickup 51 from temporary parking.
+# Pickup 51 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 49
+
+-> Automobile 58 owner arrives.
+
++ Automobile 58 is parked in temporary parking.
+
+# Vale takes the automobile 58 from temporary parking.
+# Automobile 58 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 142
+
+-> Pickup 52 owner arrives.
+
++ Pickup 52 is parked in temporary parking.
+
+# Vale takes the pickup 52 from temporary parking.
+# Pickup 52 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 48
+
+-> Automobile 59 owner arrives.
+
++ Automobile 59 is parked in temporary parking.
+
+# Vale takes the automobile 59 from temporary parking.
+# Automobile 59 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 141
+
+-> Automobile 60 owner arrives.
+
++ Automobile 60 is parked in temporary parking.
+
+# Vale takes the automobile 60 from temporary parking.
+# Automobile 60 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 140
+
+-> Pickup 53 owner arrives.
+
++ Pickup 53 is parked in temporary parking.
+
+# Vale takes the pickup 53 from temporary parking.
+# Pickup 53 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 47
+
+-> Pickup 54 owner arrives.
+
++ Pickup 54 is parked in temporary parking.
+
+# Vale takes the pickup 54 from temporary parking.
+# Pickup 54 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 46
+
+-> Pickup 55 owner arrives.
+
++ Pickup 55 is parked in temporary parking.
+
+# Vale takes the pickup 55 from temporary parking.
+# Pickup 55 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 45
+
+-> Automobile 61 owner arrives.
+
++ Automobile 61 is parked in temporary parking.
+
+# Vale takes the automobile 61 from temporary parking.
+# Automobile 61 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 139
+
+-> Pickup 56 owner arrives.
+
++ Pickup 56 is parked in temporary parking.
+
+# Vale takes the pickup 56 from temporary parking.
+# Pickup 56 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 44
+
+-> Pickup 57 owner arrives.
+
++ Pickup 57 is parked in temporary parking.
+
+# Vale takes the pickup 57 from temporary parking.
+# Pickup 57 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 43
+
+-> Pickup 58 owner arrives.
+
++ Pickup 58 is parked in temporary parking.
+
+-> Automobile 62 owner arrives.
+
++ Automobile 62 is parked in temporary parking.
+
+# Vale takes the pickup 58 from temporary parking.
+# Pickup 58 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 42
+
+# Vale takes the automobile 62 from temporary parking.
+# Automobile 62 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 138
+
+-> Automobile 63 owner arrives.
+
++ Automobile 63 is parked in temporary parking.
+
+# Vale takes the automobile 63 from temporary parking.
+# Automobile 63 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 137
+
+-> Automobile 64 owner arrives.
+
++ Automobile 64 is parked in temporary parking.
+
+# Vale takes the automobile 64 from temporary parking.
+# Automobile 64 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 136
+
+-> Pickup 59 owner arrives.
+
++ Pickup 59 is parked in temporary parking.
+
+# Vale takes the pickup 59 from temporary parking.
+# Pickup 59 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 41
+
+-> Automobile 65 owner arrives.
+
++ Automobile 65 is parked in temporary parking.
+
+# Vale takes the automobile 65 from temporary parking.
+# Automobile 65 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 135
+
+-> Pickup 60 owner arrives.
+
++ Pickup 60 is parked in temporary parking.
+
+# Vale takes the pickup 60 from temporary parking.
+# Pickup 60 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 40
+
+-> Pickup 61 owner arrives.
+
++ Pickup 61 is parked in temporary parking.
+
+# Vale takes the pickup 61 from temporary parking.
+# Pickup 61 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 39
+
+-> Automobile 66 owner arrives.
+
++ Automobile 66 is parked in temporary parking.
+
+# Vale takes the automobile 66 from temporary parking.
+# Automobile 66 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 134
+
+-> Automobile 67 owner arrives.
+
++ Automobile 67 is parked in temporary parking.
+
+# Vale takes the automobile 67 from temporary parking.
+# Automobile 67 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 133
+
+$ Automobile 13 owner leaves the park slot. Free parking spots on Automobile: 134
+
+-> Automobile 68 owner arrives.
+
+-> Pickup 62 owner arrives.
+
++ Pickup 62 is parked in temporary parking.
+
++ Automobile 68 is parked in temporary parking.
+
+# Vale takes the automobile 68 from temporary parking.
+# Automobile 68 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 133
+
+# Vale takes the pickup 62 from temporary parking.
+# Pickup 62 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 38
+
+-> Pickup 63 owner arrives.
+
++ Pickup 63 is parked in temporary parking.
+
+# Vale takes the pickup 63 from temporary parking.
+# Pickup 63 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 37
+
+-> Automobile 69 owner arrives.
+
++ Automobile 69 is parked in temporary parking.
+
+# Vale takes the automobile 69 from temporary parking.
+# Automobile 69 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 132
+
+$ Automobile 1 owner leaves the park slot. Free parking spots on Automobile: 133
+
+-> Pickup 64 owner arrives.
+
++ Pickup 64 is parked in temporary parking.
+
+# Vale takes the pickup 64 from temporary parking.
+# Pickup 64 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 36
+
+-> Pickup 65 owner arrives.
+
++ Pickup 65 is parked in temporary parking.
+
+# Vale takes the pickup 65 from temporary parking.
+# Pickup 65 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 35
+
+-> Automobile 70 owner arrives.
+
++ Automobile 70 is parked in temporary parking.
+
+# Vale takes the automobile 70 from temporary parking.
+# Automobile 70 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 132
+
+-> Automobile 71 owner arrives.
+
++ Automobile 71 is parked in temporary parking.
+
+# Vale takes the automobile 71 from temporary parking.
+# Automobile 71 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 131
+
+$ Automobile 7 owner leaves the park slot. Free parking spots on Automobile: 132
+
+-> Automobile 72 owner arrives.
+
++ Automobile 72 is parked in temporary parking.
+
+# Vale takes the automobile 72 from temporary parking.
+# Automobile 72 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 131
+
+-> Automobile 73 owner arrives.
+
++ Automobile 73 is parked in temporary parking.
+
+# Vale takes the automobile 73 from temporary parking.
+# Automobile 73 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 130
+
+$ Automobile 4 owner leaves the park slot. Free parking spots on Automobile: 131
+
+-> Automobile 74 owner arrives.
+
++ Automobile 74 is parked in temporary parking.
+
+# Vale takes the automobile 74 from temporary parking.
+# Automobile 74 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 130
+
+-> Automobile 75 owner arrives.
+
++ Automobile 75 is parked in temporary parking.
+
+# Vale takes the automobile 75 from temporary parking.
+# Automobile 75 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 129
+
+-> Pickup 66 owner arrives.
+
++ Pickup 66 is parked in temporary parking.
+
+# Vale takes the pickup 66 from temporary parking.
+# Pickup 66 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 34
+
+-> Automobile 76 owner arrives.
+
++ Automobile 76 is parked in temporary parking.
+
+# Vale takes the automobile 76 from temporary parking.
+# Automobile 76 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 128
+
+-> Automobile 77 owner arrives.
+
++ Automobile 77 is parked in temporary parking.
+
+# Vale takes the automobile 77 from temporary parking.
+# Automobile 77 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 127
+
+-> Automobile 78 owner arrives.
+
++ Automobile 78 is parked in temporary parking.
+
+-> Pickup 67 owner arrives.
+
++ Pickup 67 is parked in temporary parking.
+
+# Vale takes the automobile 78 from temporary parking.
+# Automobile 78 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 126
+
+# Vale takes the pickup 67 from temporary parking.
+# Pickup 67 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 33
+
+-> Automobile 79 owner arrives.
+
++ Automobile 79 is parked in temporary parking.
+
+# Vale takes the automobile 79 from temporary parking.
+# Automobile 79 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 125
+
+-> Automobile 80 owner arrives.
+
++ Automobile 80 is parked in temporary parking.
+
+# Vale takes the automobile 80 from temporary parking.
+# Automobile 80 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 124
+
+-> Pickup 68 owner arrives.
+
++ Pickup 68 is parked in temporary parking.
+
+# Vale takes the pickup 68 from temporary parking.
+# Pickup 68 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 32
+
+$ Pickup 3 owner leaves the park slot.Free parking spots on Pickup: 33
+
+-> Pickup 69 owner arrives.
+
++ Pickup 69 is parked in temporary parking.
+
+# Vale takes the pickup 69 from temporary parking.
+# Pickup 69 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 32
+
+-> Pickup 70 owner arrives.
+
++ Pickup 70 is parked in temporary parking.
+
+# Vale takes the pickup 70 from temporary parking.
+# Pickup 70 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 31
+
+-> Automobile 81 owner arrives.
+
++ Automobile 81 is parked in temporary parking.
+
+# Vale takes the automobile 81 from temporary parking.
+# Automobile 81 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 123
+
+-> Pickup 71 owner arrives.
+
++ Pickup 71 is parked in temporary parking.
+
+# Vale takes the pickup 71 from temporary parking.
+# Pickup 71 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 30
+
+$ Automobile 10 owner leaves the park slot. Free parking spots on Automobile: 124
+
+$ Pickup 21 owner leaves the park slot.Free parking spots on Pickup: 31
+
+-> Pickup 72 owner arrives.
+
++ Pickup 72 is parked in temporary parking.
+
+# Vale takes the pickup 72 from temporary parking.
+# Pickup 72 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 30
+
+-> Automobile 82 owner arrives.
+
++ Automobile 82 is parked in temporary parking.
+
+# Vale takes the automobile 82 from temporary parking.
+# Automobile 82 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 123
+
+-> Automobile 83 owner arrives.
+
++ Automobile 83 is parked in temporary parking.
+
+# Vale takes the automobile 83 from temporary parking.
+# Automobile 83 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 122
+
+-> Pickup 73 owner arrives.
+
++ Pickup 73 is parked in temporary parking.
+
+# Vale takes the pickup 73 from temporary parking.
+# Pickup 73 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 29
+
+-> Automobile 84 owner arrives.
+
++ Automobile 84 is parked in temporary parking.
+
+# Vale takes the automobile 84 from temporary parking.
+# Automobile 84 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 121
+
+-> Pickup 74 owner arrives.
+
++ Pickup 74 is parked in temporary parking.
+
+# Vale takes the pickup 74 from temporary parking.
+# Pickup 74 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 28
+
+-> Automobile 85 owner arrives.
+
++ Automobile 85 is parked in temporary parking.
+
+# Vale takes the automobile 85 from temporary parking.
+# Automobile 85 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 120
+
+-> Pickup 75 owner arrives.
+
++ Pickup 75 is parked in temporary parking.
+
+# Vale takes the pickup 75 from temporary parking.
+# Pickup 75 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 27
+
+-> Pickup 76 owner arrives.
+
++ Pickup 76 is parked in temporary parking.
+
+-> Pickup 77 owner arrives.
+
+# Vale takes the pickup 77 from temporary parking.
+# Pickup 77 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 26
+
++ Pickup 77 is parked in temporary parking.
+
+# Vale takes the pickup 77 from temporary parking.
+# Pickup 77 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 25
+
+$ Automobile 6 owner leaves the park slot. Free parking spots on Automobile: 121
+
+-> Pickup 78 owner arrives.
+
++ Pickup 78 is parked in temporary parking.
+
+# Vale takes the pickup 78 from temporary parking.
+# Pickup 78 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 24
+
+-> Pickup 79 owner arrives.
+
++ Pickup 79 is parked in temporary parking.
+
+# Vale takes the pickup 79 from temporary parking.
+# Pickup 79 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 23
+
+$ Automobile 16 owner leaves the park slot. Free parking spots on Automobile: 122
+
+$ Pickup 23 owner leaves the park slot.Free parking spots on Pickup: 24
+
+-> Automobile 86 owner arrives.
+
++ Automobile 86 is parked in temporary parking.
+
+# Vale takes the automobile 86 from temporary parking.
+# Automobile 86 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 121
+
+-> Pickup 80 owner arrives.
+
++ Pickup 80 is parked in temporary parking.
+
+# Vale takes the pickup 80 from temporary parking.
+# Pickup 80 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 23
+
+-> Pickup 81 owner arrives.
+
++ Pickup 81 is parked in temporary parking.
+
+# Vale takes the pickup 81 from temporary parking.
+# Pickup 81 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 22
+
+$ Pickup 27 owner leaves the park slot.Free parking spots on Pickup: 23
+
+-> Automobile 87 owner arrives.
+
++ Automobile 87 is parked in temporary parking.
+
+-> Automobile 88 owner arrives.
+
+# Vale takes the automobile 88 from temporary parking.
+# Automobile 88 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 120
+
++ Automobile 88 is parked in temporary parking.
+
+# Vale takes the automobile 88 from temporary parking.
+# Automobile 88 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+-> Pickup 82 owner arrives.
+
++ Pickup 82 is parked in temporary parking.
+
+# Vale takes the pickup 82 from temporary parking.
+# Pickup 82 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 22
+
+-> Automobile 89 owner arrives.
+
++ Automobile 89 is parked in temporary parking.
+
+# Vale takes the automobile 89 from temporary parking.
+# Automobile 89 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
+$ Pickup 5 owner leaves the park slot.Free parking spots on Pickup: 23
+
+-> Pickup 83 owner arrives.
+
++ Pickup 83 is parked in temporary parking.
+
+# Vale takes the pickup 83 from temporary parking.
+# Pickup 83 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 22
+
+-> Pickup 84 owner arrives.
+
++ Pickup 84 is parked in temporary parking.
+
+# Vale takes the pickup 84 from temporary parking.
+# Pickup 84 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 21
+
+-> Automobile 90 owner arrives.
+
++ Automobile 90 is parked in temporary parking.
+
+# Vale takes the automobile 90 from temporary parking.
+# Automobile 90 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Automobile 15 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Automobile 30 owner leaves the park slot. Free parking spots on Automobile: 119
+
+-> Pickup 85 owner arrives.
+
++ Pickup 85 is parked in temporary parking.
+
+# Vale takes the pickup 85 from temporary parking.
+# Pickup 85 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 20
+
+-> Automobile 91 owner arrives.
+
++ Automobile 91 is parked in temporary parking.
+
+# Vale takes the automobile 91 from temporary parking.
+# Automobile 91 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
+-> Automobile 92 owner arrives.
+
++ Automobile 92 is parked in temporary parking.
+
+# Vale takes the automobile 92 from temporary parking.
+# Automobile 92 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+-> Automobile 93 owner arrives.
+
++ Automobile 93 is parked in temporary parking.
+
+# Vale takes the automobile 93 from temporary parking.
+# Automobile 93 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Pickup 28 owner leaves the park slot.Free parking spots on Pickup: 21
+
+$ Pickup 34 owner leaves the park slot.Free parking spots on Pickup: 22
+
+-> Automobile 94 owner arrives.
+
++ Automobile 94 is parked in temporary parking.
+
+# Vale takes the automobile 94 from temporary parking.
+# Automobile 94 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Pickup 36 owner leaves the park slot.Free parking spots on Pickup: 23
+
+$ Pickup 39 owner leaves the park slot.Free parking spots on Pickup: 24
+
+$ Automobile 18 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 86 owner arrives.
+
++ Pickup 86 is parked in temporary parking.
+
+# Vale takes the pickup 86 from temporary parking.
+# Pickup 86 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 23
+
+-> Automobile 95 owner arrives.
+
++ Automobile 95 is parked in temporary parking.
+
+# Vale takes the automobile 95 from temporary parking.
+# Automobile 95 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Pickup 32 owner leaves the park slot.Free parking spots on Pickup: 24
+
+$ Automobile 24 owner leaves the park slot. Free parking spots on Automobile: 116
+
+$ Pickup 7 owner leaves the park slot.Free parking spots on Pickup: 25
+
+-> Pickup 87 owner arrives.
+
++ Pickup 87 is parked in temporary parking.
+
+# Vale takes the pickup 87 from temporary parking.
+# Pickup 87 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 24
+
+$ Pickup 9 owner leaves the park slot.Free parking spots on Pickup: 25
+
+$ Pickup 12 owner leaves the park slot.Free parking spots on Pickup: 26
+
+$ Automobile 19 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Pickup 88 owner arrives.
+
++ Pickup 88 is parked in temporary parking.
+
+# Vale takes the pickup 88 from temporary parking.
+# Pickup 88 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 25
+
+$ Automobile 8 owner leaves the park slot. Free parking spots on Automobile: 118
+
+-> Pickup 89 owner arrives.
+
++ Pickup 89 is parked in temporary parking.
+
+# Vale takes the pickup 89 from temporary parking.
+# Pickup 89 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 24
+
+-> Automobile 96 owner arrives.
+
++ Automobile 96 is parked in temporary parking.
+
+-> Pickup 90 owner arrives.
+
++ Pickup 90 is parked in temporary parking.
+
+# Vale takes the automobile 96 from temporary parking.
+# Automobile 96 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+# Vale takes the pickup 90 from temporary parking.
+# Pickup 90 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 23
+
+-> Pickup 91 owner arrives.
+
++ Pickup 91 is parked in temporary parking.
+
+$ Automobile 37 owner leaves the park slot. Free parking spots on Automobile: 118
+
+# Vale takes the pickup 91 from temporary parking.
+# Pickup 91 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 22
+
+$ Pickup 8 owner leaves the park slot.Free parking spots on Pickup: 23
+
+-> Automobile 97 owner arrives.
+
++ Automobile 97 is parked in temporary parking.
+
+# Vale takes the automobile 97 from temporary parking.
+# Automobile 97 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Pickup 15 owner leaves the park slot.Free parking spots on Pickup: 24
+
+-> Pickup 92 owner arrives.
+
++ Pickup 92 is parked in temporary parking.
+
+# Vale takes the pickup 92 from temporary parking.
+# Pickup 92 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 23
+
+$ Automobile 14 owner leaves the park slot. Free parking spots on Automobile: 118
+
+-> Pickup 93 owner arrives.
+
++ Pickup 93 is parked in temporary parking.
+
+# Vale takes the pickup 93 from temporary parking.
+# Pickup 93 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 22
+
+-> Automobile 98 owner arrives.
+
++ Automobile 98 is parked in temporary parking.
+
+# Vale takes the automobile 98 from temporary parking.
+# Automobile 98 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Pickup 30 owner leaves the park slot.Free parking spots on Pickup: 23
+
+-> Pickup 94 owner arrives.
+
++ Pickup 94 is parked in temporary parking.
+
+-> Pickup 95 owner arrives.
+
+# Vale takes the pickup 95 from temporary parking.
+# Pickup 95 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 22
+
++ Pickup 95 is parked in temporary parking.
+
+# Vale takes the pickup 95 from temporary parking.
+# Pickup 95 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 21
+
+-> Pickup 96 owner arrives.
+
++ Pickup 96 is parked in temporary parking.
+
+# Vale takes the pickup 96 from temporary parking.
+# Pickup 96 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 20
+
+-> Automobile 99 owner arrives.
+
++ Automobile 99 is parked in temporary parking.
+
+# Vale takes the automobile 99 from temporary parking.
+# Automobile 99 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Pickup 97 owner arrives.
+
++ Pickup 97 is parked in temporary parking.
+
+# Vale takes the pickup 97 from temporary parking.
+# Pickup 97 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 19
+
+-> Pickup 98 owner arrives.
+
++ Pickup 98 is parked in temporary parking.
+
+# Vale takes the pickup 98 from temporary parking.
+# Pickup 98 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+-> Pickup 99 owner arrives.
+
++ Pickup 99 is parked in temporary parking.
+
+# Vale takes the pickup 99 from temporary parking.
+# Pickup 99 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 17
+
+-> Pickup 100 owner arrives.
+
++ Pickup 100 is parked in temporary parking.
+
+# Vale takes the pickup 100 from temporary parking.
+# Pickup 100 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 16
+
+-> Pickup 101 owner arrives.
+
++ Pickup 101 is parked in temporary parking.
+
+# Vale takes the pickup 101 from temporary parking.
+# Pickup 101 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 15
+
+$ Automobile 11 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 100 owner arrives.
+
++ Automobile 100 is parked in temporary parking.
+
+# Vale takes the automobile 100 from temporary parking.
+# Automobile 100 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Pickup 102 owner arrives.
+
++ Pickup 102 is parked in temporary parking.
+
+# Vale takes the pickup 102 from temporary parking.
+# Pickup 102 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+$ Automobile 22 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 101 owner arrives.
+
++ Automobile 101 is parked in temporary parking.
+
+# Vale takes the automobile 101 from temporary parking.
+# Automobile 101 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Pickup 16 owner leaves the park slot.Free parking spots on Pickup: 15
+
+$ Pickup 11 owner leaves the park slot.Free parking spots on Pickup: 16
+
+$ Pickup 17 owner leaves the park slot.Free parking spots on Pickup: 17
+
+$ Pickup 1 owner leaves the park slot.Free parking spots on Pickup: 18
+
+-> Pickup 103 owner arrives.
+
++ Pickup 103 is parked in temporary parking.
+
+# Vale takes the pickup 103 from temporary parking.
+# Pickup 103 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 17
+
+-> Automobile 102 owner arrives.
+
++ Automobile 102 is parked in temporary parking.
+
+# Vale takes the automobile 102 from temporary parking.
+# Automobile 102 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Automobile 103 owner arrives.
+
++ Automobile 103 is parked in temporary parking.
+
+# Vale takes the automobile 103 from temporary parking.
+# Automobile 103 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Automobile 104 owner arrives.
+
++ Automobile 104 is parked in temporary parking.
+
+# Vale takes the automobile 104 from temporary parking.
+# Automobile 104 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Pickup 104 owner arrives.
+
++ Pickup 104 is parked in temporary parking.
+
+# Vale takes the pickup 104 from temporary parking.
+# Pickup 104 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 16
+
+$ Automobile 47 owner leaves the park slot. Free parking spots on Automobile: 114
+
+$ Automobile 3 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Pickup 105 owner arrives.
+
++ Pickup 105 is parked in temporary parking.
+
+# Vale takes the pickup 105 from temporary parking.
+# Pickup 105 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 15
+
+$ Pickup 35 owner leaves the park slot.Free parking spots on Pickup: 16
+
+-> Pickup 106 owner arrives.
+
++ Pickup 106 is parked in temporary parking.
+
+# Vale takes the pickup 106 from temporary parking.
+# Pickup 106 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 15
+
+-> Pickup 107 owner arrives.
+
++ Pickup 107 is parked in temporary parking.
+
+# Vale takes the pickup 107 from temporary parking.
+# Pickup 107 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+$ Pickup 22 owner leaves the park slot.Free parking spots on Pickup: 15
+
+-> Pickup 108 owner arrives.
+
++ Pickup 108 is parked in temporary parking.
+
+# Vale takes the pickup 108 from temporary parking.
+# Pickup 108 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+$ Automobile 27 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Automobile 105 owner arrives.
+
++ Automobile 105 is parked in temporary parking.
+
+# Vale takes the automobile 105 from temporary parking.
+# Automobile 105 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Automobile 28 owner leaves the park slot. Free parking spots on Automobile: 116
+
+$ Automobile 44 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 106 owner arrives.
+
++ Automobile 106 is parked in temporary parking.
+
+# Vale takes the automobile 106 from temporary parking.
+# Automobile 106 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Pickup 109 owner arrives.
+
++ Pickup 109 is parked in temporary parking.
+
+-> Automobile 107 owner arrives.
+
++ Automobile 107 is parked in temporary parking.
+
+# Vale takes the pickup 109 from temporary parking.
+# Pickup 109 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+# Vale takes the automobile 107 from temporary parking.
+# Automobile 107 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Pickup 110 owner arrives.
+
++ Pickup 110 is parked in temporary parking.
+
+# Vale takes the pickup 110 from temporary parking.
+# Pickup 110 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+$ Pickup 33 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 2 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Automobile 108 owner arrives.
+
++ Automobile 108 is parked in temporary parking.
+
+# Vale takes the automobile 108 from temporary parking.
+# Automobile 108 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Pickup 111 owner arrives.
+
++ Pickup 111 is parked in temporary parking.
+
+# Vale takes the pickup 111 from temporary parking.
+# Pickup 111 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Pickup 112 owner arrives.
+
++ Pickup 112 is parked in temporary parking.
+
+# Vale takes the pickup 112 from temporary parking.
+# Pickup 112 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Automobile 109 owner arrives.
+
++ Automobile 109 is parked in temporary parking.
+
+# Vale takes the automobile 109 from temporary parking.
+# Automobile 109 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 113 owner arrives.
+
++ Pickup 113 is parked in temporary parking.
+
+# Vale takes the pickup 113 from temporary parking.
+# Pickup 113 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Pickup 4 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 62 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Pickup 47 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 46 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 12 owner leaves the park slot. Free parking spots on Automobile: 116
+
+$ Automobile 34 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Pickup 114 owner arrives.
+
++ Pickup 114 is parked in temporary parking.
+
+# Vale takes the pickup 114 from temporary parking.
+# Pickup 114 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 110 owner arrives.
+
++ Automobile 110 is parked in temporary parking.
+
+$ Automobile 53 owner leaves the park slot. Free parking spots on Automobile: 118
+
+# Vale takes the automobile 110 from temporary parking.
+# Automobile 110 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Pickup 6 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Pickup 37 owner leaves the park slot.Free parking spots on Pickup: 14
+
+-> Pickup 115 owner arrives.
+
++ Pickup 115 is parked in temporary parking.
+
+# Vale takes the pickup 115 from temporary parking.
+# Pickup 115 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+$ Automobile 48 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Pickup 2 owner leaves the park slot.Free parking spots on Pickup: 14
+
+-> Pickup 116 owner arrives.
+
++ Pickup 116 is parked in temporary parking.
+
+# Vale takes the pickup 116 from temporary parking.
+# Pickup 116 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Pickup 117 owner arrives.
+
++ Pickup 117 is parked in temporary parking.
+
+# Vale takes the pickup 117 from temporary parking.
+# Pickup 117 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 111 owner arrives.
+
++ Automobile 111 is parked in temporary parking.
+
+# Vale takes the automobile 111 from temporary parking.
+# Automobile 111 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Automobile 38 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Automobile 25 owner leaves the park slot. Free parking spots on Automobile: 119
+
+$ Pickup 19 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 52 owner leaves the park slot. Free parking spots on Automobile: 120
+
+-> Pickup 118 owner arrives.
+
++ Pickup 118 is parked in temporary parking.
+
+# Vale takes the pickup 118 from temporary parking.
+# Pickup 118 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 112 owner arrives.
+
++ Automobile 112 is parked in temporary parking.
+
+# Vale takes the automobile 112 from temporary parking.
+# Automobile 112 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+$ Automobile 29 owner leaves the park slot. Free parking spots on Automobile: 120
+
+-> Automobile 113 owner arrives.
+
++ Automobile 113 is parked in temporary parking.
+
+$ Automobile 41 owner leaves the park slot. Free parking spots on Automobile: 121
+
+# Vale takes the automobile 113 from temporary parking.
+# Automobile 113 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 120
+
+-> Automobile 114 owner arrives.
+
++ Automobile 114 is parked in temporary parking.
+
+# Vale takes the automobile 114 from temporary parking.
+# Automobile 114 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+$ Automobile 46 owner leaves the park slot. Free parking spots on Automobile: 120
+
+-> Pickup 119 owner arrives.
+
++ Pickup 119 is parked in temporary parking.
+
+# Vale takes the pickup 119 from temporary parking.
+# Pickup 119 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Pickup 38 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 44 owner leaves the park slot.Free parking spots on Pickup: 13
+
+-> Pickup 120 owner arrives.
+
++ Pickup 120 is parked in temporary parking.
+
+# Vale takes the pickup 120 from temporary parking.
+# Pickup 120 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 115 owner arrives.
+
++ Automobile 115 is parked in temporary parking.
+
+# Vale takes the automobile 115 from temporary parking.
+# Automobile 115 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+$ Automobile 45 owner leaves the park slot. Free parking spots on Automobile: 120
+
+-> Pickup 121 owner arrives.
+
++ Pickup 121 is parked in temporary parking.
+
+# Vale takes the pickup 121 from temporary parking.
+# Pickup 121 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Automobile 5 owner leaves the park slot. Free parking spots on Automobile: 121
+
+$ Pickup 14 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Automobile 9 owner leaves the park slot. Free parking spots on Automobile: 122
+
+-> Automobile 116 owner arrives.
+
++ Automobile 116 is parked in temporary parking.
+
+# Vale takes the automobile 116 from temporary parking.
+# Automobile 116 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 121
+
+$ Automobile 65 owner leaves the park slot. Free parking spots on Automobile: 122
+
+-> Pickup 122 owner arrives.
+
++ Pickup 122 is parked in temporary parking.
+
+# Vale takes the pickup 122 from temporary parking.
+# Pickup 122 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Pickup 13 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Automobile 117 owner arrives.
+
+$ Pickup 66 owner leaves the park slot.Free parking spots on Pickup: 13
+
++ Automobile 117 is parked in temporary parking.
+
+-> Automobile 118 owner arrives.
+
+# Vale takes the automobile 118 from temporary parking.
+# Automobile 118 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 121
+
++ Automobile 118 is parked in temporary parking.
+
+# Vale takes the automobile 118 from temporary parking.
+# Automobile 118 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 120
+
+$ Pickup 29 owner leaves the park slot.Free parking spots on Pickup: 14
+
+-> Pickup 123 owner arrives.
+
++ Pickup 123 is parked in temporary parking.
+
+# Vale takes the pickup 123 from temporary parking.
+# Pickup 123 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Automobile 119 owner arrives.
+
++ Automobile 119 is parked in temporary parking.
+
+# Vale takes the automobile 119 from temporary parking.
+# Automobile 119 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+-> Automobile 120 owner arrives.
+
++ Automobile 120 is parked in temporary parking.
+
+# Vale takes the automobile 120 from temporary parking.
+# Automobile 120 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
+-> Automobile 121 owner arrives.
+
++ Automobile 121 is parked in temporary parking.
+
+# Vale takes the automobile 121 from temporary parking.
+# Automobile 121 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Pickup 52 owner leaves the park slot.Free parking spots on Pickup: 14
+
+-> Pickup 124 owner arrives.
+
++ Pickup 124 is parked in temporary parking.
+
+# Vale takes the pickup 124 from temporary parking.
+# Pickup 124 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Pickup 125 owner arrives.
+
++ Pickup 125 is parked in temporary parking.
+
+# Vale takes the pickup 125 from temporary parking.
+# Pickup 125 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+$ Automobile 50 owner leaves the park slot. Free parking spots on Automobile: 118
+
+-> Pickup 126 owner arrives.
+
++ Pickup 126 is parked in temporary parking.
+
+# Vale takes the pickup 126 from temporary parking.
+# Pickup 126 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Pickup 127 owner arrives.
+
++ Pickup 127 is parked in temporary parking.
+
+# Vale takes the pickup 127 from temporary parking.
+# Pickup 127 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 23 owner leaves the park slot. Free parking spots on Automobile: 119
+
+$ Pickup 60 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 82 owner leaves the park slot. Free parking spots on Automobile: 120
+
+-> Pickup 128 owner arrives.
+
++ Pickup 128 is parked in temporary parking.
+
+# Vale takes the pickup 128 from temporary parking.
+# Pickup 128 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+-> Pickup 129 owner arrives.
+
++ Pickup 129 is parked in temporary parking.
+
+# Vale takes the pickup 129 from temporary parking.
+# Pickup 129 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Automobile 17 owner leaves the park slot. Free parking spots on Automobile: 121
+
+$ Automobile 20 owner leaves the park slot. Free parking spots on Automobile: 122
+
+-> Automobile 122 owner arrives.
+
++ Automobile 122 is parked in temporary parking.
+
+# Vale takes the automobile 122 from temporary parking.
+# Automobile 122 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 121
+
+-> Pickup 130 owner arrives.
+
++ Pickup 130 is parked in temporary parking.
+
+# Vale takes the pickup 130 from temporary parking.
+# Pickup 130 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 123 owner arrives.
+
++ Automobile 123 is parked in temporary parking.
+
+# Vale takes the automobile 123 from temporary parking.
+# Automobile 123 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 120
+
+-> Pickup 131 owner arrives.
+
++ Pickup 131 is parked in temporary parking.
+
+# Vale takes the pickup 131 from temporary parking.
+# Pickup 131 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+-> Pickup 132 owner arrives.
+
++ Pickup 132 is parked in temporary parking.
+
+# Vale takes the pickup 132 from temporary parking.
+# Pickup 132 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 6
+
+-> Automobile 124 owner arrives.
+
++ Automobile 124 is parked in temporary parking.
+
+# Vale takes the automobile 124 from temporary parking.
+# Automobile 124 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+-> Pickup 133 owner arrives.
+
++ Pickup 133 is parked in temporary parking.
+
+# Vale takes the pickup 133 from temporary parking.
+# Pickup 133 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 5
+
+-> Automobile 125 owner arrives.
+
+$ Pickup 20 owner leaves the park slot.Free parking spots on Pickup: 6
+
++ Automobile 125 is parked in temporary parking.
+
+-> Automobile 126 owner arrives.
+
+# Vale takes the automobile 126 from temporary parking.
+# Automobile 126 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
++ Automobile 126 is parked in temporary parking.
+
+# Vale takes the automobile 126 from temporary parking.
+# Automobile 126 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+-> Pickup 134 owner arrives.
+
++ Pickup 134 is parked in temporary parking.
+
+# Vale takes the pickup 134 from temporary parking.
+# Pickup 134 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 5
+
+$ Automobile 58 owner leaves the park slot. Free parking spots on Automobile: 118
+
+-> Automobile 127 owner arrives.
+
++ Automobile 127 is parked in temporary parking.
+
+# Vale takes the automobile 127 from temporary parking.
+# Automobile 127 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+$ Pickup 24 owner leaves the park slot.Free parking spots on Pickup: 6
+
+-> Automobile 128 owner arrives.
+
++ Automobile 128 is parked in temporary parking.
+
+# Vale takes the automobile 128 from temporary parking.
+# Automobile 128 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Automobile 32 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 129 owner arrives.
+
++ Automobile 129 is parked in temporary parking.
+
+# Vale takes the automobile 129 from temporary parking.
+# Automobile 129 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Pickup 77 owner leaves the park slot.Free parking spots on Pickup: 7
+
+$ Automobile 59 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 130 owner arrives.
+
++ Automobile 130 is parked in temporary parking.
+
+# Vale takes the automobile 130 from temporary parking.
+# Automobile 130 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Automobile 33 owner leaves the park slot. Free parking spots on Automobile: 117
+
+$ Automobile 57 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Automobile 26 owner leaves the park slot. Free parking spots on Automobile: 119
+
+$ Automobile 68 owner leaves the park slot. Free parking spots on Automobile: 120
+
+-> Automobile 131 owner arrives.
+
++ Automobile 131 is parked in temporary parking.
+
+# Vale takes the automobile 131 from temporary parking.
+# Automobile 131 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 119
+
+$ Pickup 63 owner leaves the park slot.Free parking spots on Pickup: 8
+
+-> Automobile 132 owner arrives.
+
++ Automobile 132 is parked in temporary parking.
+
+# Vale takes the automobile 132 from temporary parking.
+# Automobile 132 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
+$ Pickup 26 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Automobile 133 owner arrives.
+
++ Automobile 133 is parked in temporary parking.
+
+# Vale takes the automobile 133 from temporary parking.
+# Automobile 133 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+-> Pickup 135 owner arrives.
+
++ Pickup 135 is parked in temporary parking.
+
+# Vale takes the pickup 135 from temporary parking.
+# Pickup 135 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 134 owner arrives.
+
++ Automobile 134 is parked in temporary parking.
+
+# Vale takes the automobile 134 from temporary parking.
+# Automobile 134 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Automobile 135 owner arrives.
+
++ Automobile 135 is parked in temporary parking.
+
+$ Automobile 51 owner leaves the park slot. Free parking spots on Automobile: 117
+
+# Vale takes the automobile 135 from temporary parking.
+# Automobile 135 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Pickup 136 owner arrives.
+
++ Pickup 136 is parked in temporary parking.
+
+# Vale takes the pickup 136 from temporary parking.
+# Pickup 136 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+$ Pickup 45 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Pickup 72 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Pickup 137 owner arrives.
+
++ Pickup 137 is parked in temporary parking.
+
+$ Automobile 55 owner leaves the park slot. Free parking spots on Automobile: 117
+
+# Vale takes the pickup 137 from temporary parking.
+# Pickup 137 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Pickup 138 owner arrives.
+
++ Pickup 138 is parked in temporary parking.
+
+# Vale takes the pickup 138 from temporary parking.
+# Pickup 138 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+-> Pickup 139 owner arrives.
+
++ Pickup 139 is parked in temporary parking.
+
+# Vale takes the pickup 139 from temporary parking.
+# Pickup 139 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 6
+
+-> Pickup 140 owner arrives.
+
++ Pickup 140 is parked in temporary parking.
+
+# Vale takes the pickup 140 from temporary parking.
+# Pickup 140 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 5
+
+$ Automobile 31 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Pickup 10 owner leaves the park slot.Free parking spots on Pickup: 6
+
+$ Pickup 41 owner leaves the park slot.Free parking spots on Pickup: 7
+
+-> Automobile 136 owner arrives.
+
++ Automobile 136 is parked in temporary parking.
+
+# Vale takes the automobile 136 from temporary parking.
+# Automobile 136 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+-> Automobile 137 owner arrives.
+
++ Automobile 137 is parked in temporary parking.
+
+# Vale takes the automobile 137 from temporary parking.
+# Automobile 137 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Automobile 138 owner arrives.
+
++ Automobile 138 is parked in temporary parking.
+
+# Vale takes the automobile 138 from temporary parking.
+# Automobile 138 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Pickup 42 owner leaves the park slot.Free parking spots on Pickup: 8
+
+-> Pickup 141 owner arrives.
+
++ Pickup 141 is parked in temporary parking.
+
+# Vale takes the pickup 141 from temporary parking.
+# Pickup 141 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+-> Pickup 142 owner arrives.
+
++ Pickup 142 is parked in temporary parking.
+
+# Vale takes the pickup 142 from temporary parking.
+# Pickup 142 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 6
+
+$ Pickup 70 owner leaves the park slot.Free parking spots on Pickup: 7
+
+-> Pickup 143 owner arrives.
+
++ Pickup 143 is parked in temporary parking.
+
+# Vale takes the pickup 143 from temporary parking.
+# Pickup 143 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 6
+
+-> Automobile 139 owner arrives.
+
++ Automobile 139 is parked in temporary parking.
+
+# Vale takes the automobile 139 from temporary parking.
+# Automobile 139 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 144 owner arrives.
+
++ Pickup 144 is parked in temporary parking.
+
+# Vale takes the pickup 144 from temporary parking.
+# Pickup 144 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 5
+
+-> Automobile 140 owner arrives.
+
++ Automobile 140 is parked in temporary parking.
+
+# Vale takes the automobile 140 from temporary parking.
+# Automobile 140 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Automobile 141 owner arrives.
+
++ Automobile 141 is parked in temporary parking.
+
+# Vale takes the automobile 141 from temporary parking.
+# Automobile 141 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Pickup 71 owner leaves the park slot.Free parking spots on Pickup: 6
+
+$ Pickup 18 owner leaves the park slot.Free parking spots on Pickup: 7
+
+$ Pickup 55 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Pickup 49 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Automobile 142 owner arrives.
+
++ Automobile 142 is parked in temporary parking.
+
+# Vale takes the automobile 142 from temporary parking.
+# Automobile 142 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+-> Automobile 143 owner arrives.
+
++ Automobile 143 is parked in temporary parking.
+
+# Vale takes the automobile 143 from temporary parking.
+# Automobile 143 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+-> Automobile 144 owner arrives.
+
++ Automobile 144 is parked in temporary parking.
+
+$ Automobile 49 owner leaves the park slot. Free parking spots on Automobile: 111
+
+# Vale takes the automobile 144 from temporary parking.
+# Automobile 144 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+-> Automobile 145 owner arrives.
+
++ Automobile 145 is parked in temporary parking.
+
+# Vale takes the automobile 145 from temporary parking.
+# Automobile 145 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 109
+
+-> Automobile 146 owner arrives.
+
++ Automobile 146 is parked in temporary parking.
+
+# Vale takes the automobile 146 from temporary parking.
+# Automobile 146 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+-> Automobile 147 owner arrives.
+
++ Automobile 147 is parked in temporary parking.
+
+# Vale takes the automobile 147 from temporary parking.
+# Automobile 147 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 107
+
+$ Pickup 51 owner leaves the park slot.Free parking spots on Pickup: 10
+
+-> Pickup 145 owner arrives.
+
++ Pickup 145 is parked in temporary parking.
+
+# Vale takes the pickup 145 from temporary parking.
+# Pickup 145 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Pickup 40 owner leaves the park slot.Free parking spots on Pickup: 10
+
+-> Pickup 146 owner arrives.
+
++ Pickup 146 is parked in temporary parking.
+
+# Vale takes the pickup 146 from temporary parking.
+# Pickup 146 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Pickup 147 owner arrives.
+
++ Pickup 147 is parked in temporary parking.
+
+# Vale takes the pickup 147 from temporary parking.
+# Pickup 147 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 148 owner arrives.
+
++ Automobile 148 is parked in temporary parking.
+
+# Vale takes the automobile 148 from temporary parking.
+# Automobile 148 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 106
+
+-> Automobile 149 owner arrives.
+
++ Automobile 149 is parked in temporary parking.
+
+# Vale takes the automobile 149 from temporary parking.
+# Automobile 149 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 105
+
+-> Automobile 150 owner arrives.
+
++ Automobile 150 is parked in temporary parking.
+
+# Vale takes the automobile 150 from temporary parking.
+# Automobile 150 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 104
+
+$ Automobile 21 owner leaves the park slot. Free parking spots on Automobile: 105
+
+-> Pickup 148 owner arrives.
+
++ Pickup 148 is parked in temporary parking.
+
+# Vale takes the pickup 148 from temporary parking.
+# Pickup 148 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+$ Automobile 72 owner leaves the park slot. Free parking spots on Automobile: 106
+
+-> Automobile 151 owner arrives.
+
++ Automobile 151 is parked in temporary parking.
+
+# Vale takes the automobile 151 from temporary parking.
+# Automobile 151 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 105
+
+$ Pickup 80 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Pickup 50 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Pickup 149 owner arrives.
+
++ Pickup 149 is parked in temporary parking.
+
+# Vale takes the pickup 149 from temporary parking.
+# Pickup 149 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Pickup 65 owner leaves the park slot.Free parking spots on Pickup: 9
+
+$ Automobile 36 owner leaves the park slot. Free parking spots on Automobile: 106
+
+$ Automobile 77 owner leaves the park slot. Free parking spots on Automobile: 107
+
+$ Pickup 25 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Automobile 42 owner leaves the park slot. Free parking spots on Automobile: 108
+
+$ Automobile 35 owner leaves the park slot. Free parking spots on Automobile: 109
+
+$ Pickup 31 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Automobile 152 owner arrives.
+
++ Automobile 152 is parked in temporary parking.
+
+# Vale takes the automobile 152 from temporary parking.
+# Automobile 152 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+$ Automobile 54 owner leaves the park slot. Free parking spots on Automobile: 109
+
+$ Automobile 70 owner leaves the park slot. Free parking spots on Automobile: 110
+
+$ Pickup 73 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Automobile 93 owner leaves the park slot. Free parking spots on Automobile: 111
+
+$ Pickup 98 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 80 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Automobile 153 owner arrives.
+
++ Automobile 153 is parked in temporary parking.
+
+# Vale takes the automobile 153 from temporary parking.
+# Automobile 153 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 83 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 69 owner leaves the park slot.Free parking spots on Pickup: 14
+
+-> Automobile 154 owner arrives.
+
++ Automobile 154 is parked in temporary parking.
+
+# Vale takes the automobile 154 from temporary parking.
+# Automobile 154 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 61 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Automobile 155 owner arrives.
+
++ Automobile 155 is parked in temporary parking.
+
+# Vale takes the automobile 155 from temporary parking.
+# Automobile 155 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Pickup 43 owner leaves the park slot.Free parking spots on Pickup: 15
+
+$ Automobile 40 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Automobile 156 owner arrives.
+
++ Automobile 156 is parked in temporary parking.
+
+# Vale takes the automobile 156 from temporary parking.
+# Automobile 156 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 39 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 59 owner leaves the park slot.Free parking spots on Pickup: 16
+
+-> Pickup 150 owner arrives.
+
++ Pickup 150 is parked in temporary parking.
+
+# Vale takes the pickup 150 from temporary parking.
+# Pickup 150 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 15
+
+$ Automobile 43 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Pickup 151 owner arrives.
+
++ Pickup 151 is parked in temporary parking.
+
+# Vale takes the pickup 151 from temporary parking.
+# Pickup 151 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+$ Automobile 67 owner leaves the park slot. Free parking spots on Automobile: 114
+
+-> Automobile 157 owner arrives.
+
++ Automobile 157 is parked in temporary parking.
+
+# Vale takes the automobile 157 from temporary parking.
+# Automobile 157 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+$ Pickup 48 owner leaves the park slot.Free parking spots on Pickup: 15
+
+-> Pickup 152 owner arrives.
+
++ Pickup 152 is parked in temporary parking.
+
+# Vale takes the pickup 152 from temporary parking.
+# Pickup 152 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+-> Automobile 158 owner arrives.
+
++ Automobile 158 is parked in temporary parking.
+
+$ Pickup 88 owner leaves the park slot.Free parking spots on Pickup: 15
+
+# Vale takes the automobile 158 from temporary parking.
+# Automobile 158 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Pickup 153 owner arrives.
+
++ Pickup 153 is parked in temporary parking.
+
+-> Pickup 154 owner arrives.
+
+# Vale takes the pickup 154 from temporary parking.
+# Pickup 154 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
++ Pickup 154 is parked in temporary parking.
+
+# Vale takes the pickup 154 from temporary parking.
+# Pickup 154 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+$ Pickup 97 owner leaves the park slot.Free parking spots on Pickup: 14
+
+$ Pickup 57 owner leaves the park slot.Free parking spots on Pickup: 15
+
+-> Automobile 159 owner arrives.
+
++ Automobile 159 is parked in temporary parking.
+
+# Vale takes the automobile 159 from temporary parking.
+# Automobile 159 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 98 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Automobile 160 owner arrives.
+
++ Automobile 160 is parked in temporary parking.
+
+# Vale takes the automobile 160 from temporary parking.
+# Automobile 160 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 97 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 64 owner leaves the park slot.Free parking spots on Pickup: 16
+
+$ Pickup 68 owner leaves the park slot.Free parking spots on Pickup: 17
+
+$ Automobile 60 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Pickup 155 owner arrives.
+
++ Pickup 155 is parked in temporary parking.
+
+# Vale takes the pickup 155 from temporary parking.
+# Pickup 155 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 16
+
+$ Automobile 74 owner leaves the park slot. Free parking spots on Automobile: 114
+
+$ Automobile 81 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Pickup 156 owner arrives.
+
++ Pickup 156 is parked in temporary parking.
+
+# Vale takes the pickup 156 from temporary parking.
+# Pickup 156 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 15
+
+-> Pickup 157 owner arrives.
+
++ Pickup 157 is parked in temporary parking.
+
+# Vale takes the pickup 157 from temporary parking.
+# Pickup 157 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+-> Pickup 158 owner arrives.
+
++ Pickup 158 is parked in temporary parking.
+
+# Vale takes the pickup 158 from temporary parking.
+# Pickup 158 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Automobile 161 owner arrives.
+
++ Automobile 161 is parked in temporary parking.
+
+# Vale takes the automobile 161 from temporary parking.
+# Automobile 161 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 159 owner arrives.
+
++ Pickup 159 is parked in temporary parking.
+
+# Vale takes the pickup 159 from temporary parking.
+# Pickup 159 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 162 owner arrives.
+
++ Automobile 162 is parked in temporary parking.
+
+$ Automobile 102 owner leaves the park slot. Free parking spots on Automobile: 115
+
+# Vale takes the automobile 162 from temporary parking.
+# Automobile 162 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 160 owner arrives.
+
++ Pickup 160 is parked in temporary parking.
+
+# Vale takes the pickup 160 from temporary parking.
+# Pickup 160 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Automobile 163 owner arrives.
+
++ Automobile 163 is parked in temporary parking.
+
+# Vale takes the automobile 163 from temporary parking.
+# Automobile 163 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Automobile 164 owner arrives.
+
++ Automobile 164 is parked in temporary parking.
+
+# Vale takes the automobile 164 from temporary parking.
+# Automobile 164 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Pickup 79 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 56 owner leaves the park slot.Free parking spots on Pickup: 13
+
+-> Pickup 161 owner arrives.
+
++ Pickup 161 is parked in temporary parking.
+
+# Vale takes the pickup 161 from temporary parking.
+# Pickup 161 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Pickup 162 owner arrives.
+
++ Pickup 162 is parked in temporary parking.
+
+# Vale takes the pickup 162 from temporary parking.
+# Pickup 162 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Automobile 86 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Automobile 165 owner arrives.
+
++ Automobile 165 is parked in temporary parking.
+
+# Vale takes the automobile 165 from temporary parking.
+# Automobile 165 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Automobile 100 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Pickup 163 owner arrives.
+
++ Pickup 163 is parked in temporary parking.
+
+# Vale takes the pickup 163 from temporary parking.
+# Pickup 163 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+-> Pickup 164 owner arrives.
+
++ Pickup 164 is parked in temporary parking.
+
+# Vale takes the pickup 164 from temporary parking.
+# Pickup 164 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Automobile 166 owner arrives.
+
++ Automobile 166 is parked in temporary parking.
+
+# Vale takes the automobile 166 from temporary parking.
+# Automobile 166 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Pickup 81 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Automobile 66 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Automobile 167 owner arrives.
+
++ Automobile 167 is parked in temporary parking.
+
+# Vale takes the automobile 167 from temporary parking.
+# Automobile 167 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Pickup 165 owner arrives.
+
++ Pickup 165 is parked in temporary parking.
+
+# Vale takes the pickup 165 from temporary parking.
+# Pickup 165 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Pickup 166 owner arrives.
+
++ Pickup 166 is parked in temporary parking.
+
+# Vale takes the pickup 166 from temporary parking.
+# Pickup 166 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Pickup 167 owner arrives.
+
++ Pickup 167 is parked in temporary parking.
+
+# Vale takes the pickup 167 from temporary parking.
+# Pickup 167 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+-> Automobile 168 owner arrives.
+
++ Automobile 168 is parked in temporary parking.
+
+# Vale takes the automobile 168 from temporary parking.
+# Automobile 168 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 95 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 61 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Automobile 89 owner leaves the park slot. Free parking spots on Automobile: 113
+
+$ Pickup 99 owner leaves the park slot.Free parking spots on Pickup: 9
+
+$ Pickup 53 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 108 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Automobile 169 owner arrives.
+
++ Automobile 169 is parked in temporary parking.
+
+# Vale takes the automobile 169 from temporary parking.
+# Automobile 169 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Pickup 168 owner arrives.
+
++ Pickup 168 is parked in temporary parking.
+
+# Vale takes the pickup 168 from temporary parking.
+# Pickup 168 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 75 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Pickup 169 owner arrives.
+
++ Pickup 169 is parked in temporary parking.
+
+# Vale takes the pickup 169 from temporary parking.
+# Pickup 169 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Automobile 109 owner leaves the park slot. Free parking spots on Automobile: 114
+
+-> Pickup 170 owner arrives.
+
++ Pickup 170 is parked in temporary parking.
+
+# Vale takes the pickup 170 from temporary parking.
+# Pickup 170 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 170 owner arrives.
+
++ Automobile 170 is parked in temporary parking.
+
+# Vale takes the automobile 170 from temporary parking.
+# Automobile 170 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+$ Pickup 102 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Automobile 171 owner arrives.
+
++ Automobile 171 is parked in temporary parking.
+
+# Vale takes the automobile 171 from temporary parking.
+# Automobile 171 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Pickup 114 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 87 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Pickup 58 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Automobile 172 owner arrives.
+
++ Automobile 172 is parked in temporary parking.
+
+# Vale takes the automobile 172 from temporary parking.
+# Automobile 172 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Pickup 94 owner leaves the park slot.Free parking spots on Pickup: 13
+
+-> Pickup 171 owner arrives.
+
++ Pickup 171 is parked in temporary parking.
+
+# Vale takes the pickup 171 from temporary parking.
+# Pickup 171 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+$ Automobile 69 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 119 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 96 owner leaves the park slot. Free parking spots on Automobile: 113
+
+$ Automobile 56 owner leaves the park slot. Free parking spots on Automobile: 114
+
+-> Automobile 173 owner arrives.
+
++ Automobile 173 is parked in temporary parking.
+
+# Vale takes the automobile 173 from temporary parking.
+# Automobile 173 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Pickup 172 owner arrives.
+
++ Pickup 172 is parked in temporary parking.
+
+# Vale takes the pickup 172 from temporary parking.
+# Pickup 172 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 174 owner arrives.
+
++ Automobile 174 is parked in temporary parking.
+
+# Vale takes the automobile 174 from temporary parking.
+# Automobile 174 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Automobile 91 owner leaves the park slot. Free parking spots on Automobile: 113
+
+$ Automobile 63 owner leaves the park slot. Free parking spots on Automobile: 114
+
+-> Pickup 173 owner arrives.
+
++ Pickup 173 is parked in temporary parking.
+
+# Vale takes the pickup 173 from temporary parking.
+# Pickup 173 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Pickup 174 owner arrives.
+
++ Pickup 174 is parked in temporary parking.
+
+# Vale takes the pickup 174 from temporary parking.
+# Pickup 174 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Pickup 54 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 116 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Pickup 110 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 90 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Pickup 67 owner leaves the park slot.Free parking spots on Pickup: 14
+
+$ Automobile 73 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 175 owner arrives.
+
++ Pickup 175 is parked in temporary parking.
+
+# Vale takes the pickup 175 from temporary parking.
+# Pickup 175 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Pickup 176 owner arrives.
+
++ Pickup 176 is parked in temporary parking.
+
+# Vale takes the pickup 176 from temporary parking.
+# Pickup 176 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 175 owner arrives.
+
++ Automobile 175 is parked in temporary parking.
+
+# Vale takes the automobile 175 from temporary parking.
+# Automobile 175 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Automobile 176 owner arrives.
+
++ Automobile 176 is parked in temporary parking.
+
+# Vale takes the automobile 176 from temporary parking.
+# Automobile 176 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Automobile 79 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Pickup 177 owner arrives.
+
++ Pickup 177 is parked in temporary parking.
+
+# Vale takes the pickup 177 from temporary parking.
+# Pickup 177 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Pickup 89 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Pickup 178 owner arrives.
+
++ Pickup 178 is parked in temporary parking.
+
+# Vale takes the pickup 178 from temporary parking.
+# Pickup 178 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Automobile 177 owner arrives.
+
++ Automobile 177 is parked in temporary parking.
+
+# Vale takes the automobile 177 from temporary parking.
+# Automobile 177 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Pickup 92 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Automobile 92 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Automobile 178 owner arrives.
+
++ Automobile 178 is parked in temporary parking.
+
+# Vale takes the automobile 178 from temporary parking.
+# Automobile 178 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Automobile 84 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Pickup 179 owner arrives.
+
++ Pickup 179 is parked in temporary parking.
+
+# Vale takes the pickup 179 from temporary parking.
+# Pickup 179 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Automobile 64 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 180 owner arrives.
+
++ Pickup 180 is parked in temporary parking.
+
+# Vale takes the pickup 180 from temporary parking.
+# Pickup 180 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 76 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 179 owner arrives.
+
++ Automobile 179 is parked in temporary parking.
+
+# Vale takes the automobile 179 from temporary parking.
+# Automobile 179 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Automobile 120 owner leaves the park slot. Free parking spots on Automobile: 117
+
+$ Automobile 78 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Automobile 107 owner leaves the park slot. Free parking spots on Automobile: 119
+
+$ Pickup 78 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Pickup 62 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Automobile 180 owner arrives.
+
++ Automobile 180 is parked in temporary parking.
+
+# Vale takes the automobile 180 from temporary parking.
+# Automobile 180 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
+$ Pickup 121 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Pickup 118 owner leaves the park slot.Free parking spots on Pickup: 14
+
+$ Pickup 129 owner leaves the park slot.Free parking spots on Pickup: 15
+
+-> Pickup 181 owner arrives.
+
++ Pickup 181 is parked in temporary parking.
+
+# Vale takes the pickup 181 from temporary parking.
+# Pickup 181 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+-> Pickup 182 owner arrives.
+
++ Pickup 182 is parked in temporary parking.
+
+# Vale takes the pickup 182 from temporary parking.
+# Pickup 182 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Automobile 181 owner arrives.
+
++ Automobile 181 is parked in temporary parking.
+
+# Vale takes the automobile 181 from temporary parking.
+# Automobile 181 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+-> Automobile 182 owner arrives.
+
++ Automobile 182 is parked in temporary parking.
+
+# Vale takes the automobile 182 from temporary parking.
+# Automobile 182 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+$ Automobile 104 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 183 owner arrives.
+
++ Automobile 183 is parked in temporary parking.
+
+# Vale takes the automobile 183 from temporary parking.
+# Automobile 183 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Pickup 183 owner arrives.
+
++ Pickup 183 is parked in temporary parking.
+
+-> Pickup 184 owner arrives.
+
+# Vale takes the pickup 184 from temporary parking.
+# Pickup 184 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
++ Pickup 184 is parked in temporary parking.
+
+# Vale takes the pickup 184 from temporary parking.
+# Pickup 184 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Automobile 85 owner leaves the park slot. Free parking spots on Automobile: 117
+
+$ Pickup 106 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Automobile 184 owner arrives.
+
++ Automobile 184 is parked in temporary parking.
+
+-> Automobile 185 owner arrives.
+
+# Vale takes the automobile 185 from temporary parking.
+# Automobile 185 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
++ Automobile 185 is parked in temporary parking.
+
+# Vale takes the automobile 185 from temporary parking.
+# Automobile 185 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Pickup 185 owner arrives.
+
++ Pickup 185 is parked in temporary parking.
+
+# Vale takes the pickup 185 from temporary parking.
+# Pickup 185 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Pickup 186 owner arrives.
+
++ Pickup 186 is parked in temporary parking.
+
+# Vale takes the pickup 186 from temporary parking.
+# Pickup 186 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 121 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 187 owner arrives.
+
++ Pickup 187 is parked in temporary parking.
+
+-> Automobile 186 owner arrives.
+
++ Automobile 186 is parked in temporary parking.
+
+$ Automobile 127 owner leaves the park slot. Free parking spots on Automobile: 117
+
+# Vale takes the pickup 187 from temporary parking.
+# Pickup 187 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+# Vale takes the automobile 186 from temporary parking.
+# Automobile 186 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Automobile 187 owner arrives.
+
++ Automobile 187 is parked in temporary parking.
+
+-> Automobile 188 owner arrives.
+
+# Vale takes the automobile 188 from temporary parking.
+# Automobile 188 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
++ Automobile 188 is parked in temporary parking.
+
+# Vale takes the automobile 188 from temporary parking.
+# Automobile 188 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Pickup 140 owner leaves the park slot.Free parking spots on Pickup: 10
+
+-> Automobile 189 owner arrives.
+
++ Automobile 189 is parked in temporary parking.
+
+# Vale takes the automobile 189 from temporary parking.
+# Automobile 189 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Automobile 190 owner arrives.
+
++ Automobile 190 is parked in temporary parking.
+
+# Vale takes the automobile 190 from temporary parking.
+# Automobile 190 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Automobile 191 owner arrives.
+
++ Automobile 191 is parked in temporary parking.
+
+# Vale takes the automobile 191 from temporary parking.
+# Automobile 191 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+-> Automobile 192 owner arrives.
+
++ Automobile 192 is parked in temporary parking.
+
+# Vale takes the automobile 192 from temporary parking.
+# Automobile 192 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+$ Automobile 87 owner leaves the park slot. Free parking spots on Automobile: 111
+
+$ Automobile 71 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 84 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Pickup 139 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 93 owner leaves the park slot.Free parking spots on Pickup: 13
+
+-> Pickup 188 owner arrives.
+
++ Pickup 188 is parked in temporary parking.
+
+# Vale takes the pickup 188 from temporary parking.
+# Pickup 188 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Automobile 193 owner arrives.
+
++ Automobile 193 is parked in temporary parking.
+
+# Vale takes the automobile 193 from temporary parking.
+# Automobile 193 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+-> Pickup 189 owner arrives.
+
++ Pickup 189 is parked in temporary parking.
+
+# Vale takes the pickup 189 from temporary parking.
+# Pickup 189 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Pickup 190 owner arrives.
+
++ Pickup 190 is parked in temporary parking.
+
+# Vale takes the pickup 190 from temporary parking.
+# Pickup 190 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+-> Automobile 194 owner arrives.
+
++ Automobile 194 is parked in temporary parking.
+
+# Vale takes the automobile 194 from temporary parking.
+# Automobile 194 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+-> Automobile 196 owner arrives.
+
+-> Automobile 195 owner arrives.
+
++ Automobile 196 is parked in temporary parking.
+
+# Vale takes the automobile 196 from temporary parking.
+# Automobile 196 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 109
+
++ Automobile 195 is parked in temporary parking.
+
+# Vale takes the automobile 196 from temporary parking.
+# Automobile 196 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+-> Pickup 191 owner arrives.
+
++ Pickup 191 is parked in temporary parking.
+
+-> Pickup 192 owner arrives.
+
+# Vale takes the pickup 192 from temporary parking.
+# Pickup 192 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
++ Pickup 192 is parked in temporary parking.
+
+# Vale takes the pickup 192 from temporary parking.
+# Pickup 192 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Pickup 193 owner arrives.
+
++ Pickup 193 is parked in temporary parking.
+
+# Vale takes the pickup 193 from temporary parking.
+# Pickup 193 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+$ Automobile 149 owner leaves the park slot. Free parking spots on Automobile: 109
+
+-> Automobile 197 owner arrives.
+
++ Automobile 197 is parked in temporary parking.
+
+# Vale takes the automobile 197 from temporary parking.
+# Automobile 197 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+-> Pickup 194 owner arrives.
+
++ Pickup 194 is parked in temporary parking.
+
+# Vale takes the pickup 194 from temporary parking.
+# Pickup 194 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 6
+
+$ Automobile 90 owner leaves the park slot. Free parking spots on Automobile: 109
+
+$ Pickup 123 owner leaves the park slot.Free parking spots on Pickup: 7
+
+-> Pickup 195 owner arrives.
+
++ Pickup 195 is parked in temporary parking.
+
+# Vale takes the pickup 195 from temporary parking.
+# Pickup 195 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 6
+
+$ Pickup 85 owner leaves the park slot.Free parking spots on Pickup: 7
+
+$ Pickup 95 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Pickup 76 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Pickup 196 owner arrives.
+
++ Pickup 196 is parked in temporary parking.
+
+# Vale takes the pickup 196 from temporary parking.
+# Pickup 196 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 198 owner arrives.
+
++ Automobile 198 is parked in temporary parking.
+
+# Vale takes the automobile 198 from temporary parking.
+# Automobile 198 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+$ Automobile 148 owner leaves the park slot. Free parking spots on Automobile: 109
+
+-> Automobile 199 owner arrives.
+
++ Automobile 199 is parked in temporary parking.
+
+# Vale takes the automobile 199 from temporary parking.
+# Automobile 199 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+-> Pickup 197 owner arrives.
+
++ Pickup 197 is parked in temporary parking.
+
+# Vale takes the pickup 197 from temporary parking.
+# Pickup 197 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+$ Automobile 147 owner leaves the park slot. Free parking spots on Automobile: 109
+
+$ Pickup 124 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Automobile 129 owner leaves the park slot. Free parking spots on Automobile: 110
+
+-> Automobile 200 owner arrives.
+
++ Automobile 200 is parked in temporary parking.
+
+# Vale takes the automobile 200 from temporary parking.
+# Automobile 200 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 109
+
+-> Automobile 201 owner arrives.
+
++ Automobile 201 is parked in temporary parking.
+
+# Vale takes the automobile 201 from temporary parking.
+# Automobile 201 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 108
+
+$ Automobile 115 owner leaves the park slot. Free parking spots on Automobile: 109
+
+$ Pickup 75 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Pickup 198 owner arrives.
+
++ Pickup 198 is parked in temporary parking.
+
+# Vale takes the pickup 198 from temporary parking.
+# Pickup 198 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Automobile 108 owner leaves the park slot. Free parking spots on Automobile: 110
+
+-> Pickup 199 owner arrives.
+
++ Pickup 199 is parked in temporary parking.
+
+# Vale takes the pickup 199 from temporary parking.
+# Pickup 199 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 7
+
+$ Pickup 120 owner leaves the park slot.Free parking spots on Pickup: 8
+
+$ Automobile 130 owner leaves the park slot. Free parking spots on Automobile: 111
+
+-> Automobile 202 owner arrives.
+
++ Automobile 202 is parked in temporary parking.
+
+# Vale takes the automobile 202 from temporary parking.
+# Automobile 202 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+$ Automobile 114 owner leaves the park slot. Free parking spots on Automobile: 111
+
+$ Pickup 111 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Automobile 203 owner arrives.
+
++ Automobile 203 is parked in temporary parking.
+
+# Vale takes the automobile 203 from temporary parking.
+# Automobile 203 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+$ Pickup 107 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 74 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Pickup 200 owner arrives.
+
++ Pickup 200 is parked in temporary parking.
+
+# Vale takes the pickup 200 from temporary parking.
+# Pickup 200 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+-> Automobile 204 owner arrives.
+
++ Automobile 204 is parked in temporary parking.
+
+# Vale takes the automobile 204 from temporary parking.
+# Automobile 204 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 109
+
+$ Automobile 124 owner leaves the park slot. Free parking spots on Automobile: 110
+
+-> Pickup 201 owner arrives.
+
++ Pickup 201 is parked in temporary parking.
+
+# Vale takes the pickup 201 from temporary parking.
+# Pickup 201 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Automobile 205 owner arrives.
+
++ Automobile 205 is parked in temporary parking.
+
+# Vale takes the automobile 205 from temporary parking.
+# Automobile 205 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 109
+
+-> Pickup 202 owner arrives.
+
++ Pickup 202 is parked in temporary parking.
+
+# Vale takes the pickup 202 from temporary parking.
+# Pickup 202 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Automobile 103 owner leaves the park slot. Free parking spots on Automobile: 110
+
+$ Pickup 104 owner leaves the park slot.Free parking spots on Pickup: 9
+
+$ Pickup 91 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 82 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 122 owner leaves the park slot. Free parking spots on Automobile: 111
+
+$ Pickup 115 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Pickup 203 owner arrives.
+
++ Pickup 203 is parked in temporary parking.
+
+# Vale takes the pickup 203 from temporary parking.
+# Pickup 203 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Pickup 204 owner arrives.
+
++ Pickup 204 is parked in temporary parking.
+
+# Vale takes the pickup 204 from temporary parking.
+# Pickup 204 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 125 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Automobile 88 owner leaves the park slot. Free parking spots on Automobile: 113
+
+$ Automobile 113 owner leaves the park slot. Free parking spots on Automobile: 114
+
+-> Automobile 206 owner arrives.
+
++ Automobile 206 is parked in temporary parking.
+
+# Vale takes the automobile 206 from temporary parking.
+# Automobile 206 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Automobile 207 owner arrives.
+
++ Automobile 207 is parked in temporary parking.
+
+# Vale takes the automobile 207 from temporary parking.
+# Automobile 207 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Automobile 208 owner arrives.
+
++ Automobile 208 is parked in temporary parking.
+
+# Vale takes the automobile 208 from temporary parking.
+# Automobile 208 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+-> Pickup 205 owner arrives.
+
++ Pickup 205 is parked in temporary parking.
+
+# Vale takes the pickup 205 from temporary parking.
+# Pickup 205 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Pickup 83 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 128 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 158 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Pickup 206 owner arrives.
+
++ Pickup 206 is parked in temporary parking.
+
+# Vale takes the pickup 206 from temporary parking.
+# Pickup 206 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Pickup 146 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Automobile 209 owner arrives.
+
++ Automobile 209 is parked in temporary parking.
+
+# Vale takes the automobile 209 from temporary parking.
+# Automobile 209 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 111 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Automobile 210 owner arrives.
+
++ Automobile 210 is parked in temporary parking.
+
+# Vale takes the automobile 210 from temporary parking.
+# Automobile 210 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+-> Automobile 211 owner arrives.
+
++ Automobile 211 is parked in temporary parking.
+
+# Vale takes the automobile 211 from temporary parking.
+# Automobile 211 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+$ Automobile 136 owner leaves the park slot. Free parking spots on Automobile: 111
+
+$ Automobile 139 owner leaves the park slot. Free parking spots on Automobile: 112
+
+-> Pickup 207 owner arrives.
+
++ Pickup 207 is parked in temporary parking.
+
+# Vale takes the pickup 207 from temporary parking.
+# Pickup 207 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Pickup 132 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Pickup 208 owner arrives.
+
++ Pickup 208 is parked in temporary parking.
+
+# Vale takes the pickup 208 from temporary parking.
+# Pickup 208 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 99 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Automobile 212 owner arrives.
+
++ Automobile 212 is parked in temporary parking.
+
+# Vale takes the automobile 212 from temporary parking.
+# Automobile 212 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Pickup 209 owner arrives.
+
++ Pickup 209 is parked in temporary parking.
+
+# Vale takes the pickup 209 from temporary parking.
+# Pickup 209 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Automobile 213 owner arrives.
+
++ Automobile 213 is parked in temporary parking.
+
+# Vale takes the automobile 213 from temporary parking.
+# Automobile 213 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+-> Pickup 210 owner arrives.
+
++ Pickup 210 is parked in temporary parking.
+
+# Vale takes the pickup 210 from temporary parking.
+# Pickup 210 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Pickup 86 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Pickup 211 owner arrives.
+
++ Pickup 211 is parked in temporary parking.
+
+# Vale takes the pickup 211 from temporary parking.
+# Pickup 211 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Automobile 128 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 109 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Automobile 214 owner arrives.
+
++ Automobile 214 is parked in temporary parking.
+
+# Vale takes the automobile 214 from temporary parking.
+# Automobile 214 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Pickup 96 owner leaves the park slot.Free parking spots on Pickup: 10
+
+-> Pickup 212 owner arrives.
+
++ Pickup 212 is parked in temporary parking.
+
+# Vale takes the pickup 212 from temporary parking.
+# Pickup 212 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Pickup 213 owner arrives.
+
++ Pickup 213 is parked in temporary parking.
+
+# Vale takes the pickup 213 from temporary parking.
+# Pickup 213 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 215 owner arrives.
+
++ Automobile 215 is parked in temporary parking.
+
+# Vale takes the automobile 215 from temporary parking.
+# Automobile 215 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+$ Pickup 113 owner leaves the park slot.Free parking spots on Pickup: 9
+
+$ Pickup 156 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Automobile 119 owner leaves the park slot. Free parking spots on Automobile: 111
+
+-> Automobile 216 owner arrives.
+
++ Automobile 216 is parked in temporary parking.
+
+# Vale takes the automobile 216 from temporary parking.
+# Automobile 216 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 110
+
+$ Automobile 94 owner leaves the park slot. Free parking spots on Automobile: 111
+
+$ Automobile 144 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Pickup 151 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Pickup 214 owner arrives.
+
++ Pickup 214 is parked in temporary parking.
+
+# Vale takes the pickup 214 from temporary parking.
+# Pickup 214 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Pickup 142 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Automobile 217 owner arrives.
+
++ Automobile 217 is parked in temporary parking.
+
+$ Pickup 100 owner leaves the park slot.Free parking spots on Pickup: 12
+
+# Vale takes the automobile 217 from temporary parking.
+# Automobile 217 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 111
+
+$ Automobile 135 owner leaves the park slot. Free parking spots on Automobile: 112
+
+$ Automobile 164 owner leaves the park slot. Free parking spots on Automobile: 113
+
+$ Automobile 142 owner leaves the park slot. Free parking spots on Automobile: 114
+
+$ Automobile 160 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Pickup 105 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Pickup 147 owner leaves the park slot.Free parking spots on Pickup: 14
+
+$ Automobile 166 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Automobile 218 owner arrives.
+
++ Automobile 218 is parked in temporary parking.
+
+# Vale takes the automobile 218 from temporary parking.
+# Automobile 218 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Automobile 106 owner leaves the park slot. Free parking spots on Automobile: 116
+
+$ Pickup 158 owner leaves the park slot.Free parking spots on Pickup: 15
+
+-> Automobile 219 owner arrives.
+
++ Automobile 219 is parked in temporary parking.
+
+# Vale takes the automobile 219 from temporary parking.
+# Automobile 219 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Pickup 159 owner leaves the park slot.Free parking spots on Pickup: 16
+
+$ Pickup 133 owner leaves the park slot.Free parking spots on Pickup: 17
+
+$ Pickup 126 owner leaves the park slot.Free parking spots on Pickup: 18
+
+-> Automobile 220 owner arrives.
+
++ Automobile 220 is parked in temporary parking.
+
+$ Pickup 131 owner leaves the park slot.Free parking spots on Pickup: 19
+
+# Vale takes the automobile 220 from temporary parking.
+# Automobile 220 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 215 owner arrives.
+
++ Pickup 215 is parked in temporary parking.
+
+# Vale takes the pickup 215 from temporary parking.
+# Pickup 215 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+-> Pickup 216 owner arrives.
+
++ Pickup 216 is parked in temporary parking.
+
+# Vale takes the pickup 216 from temporary parking.
+# Pickup 216 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 17
+
+$ Pickup 112 owner leaves the park slot.Free parking spots on Pickup: 18
+
+$ Automobile 165 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Automobile 154 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 217 owner arrives.
+
++ Pickup 217 is parked in temporary parking.
+
+# Vale takes the pickup 217 from temporary parking.
+# Pickup 217 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 17
+
+$ Automobile 101 owner leaves the park slot. Free parking spots on Automobile: 117
+
+$ Automobile 167 owner leaves the park slot. Free parking spots on Automobile: 118
+
+-> Pickup 218 owner arrives.
+
++ Pickup 218 is parked in temporary parking.
+
+# Vale takes the pickup 218 from temporary parking.
+# Pickup 218 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 16
+
+$ Pickup 127 owner leaves the park slot.Free parking spots on Pickup: 17
+
+-> Automobile 221 owner arrives.
+
++ Automobile 221 is parked in temporary parking.
+
+-> Automobile 222 owner arrives.
+
+-> Automobile 223 owner arrives.
+
+$ Pickup 130 owner leaves the park slot.Free parking spots on Pickup: 18
+
+# Vale takes the automobile 223 from temporary parking.
+# Automobile 223 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
++ Automobile 222 is parked in temporary parking.
+
+# Vale takes the automobile 223 from temporary parking.
+# Automobile 223 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
++ Automobile 223 is parked in temporary parking.
+
+# Vale takes the automobile 223 from temporary parking.
+# Automobile 223 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Automobile 224 owner arrives.
+
++ Automobile 224 is parked in temporary parking.
+
+# Vale takes the automobile 224 from temporary parking.
+# Automobile 224 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Automobile 133 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Automobile 225 owner arrives.
+
++ Automobile 225 is parked in temporary parking.
+
+# Vale takes the automobile 225 from temporary parking.
+# Automobile 225 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Pickup 153 owner leaves the park slot.Free parking spots on Pickup: 19
+
+-> Pickup 219 owner arrives.
+
++ Pickup 219 is parked in temporary parking.
+
+# Vale takes the pickup 219 from temporary parking.
+# Pickup 219 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+$ Pickup 101 owner leaves the park slot.Free parking spots on Pickup: 19
+
+-> Pickup 220 owner arrives.
+
++ Pickup 220 is parked in temporary parking.
+
+# Vale takes the pickup 220 from temporary parking.
+# Pickup 220 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+$ Automobile 134 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Pickup 103 owner leaves the park slot.Free parking spots on Pickup: 19
+
+-> Pickup 221 owner arrives.
+
++ Pickup 221 is parked in temporary parking.
+
+# Vale takes the pickup 221 from temporary parking.
+# Pickup 221 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+$ Pickup 155 owner leaves the park slot.Free parking spots on Pickup: 19
+
+-> Automobile 226 owner arrives.
+
++ Automobile 226 is parked in temporary parking.
+
+# Vale takes the automobile 226 from temporary parking.
+# Automobile 226 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 222 owner arrives.
+
++ Pickup 222 is parked in temporary parking.
+
+# Vale takes the pickup 222 from temporary parking.
+# Pickup 222 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+$ Pickup 150 owner leaves the park slot.Free parking spots on Pickup: 19
+
+$ Automobile 105 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Automobile 227 owner arrives.
+
++ Automobile 227 is parked in temporary parking.
+
+# Vale takes the automobile 227 from temporary parking.
+# Automobile 227 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Automobile 110 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Automobile 159 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 223 owner arrives.
+
++ Pickup 223 is parked in temporary parking.
+
+# Vale takes the pickup 223 from temporary parking.
+# Pickup 223 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+$ Automobile 112 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Pickup 224 owner arrives.
+
++ Pickup 224 is parked in temporary parking.
+
+# Vale takes the pickup 224 from temporary parking.
+# Pickup 224 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 17
+
+-> Automobile 228 owner arrives.
+
++ Automobile 228 is parked in temporary parking.
+
+# Vale takes the automobile 228 from temporary parking.
+# Automobile 228 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Automobile 229 owner arrives.
+
++ Automobile 229 is parked in temporary parking.
+
+# Vale takes the automobile 229 from temporary parking.
+# Automobile 229 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Pickup 149 owner leaves the park slot.Free parking spots on Pickup: 18
+
+-> Automobile 230 owner arrives.
+
++ Automobile 230 is parked in temporary parking.
+
+# Vale takes the automobile 230 from temporary parking.
+# Automobile 230 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Pickup 172 owner leaves the park slot.Free parking spots on Pickup: 19
+
+-> Automobile 231 owner arrives.
+
++ Automobile 231 is parked in temporary parking.
+
+# Vale takes the automobile 231 from temporary parking.
+# Automobile 231 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Pickup 225 owner arrives.
+
++ Pickup 225 is parked in temporary parking.
+
+# Vale takes the pickup 225 from temporary parking.
+# Pickup 225 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 18
+
+-> Pickup 226 owner arrives.
+
++ Pickup 226 is parked in temporary parking.
+
+# Vale takes the pickup 226 from temporary parking.
+# Pickup 226 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 17
+
+-> Pickup 227 owner arrives.
+
+-> Automobile 232 owner arrives.
+
++ Pickup 227 is parked in temporary parking.
+
++ Automobile 232 is parked in temporary parking.
+
+# Vale takes the pickup 227 from temporary parking.
+# Pickup 227 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 16
+
+# Vale takes the automobile 232 from temporary parking.
+# Automobile 232 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+-> Pickup 228 owner arrives.
+
++ Pickup 228 is parked in temporary parking.
+
+# Vale takes the pickup 228 from temporary parking.
+# Pickup 228 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 15
+
+$ Automobile 140 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Pickup 229 owner arrives.
+
++ Pickup 229 is parked in temporary parking.
+
+# Vale takes the pickup 229 from temporary parking.
+# Pickup 229 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 14
+
+$ Automobile 132 owner leaves the park slot. Free parking spots on Automobile: 114
+
+-> Automobile 233 owner arrives.
+
++ Automobile 233 is parked in temporary parking.
+
+# Vale takes the automobile 233 from temporary parking.
+# Automobile 233 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Pickup 230 owner arrives.
+
++ Pickup 230 is parked in temporary parking.
+
+# Vale takes the pickup 230 from temporary parking.
+# Pickup 230 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 13
+
+-> Pickup 231 owner arrives.
+
++ Pickup 231 is parked in temporary parking.
+
+# Vale takes the pickup 231 from temporary parking.
+# Pickup 231 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Pickup 232 owner arrives.
+
++ Pickup 232 is parked in temporary parking.
+
+# Vale takes the pickup 232 from temporary parking.
+# Pickup 232 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Automobile 234 owner arrives.
+
++ Automobile 234 is parked in temporary parking.
+
+# Vale takes the automobile 234 from temporary parking.
+# Automobile 234 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 112
+
+$ Pickup 148 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Pickup 233 owner arrives.
+
++ Pickup 233 is parked in temporary parking.
+
+# Vale takes the pickup 233 from temporary parking.
+# Pickup 233 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Automobile 161 owner leaves the park slot. Free parking spots on Automobile: 113
+
+-> Pickup 234 owner arrives.
+
++ Pickup 234 is parked in temporary parking.
+
+# Vale takes the pickup 234 from temporary parking.
+# Pickup 234 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+-> Pickup 235 owner arrives.
+
++ Pickup 235 is parked in temporary parking.
+
+# Vale takes the pickup 235 from temporary parking.
+# Pickup 235 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Automobile 138 owner leaves the park slot. Free parking spots on Automobile: 114
+
+$ Pickup 117 owner leaves the park slot.Free parking spots on Pickup: 10
+
+-> Pickup 236 owner arrives.
+
++ Pickup 236 is parked in temporary parking.
+
+# Vale takes the pickup 236 from temporary parking.
+# Pickup 236 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Pickup 122 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 176 owner leaves the park slot.Free parking spots on Pickup: 11
+
+-> Pickup 237 owner arrives.
+
++ Pickup 237 is parked in temporary parking.
+
+-> Pickup 238 owner arrives.
+
+# Vale takes the pickup 238 from temporary parking.
+# Pickup 238 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
++ Pickup 238 is parked in temporary parking.
+
+# Vale takes the pickup 238 from temporary parking.
+# Pickup 238 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Pickup 239 owner arrives.
+
++ Pickup 239 is parked in temporary parking.
+
+# Vale takes the pickup 239 from temporary parking.
+# Pickup 239 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Automobile 168 owner leaves the park slot. Free parking spots on Automobile: 115
+
+-> Automobile 235 owner arrives.
+
++ Automobile 235 is parked in temporary parking.
+
+# Vale takes the automobile 235 from temporary parking.
+# Automobile 235 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Automobile 123 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Pickup 134 owner leaves the park slot.Free parking spots on Pickup: 9
+
+$ Pickup 171 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 125 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Pickup 167 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 116 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 117 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 240 owner arrives.
+
++ Pickup 240 is parked in temporary parking.
+
+# Vale takes the pickup 240 from temporary parking.
+# Pickup 240 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Pickup 241 owner arrives.
+
++ Pickup 241 is parked in temporary parking.
+
+# Vale takes the pickup 241 from temporary parking.
+# Pickup 241 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Automobile 145 owner leaves the park slot. Free parking spots on Automobile: 117
+
+$ Automobile 188 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Pickup 157 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 160 owner leaves the park slot.Free parking spots on Pickup: 13
+
+-> Pickup 242 owner arrives.
+
++ Pickup 242 is parked in temporary parking.
+
+# Vale takes the pickup 242 from temporary parking.
+# Pickup 242 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+$ Automobile 118 owner leaves the park slot. Free parking spots on Automobile: 119
+
+-> Automobile 236 owner arrives.
+
++ Automobile 236 is parked in temporary parking.
+
+# Vale takes the automobile 236 from temporary parking.
+# Automobile 236 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 118
+
+-> Automobile 237 owner arrives.
+
++ Automobile 237 is parked in temporary parking.
+
+# Vale takes the automobile 237 from temporary parking.
+# Automobile 237 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 117
+
+-> Pickup 243 owner arrives.
+
++ Pickup 243 is parked in temporary parking.
+
+# Vale takes the pickup 243 from temporary parking.
+# Pickup 243 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Automobile 238 owner arrives.
+
++ Automobile 238 is parked in temporary parking.
+
+# Vale takes the automobile 238 from temporary parking.
+# Automobile 238 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Pickup 244 owner arrives.
+
++ Pickup 244 is parked in temporary parking.
+
+# Vale takes the pickup 244 from temporary parking.
+# Pickup 244 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 178 owner leaves the park slot. Free parking spots on Automobile: 117
+
+-> Automobile 239 owner arrives.
+
++ Automobile 239 is parked in temporary parking.
+
+# Vale takes the automobile 239 from temporary parking.
+# Automobile 239 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 116
+
+-> Automobile 240 owner arrives.
+
++ Automobile 240 is parked in temporary parking.
+
+# Vale takes the automobile 240 from temporary parking.
+# Automobile 240 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Automobile 241 owner arrives.
+
++ Automobile 241 is parked in temporary parking.
+
+# Vale takes the automobile 241 from temporary parking.
+# Automobile 241 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Automobile 242 owner arrives.
+
++ Automobile 242 is parked in temporary parking.
+
+# Vale takes the automobile 242 from temporary parking.
+# Automobile 242 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+-> Pickup 245 owner arrives.
+
++ Pickup 245 is parked in temporary parking.
+
+# Vale takes the pickup 245 from temporary parking.
+# Pickup 245 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+$ Automobile 183 owner leaves the park slot. Free parking spots on Automobile: 114
+
+$ Pickup 165 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 143 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 126 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Automobile 131 owner leaves the park slot. Free parking spots on Automobile: 116
+
+$ Pickup 184 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Automobile 243 owner arrives.
+
++ Automobile 243 is parked in temporary parking.
+
+# Vale takes the automobile 243 from temporary parking.
+# Automobile 243 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+$ Pickup 137 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 141 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Automobile 244 owner arrives.
+
++ Automobile 244 is parked in temporary parking.
+
+# Vale takes the automobile 244 from temporary parking.
+# Automobile 244 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Automobile 245 owner arrives.
+
++ Automobile 245 is parked in temporary parking.
+
+# Vale takes the automobile 245 from temporary parking.
+# Automobile 245 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+-> Pickup 246 owner arrives.
+
++ Pickup 246 is parked in temporary parking.
+
+# Vale takes the pickup 246 from temporary parking.
+# Pickup 246 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 12
+
+-> Pickup 247 owner arrives.
+
++ Pickup 247 is parked in temporary parking.
+
+# Vale takes the pickup 247 from temporary parking.
+# Pickup 247 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+$ Pickup 164 owner leaves the park slot.Free parking spots on Pickup: 12
+
+-> Pickup 248 owner arrives.
+
++ Pickup 248 is parked in temporary parking.
+
+# Vale takes the pickup 248 from temporary parking.
+# Pickup 248 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 11
+
+-> Pickup 249 owner arrives.
+
++ Pickup 249 is parked in temporary parking.
+
+# Vale takes the pickup 249 from temporary parking.
+# Pickup 249 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 10
+
+$ Automobile 199 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Automobile 146 owner leaves the park slot. Free parking spots on Automobile: 116
+
+-> Pickup 250 owner arrives.
+
++ Pickup 250 is parked in temporary parking.
+
+# Vale takes the pickup 250 from temporary parking.
+# Pickup 250 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 9
+
+-> Pickup 251 owner arrives.
+
++ Pickup 251 is parked in temporary parking.
+
+# Vale takes the pickup 251 from temporary parking.
+# Pickup 251 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+-> Automobile 246 owner arrives.
+
++ Automobile 246 is parked in temporary parking.
+
+# Vale takes the automobile 246 from temporary parking.
+# Automobile 246 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 115
+
+-> Automobile 247 owner arrives.
+
++ Automobile 247 is parked in temporary parking.
+
+# Vale takes the automobile 247 from temporary parking.
+# Automobile 247 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 114
+
+$ Pickup 199 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Pickup 252 owner arrives.
+
++ Pickup 252 is parked in temporary parking.
+
+# Vale takes the pickup 252 from temporary parking.
+# Pickup 252 is parked in permanent parking.
+# Available free permanent pickup parking spots now: 8
+
+$ Pickup 145 owner leaves the park slot.Free parking spots on Pickup: 9
+
+-> Automobile 248 owner arrives.
+
++ Automobile 248 is parked in temporary parking.
+
+# Vale takes the automobile 248 from temporary parking.
+# Automobile 248 is parked in permanent parking.
+# Available free permanent automobile parking spots now: 113
+
+$ Pickup 169 owner leaves the park slot.Free parking spots on Pickup: 10
+
+$ Pickup 186 owner leaves the park slot.Free parking spots on Pickup: 11
+
+$ Automobile 181 owner leaves the park slot. Free parking spots on Automobile: 114
+
+$ Pickup 136 owner leaves the park slot.Free parking spots on Pickup: 12
+
+$ Pickup 141 owner leaves the park slot.Free parking spots on Pickup: 13
+
+$ Automobile 176 owner leaves the park slot. Free parking spots on Automobile: 115
+
+$ Pickup 154 owner leaves the park slot.Free parking spots on Pickup: 14
+
+$ Automobile 174 owner leaves the park slot. Free parking spots on Automobile: 116
+
+$ Pickup 135 owner leaves the park slot.Free parking spots on Pickup: 15
+
+$ Automobile 171 owner leaves the park slot. Free parking spots on Automobile: 117
+
+$ Automobile 208 owner leaves the park slot. Free parking spots on Automobile: 118
+
+$ Pickup 196 owner leaves the park slot.Free parking spots on Pickup: 16
+
+$ Automobile 143 owner leaves the park slot. Free parking spots on Automobile: 119
+
+$ Pickup 138 owner leaves the park slot.Free parking spots on Pickup: 17
+
+$ Automobile 137 owner leaves the park slot. Free parking spots on Automobile: 120
+
+$ Pickup 188 owner leaves the park slot.Free parking spots on Pickup: 18
+
+$ Pickup 144 owner leaves the park slot.Free parking spots on Pickup: 19
+
+$ Automobile 177 owner leaves the park slot. Free parking spots on Automobile: 121
+
+$ Automobile 192 owner leaves the park slot. Free parking spots on Automobile: 122
+
+$ Automobile 200 owner leaves the park slot. Free parking spots on Automobile: 123
+
+$ Automobile 182 owner leaves the park slot. Free parking spots on Automobile: 124
+
+$ Automobile 201 owner leaves the park slot. Free parking spots on Automobile: 125
+
+$ Pickup 179 owner leaves the park slot.Free parking spots on Pickup: 20
+
+$ Automobile 170 owner leaves the park slot. Free parking spots on Automobile: 126
+
+$ Pickup 163 owner leaves the park slot.Free parking spots on Pickup: 21
+
+$ Automobile 203 owner leaves the park slot. Free parking spots on Automobile: 127
+
+$ Automobile 196 owner leaves the park slot. Free parking spots on Automobile: 128
+
+$ Pickup 174 owner leaves the park slot.Free parking spots on Pickup: 22
+
+$ Automobile 150 owner leaves the park slot. Free parking spots on Automobile: 129
+
+$ Pickup 180 owner leaves the park slot.Free parking spots on Pickup: 23
+
+$ Automobile 186 owner leaves the park slot. Free parking spots on Automobile: 130
+
+$ Pickup 178 owner leaves the park slot.Free parking spots on Pickup: 24
+
+$ Pickup 168 owner leaves the park slot.Free parking spots on Pickup: 25
+
+$ Pickup 175 owner leaves the park slot.Free parking spots on Pickup: 26
+
+$ Automobile 153 owner leaves the park slot. Free parking spots on Automobile: 131
+
+$ Pickup 161 owner leaves the park slot.Free parking spots on Pickup: 27
+
+$ Pickup 204 owner leaves the park slot.Free parking spots on Pickup: 28
+
+$ Automobile 155 owner leaves the park slot. Free parking spots on Automobile: 132
+
+$ Automobile 187 owner leaves the park slot. Free parking spots on Automobile: 133
+
+$ Pickup 177 owner leaves the park slot.Free parking spots on Pickup: 29
+
+$ Pickup 197 owner leaves the park slot.Free parking spots on Pickup: 30
+
+$ Automobile 151 owner leaves the park slot. Free parking spots on Automobile: 134
+
+$ Pickup 181 owner leaves the park slot.Free parking spots on Pickup: 31
+
+$ Automobile 152 owner leaves the park slot. Free parking spots on Automobile: 135
+
+$ Automobile 157 owner leaves the park slot. Free parking spots on Automobile: 136
+
+$ Automobile 197 owner leaves the park slot. Free parking spots on Automobile: 137
+
+$ Pickup 193 owner leaves the park slot.Free parking spots on Pickup: 32
+
+$ Automobile 194 owner leaves the park slot. Free parking spots on Automobile: 138
+
+$ Pickup 203 owner leaves the park slot.Free parking spots on Pickup: 33
+
+$ Automobile 216 owner leaves the park slot. Free parking spots on Automobile: 139
+
+$ Pickup 152 owner leaves the park slot.Free parking spots on Pickup: 34
+
+$ Automobile 175 owner leaves the park slot. Free parking spots on Automobile: 140
+
+$ Automobile 218 owner leaves the park slot. Free parking spots on Automobile: 141
+
+$ Automobile 156 owner leaves the park slot. Free parking spots on Automobile: 142
+
+$ Pickup 183 owner leaves the park slot.Free parking spots on Pickup: 35
+
+$ Automobile 212 owner leaves the park slot. Free parking spots on Automobile: 143
+
+$ Automobile 162 owner leaves the park slot. Free parking spots on Automobile: 144
+
+$ Pickup 170 owner leaves the park slot.Free parking spots on Pickup: 36
+
+$ Pickup 209 owner leaves the park slot.Free parking spots on Pickup: 37
+
+$ Pickup 200 owner leaves the park slot.Free parking spots on Pickup: 38
+
+$ Automobile 163 owner leaves the park slot. Free parking spots on Automobile: 145
+
+$ Pickup 194 owner leaves the park slot.Free parking spots on Pickup: 39
+
+$ Automobile 173 owner leaves the park slot. Free parking spots on Automobile: 146
+
+$ Automobile 205 owner leaves the park slot. Free parking spots on Automobile: 147
+
+$ Pickup 216 owner leaves the park slot.Free parking spots on Pickup: 40
+
+$ Pickup 208 owner leaves the park slot.Free parking spots on Pickup: 41
+
+$ Automobile 169 owner leaves the park slot. Free parking spots on Automobile: 148
+
+$ Pickup 218 owner leaves the park slot.Free parking spots on Pickup: 42
+
+$ Pickup 166 owner leaves the park slot.Free parking spots on Pickup: 43
+
+$ Pickup 230 owner leaves the park slot.Free parking spots on Pickup: 44
+
+$ Pickup 162 owner leaves the park slot.Free parking spots on Pickup: 45
+
+$ Pickup 191 owner leaves the park slot.Free parking spots on Pickup: 46
+
+$ Automobile 209 owner leaves the park slot. Free parking spots on Automobile: 149
+
+$ Pickup 173 owner leaves the park slot.Free parking spots on Pickup: 47
+
+$ Pickup 190 owner leaves the park slot.Free parking spots on Pickup: 48
+
+$ Pickup 202 owner leaves the park slot.Free parking spots on Pickup: 49
+
+$ Pickup 211 owner leaves the park slot.Free parking spots on Pickup: 50
+
+$ Automobile 207 owner leaves the park slot. Free parking spots on Automobile: 150
+
+$ Pickup 205 owner leaves the park slot.Free parking spots on Pickup: 51
+
+$ Pickup 217 owner leaves the park slot.Free parking spots on Pickup: 52
+
+$ Pickup 201 owner leaves the park slot.Free parking spots on Pickup: 53
+
+$ Automobile 184 owner leaves the park slot. Free parking spots on Automobile: 151
+
+$ Pickup 192 owner leaves the park slot.Free parking spots on Pickup: 54
+
+$ Automobile 214 owner leaves the park slot. Free parking spots on Automobile: 152
+
+$ Pickup 219 owner leaves the park slot.Free parking spots on Pickup: 55
+
+$ Automobile 179 owner leaves the park slot. Free parking spots on Automobile: 153
+
+$ Pickup 231 owner leaves the park slot.Free parking spots on Pickup: 56
+
+$ Automobile 172 owner leaves the park slot. Free parking spots on Automobile: 154
+
+$ Pickup 187 owner leaves the park slot.Free parking spots on Pickup: 57
+
+$ Automobile 236 owner leaves the park slot. Free parking spots on Automobile: 155
+
+$ Pickup 223 owner leaves the park slot.Free parking spots on Pickup: 58
+
+$ Automobile 237 owner leaves the park slot. Free parking spots on Automobile: 156
+
+$ Pickup 237 owner leaves the park slot.Free parking spots on Pickup: 59
+
+$ Automobile 190 owner leaves the park slot. Free parking spots on Automobile: 157
+
+$ Pickup 240 owner leaves the park slot.Free parking spots on Pickup: 60
+
+$ Automobile 198 owner leaves the park slot. Free parking spots on Automobile: 158
+
+$ Automobile 189 owner leaves the park slot. Free parking spots on Automobile: 159
+
+$ Automobile 180 owner leaves the park slot. Free parking spots on Automobile: 160
+
+$ Pickup 243 owner leaves the park slot.Free parking spots on Pickup: 61
+
+$ Automobile 231 owner leaves the park slot. Free parking spots on Automobile: 161
+
+$ Pickup 182 owner leaves the park slot.Free parking spots on Pickup: 62
+
+$ Pickup 185 owner leaves the park slot.Free parking spots on Pickup: 63
+
+$ Automobile 221 owner leaves the park slot. Free parking spots on Automobile: 162
+
+$ Automobile 191 owner leaves the park slot. Free parking spots on Automobile: 163
+
+$ Pickup 195 owner leaves the park slot.Free parking spots on Pickup: 64
+
+$ Automobile 222 owner leaves the park slot. Free parking spots on Automobile: 164
+
+$ Automobile 204 owner leaves the park slot. Free parking spots on Automobile: 165
+
+$ Automobile 215 owner leaves the park slot. Free parking spots on Automobile: 166
+
+$ Pickup 189 owner leaves the park slot.Free parking spots on Pickup: 65
+
+$ Automobile 225 owner leaves the park slot. Free parking spots on Automobile: 167
+
+$ Automobile 185 owner leaves the park slot. Free parking spots on Automobile: 168
+
+$ Automobile 206 owner leaves the park slot. Free parking spots on Automobile: 169
+
+$ Automobile 244 owner leaves the park slot. Free parking spots on Automobile: 170
+
+$ Pickup 214 owner leaves the park slot.Free parking spots on Pickup: 66
+
+$ Automobile 217 owner leaves the park slot. Free parking spots on Automobile: 171
+
+$ Pickup 213 owner leaves the park slot.Free parking spots on Pickup: 67
+
+$ Pickup 233 owner leaves the park slot.Free parking spots on Pickup: 68
+
+$ Automobile 193 owner leaves the park slot. Free parking spots on Automobile: 172
+
+$ Automobile 210 owner leaves the park slot. Free parking spots on Automobile: 173
+
+$ Pickup 248 owner leaves the park slot.Free parking spots on Pickup: 69
+
+$ Pickup 225 owner leaves the park slot.Free parking spots on Pickup: 70
+
+$ Automobile 242 owner leaves the park slot. Free parking spots on Automobile: 174
+
+$ Automobile 195 owner leaves the park slot. Free parking spots on Automobile: 175
+
+$ Pickup 229 owner leaves the park slot.Free parking spots on Pickup: 71
+
+$ Automobile 238 owner leaves the park slot. Free parking spots on Automobile: 176
+
+$ Automobile 240 owner leaves the park slot. Free parking spots on Automobile: 177
+
+$ Automobile 213 owner leaves the park slot. Free parking spots on Automobile: 178
+
+$ Pickup 232 owner leaves the park slot.Free parking spots on Pickup: 72
+
+$ Pickup 241 owner leaves the park slot.Free parking spots on Pickup: 73
+
+$ Automobile 219 owner leaves the park slot. Free parking spots on Automobile: 179
+
+$ Pickup 242 owner leaves the park slot.Free parking spots on Pickup: 74
+
+$ Automobile 233 owner leaves the park slot. Free parking spots on Automobile: 180
+
+$ Pickup 198 owner leaves the park slot.Free parking spots on Pickup: 75
+
+$ Automobile 248 owner leaves the park slot. Free parking spots on Automobile: 181
+
+$ Automobile 202 owner leaves the park slot. Free parking spots on Automobile: 182
+
+$ Automobile 246 owner leaves the park slot. Free parking spots on Automobile: 183
+
+$ Pickup 252 owner leaves the park slot.Free parking spots on Pickup: 76
+
+$ Pickup 215 owner leaves the park slot.Free parking spots on Pickup: 77
+
+$ Automobile 211 owner leaves the park slot. Free parking spots on Automobile: 184
+
+$ Pickup 207 owner leaves the park slot.Free parking spots on Pickup: 78
+
+$ Pickup 222 owner leaves the park slot.Free parking spots on Pickup: 79
+
+$ Pickup 239 owner leaves the park slot.Free parking spots on Pickup: 80
+
+$ Automobile 227 owner leaves the park slot. Free parking spots on Automobile: 185
+
+$ Pickup 206 owner leaves the park slot.Free parking spots on Pickup: 81
+
+$ Automobile 235 owner leaves the park slot. Free parking spots on Automobile: 186
+
+$ Pickup 210 owner leaves the park slot.Free parking spots on Pickup: 82
+
+$ Pickup 220 owner leaves the park slot.Free parking spots on Pickup: 83
+
+$ Automobile 224 owner leaves the park slot. Free parking spots on Automobile: 187
+
+$ Automobile 223 owner leaves the park slot. Free parking spots on Automobile: 188
+
+$ Pickup 221 owner leaves the park slot.Free parking spots on Pickup: 84
+
+$ Pickup 212 owner leaves the park slot.Free parking spots on Pickup: 85
+
+$ Automobile 220 owner leaves the park slot. Free parking spots on Automobile: 189
+
+$ Pickup 246 owner leaves the park slot.Free parking spots on Pickup: 86
+
+$ Pickup 234 owner leaves the park slot.Free parking spots on Pickup: 87
+
+$ Pickup 247 owner leaves the park slot.Free parking spots on Pickup: 88
+
+$ Pickup 236 owner leaves the park slot.Free parking spots on Pickup: 89
+
+$ Pickup 249 owner leaves the park slot.Free parking spots on Pickup: 90
+
+$ Automobile 243 owner leaves the park slot. Free parking spots on Automobile: 190
+
+$ Pickup 226 owner leaves the park slot.Free parking spots on Pickup: 91
+
+$ Automobile 230 owner leaves the park slot. Free parking spots on Automobile: 191
+
+$ Automobile 234 owner leaves the park slot. Free parking spots on Automobile: 192
+
+$ Pickup 224 owner leaves the park slot.Free parking spots on Pickup: 92
+
+$ Pickup 251 owner leaves the park slot.Free parking spots on Pickup: 93
+
+$ Automobile 245 owner leaves the park slot. Free parking spots on Automobile: 193
+
+$ Automobile 228 owner leaves the park slot. Free parking spots on Automobile: 194
+
+$ Pickup 245 owner leaves the park slot.Free parking spots on Pickup: 94
+
+$ Pickup 238 owner leaves the park slot.Free parking spots on Pickup: 95
+
+$ Automobile 226 owner leaves the park slot. Free parking spots on Automobile: 195
+
+$ Automobile 232 owner leaves the park slot. Free parking spots on Automobile: 196
+
+$ Pickup 250 owner leaves the park slot.Free parking spots on Pickup: 96
+
+$ Pickup 228 owner leaves the park slot.Free parking spots on Pickup: 97
+
+$ Pickup 227 owner leaves the park slot.Free parking spots on Pickup: 98
+
+$ Automobile 229 owner leaves the park slot. Free parking spots on Automobile: 197
+
+$ Automobile 241 owner leaves the park slot. Free parking spots on Automobile: 198
+
+$ Pickup 235 owner leaves the park slot.Free parking spots on Pickup: 99
+
+$ Pickup 244 owner leaves the park slot.Free parking spots on Pickup: 100
+
+$ Automobile 239 owner leaves the park slot. Free parking spots on Automobile: 199
+
+$ Automobile 247 owner leaves the park slot. Free parking spots on Automobile: 200
+
+
+Program is exiting...
