@@ -65,7 +65,14 @@ int main (int argc, char *argv[]) {
 
     // Create car owner threads
     for (int i = 0; i < NUM_CAR_OWNERS; i++) {
-        int check = pthread_create(&carOwnerThread[i], NULL, carOwner, (void *) i );
+        int *arg = malloc(sizeof(*arg));
+        if (arg == NULL) {
+            fprintf(stderr, "Couldn't allocate memory for thread arg.\n");
+            exit(EXIT_FAILURE);
+        }
+        *arg = i;
+
+        int check = pthread_create(&carOwnerThread[i], NULL, carOwner,arg );
         if (check != 0) {
             printf("Error in creating thread\n");
             exit(1);
@@ -74,7 +81,16 @@ int main (int argc, char *argv[]) {
 
     // Create car attendant threads
     for (int i = 0; i < 2; i++) {
-        int check = pthread_create(&carAttendantThread[i], NULL, carAttendant, (void *) i);
+        
+        int *arg = malloc(sizeof(*arg));
+        if (arg == NULL) {
+            fprintf(stderr, "Couldn't allocate memory for thread arg.\n");
+            exit(EXIT_FAILURE);
+        }
+
+        *arg = i;
+
+        int check = pthread_create(&carAttendantThread[i], NULL, carAttendant, arg);
         if (check != 0) {
             printf("Error in creating thread\n");
             exit(1);
@@ -192,7 +208,7 @@ void * carOwner(void *arg) {
 
 void * carAttendant(void *arg) {
 
-    int type = (int) arg;
+    int type = *(int*)arg;
 
     while (1) {
 
