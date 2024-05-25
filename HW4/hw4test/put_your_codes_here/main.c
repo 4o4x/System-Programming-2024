@@ -108,9 +108,16 @@ int main(int argc, char *argv[]) {
     }
 
     clock_gettime(CLOCK_REALTIME, &end);
+    
     long seconds = end.tv_sec - start.tv_sec;
-    long milliseconds = (end.tv_nsec - start.tv_nsec) / 1000000;
+    long nanoseconds = end.tv_nsec - start.tv_nsec;
+    if (nanoseconds < 0) {
+        seconds--;
+        nanoseconds += 1000000000;
+    }
+    long milliseconds = nanoseconds / 1000000;
     long minutes = seconds / 60;
+    seconds = seconds % 60;
 
     printf("\n---------------STATISTICS--------------------\n");
     printf("Consumers: %d - Buffer Size: %d\n", num_workers, buffer_size);
@@ -236,15 +243,17 @@ void copy_file(const char *src, const char *dst) {
         return;
     }
 
-    char buffer[8192];
+    char write_buffer[4096];
     ssize_t bytes;
-    while ((bytes = read(src_fd, buffer, sizeof(buffer))) > 0) {
-        if (write(dst_fd, buffer, bytes) != bytes) {
+    while ((bytes = read(src_fd, write_buffer, sizeof(write_buffer))) > 0) {
+        if (write(dst_fd, write_buffer, bytes) != bytes) {
             perror("write");
             break;
         }
 
+        pthread_mutex_lock(&buffer.mutex);
         num_bytes += bytes;
+        pthread_mutex_unlock(&buffer.mutex);
     }
 
     if (bytes < 0) {
