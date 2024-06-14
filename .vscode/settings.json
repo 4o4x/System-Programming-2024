@@ -3,6 +3,13 @@
         "__locale": "c",
         "istream": "c",
         "__verbose_abort": "c",
-        "cstdio": "c"
+        "cstdio": "c",
+        "string.h": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "list": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c"
     }
 }
