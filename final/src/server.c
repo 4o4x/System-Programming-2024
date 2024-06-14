@@ -11,13 +11,15 @@
 #include <signal.h>
 #include <sys/types.h>
 #include <sys/wait.h>
+#include <fcntl.h>
+#include <time.h>
 
 #define BUFFER_SIZE 1024
 #define PORT 8080
 #define OVEN_CAPACITY 6
 #define COURIER_THRESHOLD 3
 #define CANCEL_MSG "CANCEL"
-
+#define LOG_SIZE 1024
 
 #define ROWS 30
 #define COLS 40
@@ -49,6 +51,8 @@ typedef struct {
 volatile sig_atomic_t cancel_flag = 0;
 pthread_mutex_t cancel_mutex = PTHREAD_MUTEX_INITIALIZER;
 pthread_cond_t cancel_cond = PTHREAD_COND_INITIALIZER;
+
+char log_buffer[LOG_SIZE];
 
 
 OrderQueue order_queue = {.order_mutex = PTHREAD_MUTEX_INITIALIZER};
@@ -83,15 +87,24 @@ void matrixProduct(complex double mat1[COLS][ROWS], complex double mat2[ROWS][CO
 int gaussJordan(complex double matrix[COLS][COLS], complex double inverse[COLS][COLS]);
 void pseudoInverse(complex double matrix[ROWS][COLS], complex double result[COLS][ROWS]);
 double calculate_psuedo_inverse_time();
+void loggin(char *message);
 
 void handle_cancellation();
+
+void signal_handler(int signal) {
+    if (signal == SIGINT || signal == SIGTERM) {
+       
+        exit(EXIT_SUCCESS);
+
+    }
+}
 
 void send_message_to_client(const char *message);
 double calculate_time(int start_x, int start_y, int dest_x, int dest_y) {
 
-    printf("Calculating time to deliver from (%d, %d) to (%d, %d)\n", start_x, start_y, dest_x, dest_y);
+    //printf("Calculating time to deliver from (%d, %d) to (%d, %d)\n", start_x, start_y, dest_x, dest_y);
     double distance = hypotenuse(dest_x - start_x, dest_y - start_y) * 1000; // in meters
-    printf("Distance: %f\n", distance);
+    //printf("Distance: %f\n", distance);
     return (distance / courier_speed) * 60;
 
 }
@@ -102,6 +115,13 @@ int main(int argc, char *argv[]) {
         exit(EXIT_FAILURE);
     }
 
+    struct sigaction sa;
+    memset(&sa, 0, sizeof(sa));
+    sa.sa_handler = signal_handler;
+    sigaction(SIGINT, &sa, NULL);
+    sigaction(SIGTERM, &sa, NULL);
+
+
     const char *ip = argv[1];
     num_chefs = atoi(argv[2]);
     num_couriers = atoi(argv[3]);
@@ -110,7 +130,10 @@ int main(int argc, char *argv[]) {
     int server_fd;
     struct sockaddr_in address;
     int addrlen = sizeof(address);
+
+    
     char buffer[BUFFER_SIZE] = {0};
+    memset(buffer, 0, BUFFER_SIZE);
 
     if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0) {
         perror("socket failed");
@@ -139,9 +162,20 @@ int main(int argc, char *argv[]) {
         exit(EXIT_FAILURE);
     }
 
+
     printf("Server listening on %s:%d\n", ip, PORT);
+    sprintf(log_buffer, "Server listening on %s:%d\n", ip, PORT);
+    loggin(log_buffer);
+    
 
         while (1) {
+        
+        int pid_client = 0;
+        printf("Waiting for connection...\n");
+        sprintf(log_buffer, "Waiting for connection...\n");
+        loggin(log_buffer);
+
+
         if ((new_socket = accept(server_fd, (struct sockaddr *)&address, (socklen_t*)&addrlen)) < 0) {
             perror("accept");
             close(server_fd);
@@ -149,17 +183,23 @@ int main(int argc, char *argv[]) {
         }
 
         while (read(new_socket, buffer, BUFFER_SIZE) > 0) {
+
             if (strncmp(buffer, CANCEL_MSG, strlen(CANCEL_MSG)) == 0) {
                 handle_cancellation();
                 break;
             }
 
+         
+
             num_orders = atoi(buffer);
             printf("Number of orders: %d\n", num_orders);
+            sprintf(log_buffer, "Number of orders: %d\n", num_orders);
+            loggin(log_buffer);
 
             Order orders[num_orders];
 
             for (int i = 0; i < num_orders; i++) {
+                memset(buffer, 0, BUFFER_SIZE);
                 if (read(new_socket, buffer, BUFFER_SIZE) < 0) {
                     perror("read");
                     close(new_socket);
@@ -173,8 +213,8 @@ int main(int argc, char *argv[]) {
                 }
 
                 sscanf(buffer, "%d %d %d %d %d %d %d %d", &orders[i].ip, &orders[i].port, &orders[i].pid, &orders[i].order_id, &orders[i].p, &orders[i].q, &orders[i].shop_x, &orders[i].shop_y);
-
-                print_order(orders[i]);
+                pid_client = orders[i].pid;
+              
             }
 
             reset_data();
@@ -233,7 +273,12 @@ int main(int argc, char *argv[]) {
             }
 
             printf("Most active chef: Chef %d with %d orders\n", max_chef_id, max_chef_count);
+            sprintf(log_buffer, "Most active chef: Chef %d with %d orders\n", max_chef_id, max_chef_count);
+            loggin(log_buffer);
+
             printf("Most active courier: Courier %d with %d orders\n", max_courier_id, max_courier_count);
+            sprintf(log_buffer, "Most active courier: Courier %d with %d orders\n", max_courier_id, max_courier_count);
+            loggin(log_buffer);
 
             // Destroy semaphores
             sem_destroy(&oven_sem);
@@ -241,9 +286,11 @@ int main(int argc, char *argv[]) {
             sem_destroy(&oven_entry_sem);
 
             // Send response back to client
-            char response[BUFFER_SIZE];
-            sprintf(response, "Most active chef: Chef %d with %d orders\nMost active courier: Courier %d with %d orders\n", max_chef_id, max_chef_count, max_courier_id, max_courier_count);
-            send(new_socket, response, strlen(response), 0);
+  
+
+            printf("done serving client @ %s Pid: %d\n", inet_ntoa(address.sin_addr), pid_client);
+            sprintf(log_buffer, "done serving client @ %s Pid: %d\n", inet_ntoa(address.sin_addr), pid_client);
+            loggin(log_buffer);
 
             close(new_socket);
         }
@@ -278,16 +325,18 @@ void* chef(void* arg) {
         }
 
         // Prepare the order (1 second)
-        printf("Chef %d is preparing order %d\n", id, order.order_id);
+        //printf("Chef %d is preparing order %d\n", id, order.order_id);
         char message[BUFFER_SIZE];
+        memset(message, 0, BUFFER_SIZE);
         sprintf(message, "Order %d prepared by chef %d", order.order_id, id);
+        
         send_message_to_client(message);
 
         double time_to_prepare = calculate_psuedo_inverse_time();
 
         usleep(time_to_prepare ); 
 
-        printf("Time to prepare: %f\n", time_to_prepare);
+        //printf("Time to prepare: %f\n", time_to_prepare);
 
         sem_wait(&oven_sem);
 
@@ -298,8 +347,8 @@ void* chef(void* arg) {
         sem_wait(&oven_entry_sem);
 
         // Place the order in the oven
-        printf("Chef %d placed order %d in the oven\n", id, order.order_id);
-
+        //printf("Chef %d placed order %d in the oven\n", id, order.order_id);
+        memset(message, 0, BUFFER_SIZE);
         message[BUFFER_SIZE];
         sprintf(message, "Order %d placed in the oven by chef %d", order.order_id, id);
         send_message_to_client(message);
@@ -319,7 +368,7 @@ void* chef(void* arg) {
         sem_wait(&oven_entry_sem);
 
         // Take the order out of the oven
-        printf("Chef %d took order %d out of the oven\n", id, order.order_id);
+        //printf("Chef %d took order %d out of the oven\n", id, order.order_id);
 
         // Release the oven entry
         sem_post(&oven_entry_sem);
@@ -333,7 +382,7 @@ void* chef(void* arg) {
         // Put the cooked order in the cooked orders queue
         pthread_mutex_lock(&cooked_queue.cooked_mutex);
         cooked_queue.cooked_orders[cooked_queue.cooked_count++] = order;
-        printf("Chef %d placed order %d in the cooked orders queue\n", id, order.order_id);
+        //printf("Chef %d placed order %d in the cooked orders queue\n", id, order.order_id);
         pthread_cond_signal(&cooked_queue.cooked_cond);
         pthread_mutex_unlock(&cooked_queue.cooked_mutex);
 
@@ -399,17 +448,18 @@ void* courier(void* arg) {
 
         double total_time = 0;
         // Deliver the orders
-        printf("Courier %d is delivering orders:", id);
+        //printf("Courier %d is delivering orders:", id);
         for (int i = 0; i < count; i++) {
             double time_to_deliver = calculate_time(start_x, start_y, deliveries[i].p, deliveries[i].q);
             total_time += time_to_deliver;
             char message[BUFFER_SIZE];
+            memset(message, 0, BUFFER_SIZE);
             sprintf(message, "Order %d has been given to courier %d. Delivery time: %f seconds", deliveries[i].order_id, id, total_time);
             send_message_to_client(message);
 
             // Sleep time_to_deliver seconds using usleep
             usleep(time_to_deliver * 1000000); // Convert seconds to microseconds
-
+            memset(message, 0, BUFFER_SIZE);
             sprintf(message, "Order %d has been delivered by courier %d", deliveries[i].order_id, id);
             send_message_to_client(message);
 
@@ -521,6 +571,7 @@ double hypotenuse(double a, double b) {
 }
 void send_message_to_client(const char *message) {
     char buffer[BUFFER_SIZE];
+    memset(buffer, 0, BUFFER_SIZE);
     snprintf(buffer, BUFFER_SIZE, "%s", message);
     send(new_socket, buffer, BUFFER_SIZE, 0);
     usleep(100000); // 0.1 ms
@@ -583,8 +634,9 @@ void matrixProduct(complex double mat1[COLS][ROWS], complex double mat2[ROWS][CO
 
 // Function to perform Gauss-Jordan elimination to invert a matrix
 int gaussJordan(complex double matrix[COLS][COLS], complex double inverse[COLS][COLS]) {
-    int i, j, k;
-    complex double ratio;
+    
+    int i, j, k, maxRow;
+    complex double ratio, temp;
 
     // Initialize the inverse matrix as the identity matrix
     for (i = 0; i < COLS; i++) {
@@ -598,25 +650,47 @@ int gaussJordan(complex double matrix[COLS][COLS], complex double inverse[COLS][
 
     // Perform Gauss-Jordan elimination
     for (i = 0; i < COLS; i++) {
-        if (creal(matrix[i][i]) == 0 && cimag(matrix[i][i]) == 0) {
-            // Matrix is singular and cannot be inverted
+        // Find the maximum element in the current column for pivot
+        maxRow = i;
+        for (k = i + 1; k < COLS; k++) {
+            if (cabs(matrix[k][i]) > cabs(matrix[maxRow][i])) {
+                maxRow = k;
+            }
+        }
+
+        // Swap the rows if necessary
+        if (i != maxRow) {
+            for (k = 0; k < COLS; k++) {
+                temp = matrix[i][k];
+                matrix[i][k] = matrix[maxRow][k];
+                matrix[maxRow][k] = temp;
+
+                temp = inverse[i][k];
+                inverse[i][k] = inverse[maxRow][k];
+                inverse[maxRow][k] = temp;
+            }
+        }
+
+        // Check if the matrix is singular
+        if (cabs(matrix[i][i]) == 0.0) {
             return -1;
         }
+
+        // Normalize the pivot row
+        for (k = 0; k < COLS; k++) {
+            matrix[i][k] /= matrix[i][i];
+            inverse[i][k] /= matrix[i][i];
+        }
+
+        // Eliminate the other rows
         for (j = 0; j < COLS; j++) {
-            if (i != j) {
-                ratio = matrix[j][i] / matrix[i][i];
+            if (j != i) {
+                ratio = matrix[j][i];
                 for (k = 0; k < COLS; k++) {
                     matrix[j][k] -= ratio * matrix[i][k];
                     inverse[j][k] -= ratio * inverse[i][k];
                 }
             }
-        }
-    }
-
-    // Normalize the diagonal elements to 1
-    for (i = 0; i < COLS; i++) {
-        for (j = 0; j < COLS; j++) {
-            inverse[i][j] /= matrix[i][i];
         }
     }
 
@@ -637,7 +711,7 @@ void pseudoInverse(complex double matrix[ROWS][COLS], complex double result[COLS
 
     // Compute the inverse of the product using Gauss-Jordan elimination
     if (gaussJordan(product, inverse) == -1) {
-        printf("Matrix is singular and cannot be inverted.\n");
+        //printf("Matrix is singular and cannot be inverted.\n");
         return;
     }
 
@@ -673,4 +747,42 @@ double calculate_psuedo_inverse_time() { // microseconds
 
     return (end_time - start_time) / CLOCKS_PER_SEC * 1000000;
    
+}
+
+
+void loggin(char *message) {
+    int log_fd = open("server.log", O_CREAT | O_WRONLY | O_APPEND, 0644);
+
+    if (log_fd == -1) {
+        perror("open");
+        exit(EXIT_FAILURE);
+    }
+
+    //write time to log file
+    time_t t = time(NULL);
+    struct tm tm = *localtime(&t);
+    char time_buffer[32];
+    memset(time_buffer, 0, 32);
+    sprintf(time_buffer, "[%d-%d-%d %d:%d:%d] ", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec);
+    int n = write(log_fd, time_buffer, strlen(time_buffer));
+
+    if (n == -1) {
+        perror("write");
+        close(log_fd);
+        exit(EXIT_FAILURE);
+    }
+
+    
+    
+    n = write(log_fd, message, strlen(message));
+
+    if (n == -1) {
+        perror("write");
+        close(log_fd);
+        exit(EXIT_FAILURE);
+    }
+
+    memset(log_buffer, 0, LOG_SIZE);
+
+    close(log_fd);
 }

@@ -10,7 +10,6 @@
 #include <fcntl.h>
 #include <time.h>
 
-
 #define PORT 8080
 #define BUFFER_SIZE 1024
 #define CANCEL_MSG "CANCEL"
@@ -40,16 +39,13 @@ int main(int argc, char *argv[]) {
     }
 
     srand(time(NULL));
-
-    // log file
-
+    
+    // Open log file
     int log_fd = open("client.log", O_CREAT | O_WRONLY | O_APPEND, 0644);
     if (log_fd == -1) {
         perror("open");
         exit(EXIT_FAILURE);
     }
-
-
 
     const char *ip = argv[1];
     const int number_of_clients = atoi(argv[2]);
@@ -98,66 +94,64 @@ int main(int argc, char *argv[]) {
         orders[i].shop_y = q / 2;
     }
 
-
-    sprintf(buffer, "%d", number_of_clients);
+    // Initialize the buffer to avoid uninitialized byte errors
+    memset(buffer, 0, BUFFER_SIZE);
+    snprintf(buffer, BUFFER_SIZE, "%d", number_of_clients);
     send(sock, buffer, BUFFER_SIZE, 0);
     printf("Number of clients sent to server\n");
-    usleep(100000); // 1 ms
+    usleep(100000); // 100 ms
 
     for (int i = 0; i < number_of_clients; i++) {
         char message[BUFFER_SIZE];
-        sprintf(message, "%d %d %d %d %d %d %d %d ", orders[i].ip, orders[i].port, orders[i].pid, orders[i].order_id, orders[i].p, orders[i].q , orders[i].shop_x, orders[i].shop_y);
+        memset(message, 0, BUFFER_SIZE); // Ensure message buffer is zeroed out
+        snprintf(message, BUFFER_SIZE, "%d %d %d %d %d %d %d %d ", orders[i].ip, orders[i].port, orders[i].pid, orders[i].order_id, orders[i].p, orders[i].q, orders[i].shop_x, orders[i].shop_y);
 
         send(sock, message, BUFFER_SIZE, 0);
 
-        //write to log file time, order_id, p, q
-        char log_message[BUFFER_SIZE*2];
+        // Write to log file: time, order_id, p, q
+        char log_message[BUFFER_SIZE * 2];
         time_t t = time(NULL);
         struct tm tm = *localtime(&t);
-        sprintf(log_message, "[%d-%d-%d %d:%d:%d] Order ID: %d, p: %d, q: %d\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec, orders[i].order_id, orders[i].p, orders[i].q);
+        snprintf(log_message, sizeof(log_message), "[%d-%02d-%02d %02d:%02d:%02d] Order ID: %d, p: %d, q: %d\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec, orders[i].order_id, orders[i].p, orders[i].q);
         int n = write(log_fd, log_message, strlen(log_message));
         
         if (n == -1) {
             perror("write");
             close(sock);
             exit(EXIT_FAILURE);
-
         }
 
-        
-
-        usleep(100000); // 1 ms
-        
+        usleep(100000); // 100 ms
     }
-    printf("Order sent to server\n");
+
+    printf("Orders sent to server\n");
+
     // Read from server
-    int n = number_of_clients;
+    int n = number_of_clients * 4;
 
-    for (int i = 0; i < n*4; i++) {
+    for (int i = 0; i < n; i++) {
+        memset(buffer, 0, BUFFER_SIZE); // Ensure buffer is zeroed out before reading
         read(sock, buffer, BUFFER_SIZE);
-        //printf("%s\n", buffer);
 
-        char log_message[BUFFER_SIZE*2];
+        // Write server response to log file
+        char log_message[BUFFER_SIZE * 2];
         time_t t = time(NULL);
         struct tm tm = *localtime(&t);
-        sprintf(log_message, "[%d-%d-%d %d:%d:%d] %s\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec, buffer);
-        int n = write(log_fd, log_message, strlen(log_message));
+        snprintf(log_message, sizeof(log_message), "[%d-%02d-%02d %02d:%02d:%02d] %s\n", tm.tm_year + 1900, tm.tm_mon + 1, tm.tm_mday, tm.tm_hour, tm.tm_min, tm.tm_sec, buffer);
+        n = write(log_fd, log_message, strlen(log_message));
         
         if (n == -1) {
             perror("write");
             close(sock);
             exit(EXIT_FAILURE);
-
         }
 
-       
-        usleep(100000); // 1 ms
-       
-
+        usleep(100000); // 100 ms
     }
     
-
+    printf("Every client received the order\n");
     close(sock);
+    close(log_fd);
     printf("PID: %d\n", getpid());
 
     return 0;
@@ -172,10 +166,8 @@ void print_order(Order order) {
     printf("Port: %d\n", order.port);
     printf("PID: %d\n", order.pid);
     printf("Order ID: %d\n", order.order_id);
-
     printf("P: %d\n", order.p);
     printf("Q: %d\n", order.q);
-
     printf("Shop X: %d\n", order.shop_x);
     printf("Shop Y: %d\n", order.shop_y);
     printf("\n");
@@ -187,7 +179,5 @@ void handle_signal(int signal) {
         send(sock, CANCEL_MSG, strlen(CANCEL_MSG), 0); // Send cancellation message to the server
         close(sock);
         exit(EXIT_SUCCESS);
-        
     }
 }
-

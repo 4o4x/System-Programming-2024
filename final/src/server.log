@@ -1,0 +1,108 @@
+[2024-6-14 23:9:38] Server listening on 127.0.0.1:8080
+[2024-6-14 23:12:56] Server listening on 127.0.0.1:8080
+[2024-6-14 23:12:56] Waiting for connection...
+[2024-6-14 23:12:58] Number of orders: 20
+[2024-6-14 23:13:5] Server listening on 127.0.0.1:8080
+[2024-6-14 23:13:5] Waiting for connection...
+[2024-6-14 23:13:58] Server listening on 127.0.0.1:8080
+[2024-6-14 23:13:58] Waiting for connection...
+[2024-6-14 23:13:59] Number of orders: 20
+[2024-6-14 23:14:56] Server listening on 127.0.0.1:8080
+[2024-6-14 23:14:56] Waiting for connection...
+[2024-6-14 23:15:1] Server listening on 127.0.0.1:8080
+[2024-6-14 23:15:1] Waiting for connection...
+[2024-6-14 23:15:2] Received signal 2
+[2024-6-14 23:15:18] Server listening on 127.0.0.1:8080
+[2024-6-14 23:15:18] Waiting for connection...
+[2024-6-14 23:15:24] Number of orders: 20
+[2024-6-14 23:15:56] Received signal 2
+[2024-6-14 23:16:46] Received signal 2
+[2024-6-14 23:16:46] Received signal 2
+[2024-6-14 23:17:58] Server listening on 127.0.0.1:8080
+[2024-6-14 23:17:58] Waiting for connection...
+[2024-6-14 23:18:2] Number of orders: 20
+[2024-6-14 23:18:9] Most active chef: Chef 0 with 2 orders
+[2024-6-14 23:18:9] Most active courier: Courier 0 with 3 orders
+[2024-6-14 23:18:9] done serving client @ 127.0.0.1 Pid: 8595
+[2024-6-14 23:18:9] Waiting for connection...
+[2024-6-14 23:19:35] Received signal 2
+[2024-6-14 23:20:22] Server listening on 127.0.0.1:8080
+[2024-6-14 23:20:22] Waiting for connection...
+[2024-6-14 23:20:26] Number of orders: 20
+[2024-6-14 23:20:34] Most active chef: Chef 0 with 2 orders
+[2024-6-14 23:20:34] Most active courier: Courier 0 with 3 orders
+[2024-6-14 23:20:34] done serving client @ 127.0.0.1 Pid: 8621
+[2024-6-14 23:20:34] Waiting for connection...
+[2024-6-14 23:21:5] Received signal 2
+[2024-6-14 23:21:11] Server listening on 127.0.0.1:8080
+[2024-6-14 23:21:11] Waiting for connection...
+[2024-6-14 23:21:13] Number of orders: 20
+[2024-6-14 23:21:21] Most active chef: Chef 0 with 2 orders
+[2024-6-14 23:21:21] Most active courier: Courier 0 with 3 orders
+[2024-6-14 23:21:21] done serving client @ 127.0.0.1 Pid: 8660
+[2024-6-14 23:21:21] Waiting for connection...
+[2024-6-14 23:21:27] Number of orders: 20
+[2024-6-14 23:21:35] Server listening on 127.0.0.1:8080
+[2024-6-14 23:21:35] Waiting for connection...
+[2024-6-14 23:21:37] Number of orders: 20
+[2024-6-14 23:21:38] Most active chef: Chef 0 with 0 orders
+[2024-6-14 23:21:38] Most active courier: Courier 0 with 0 orders
+[2024-6-14 23:21:38] done serving client @ 127.0.0.1 Pid: 8706
+[2024-6-14 23:21:38] Waiting for connection...
+[2024-6-14 23:21:44] Received signal 2
+[2024-6-14 23:21:52] Server listening on 127.0.0.1:8080
+[2024-6-14 23:21:52] Waiting for connection...
+[2024-6-14 23:21:56] Received signal 2
+[2024-6-14 23:22:18] Server listening on 127.0.0.1:8080
+[2024-6-14 23:22:18] Waiting for connection...
+[2024-6-14 23:22:26] Number of orders: 20
+[2024-6-14 23:24:54] Server listening on 127.0.0.1:8080
+[2024-6-14 23:24:54] Waiting for connection...
+[2024-6-14 23:24:55] Number of orders: 20
+[2024-6-14 23:26:32] Received signal 2
+[2024-6-14 23:26:32] [2024-6-14 23:27:22] Server listening on 127.0.0.1:8080
+[2024-6-14 23:27:22] Waiting for connection...
+[2024-6-14 23:27:25] Number of orders: 20
+[2024-6-14 23:28:9] Received signal 2
+[2024-6-14 23:28:9] Received signal 2
+[2024-6-14 23:28:21] Server listening on 127.0.0.1:8080
+[2024-6-14 23:28:21] Waiting for connection...
+[2024-6-14 23:28:24] Number of orders: 20
+[2024-6-14 23:28:32] Most active chef: Chef 0 with 2 orders
+[2024-6-14 23:28:32] Most active courier: Courier 0 with 3 orders
+[2024-6-14 23:28:32] done serving client @ 127.0.0.1 Pid: 8880
+[2024-6-14 23:28:32] Waiting for connection...
+[2024-6-14 23:30:1] Received signal 2
+[2024-6-14 23:30:7] Server listening on 127.0.0.1:8080
+[2024-6-14 23:30:7] Waiting for connection...
+[2024-6-14 23:30:10] Number of orders: 20
+[2024-6-14 23:30:57] Received signal 2
+[2024-6-14 23:31:37] Server listening on 127.0.0.1:8080
+[2024-6-14 23:31:37] Waiting for connection...
+[2024-6-14 23:31:39] Number of orders: 20
+[2024-6-14 23:33:32] Server listening on 127.0.0.1:8080
+[2024-6-14 23:33:32] Waiting for connection...
+[2024-6-14 23:33:36] Number of orders: 20
+[2024-6-14 23:33:43] Most active chef: Chef 0 with 2 orders
+[2024-6-14 23:33:43] Most active courier: Courier 1 with 3 orders
+[2024-6-14 23:33:43] done serving client @ 127.0.0.1 Pid: 8997
+[2024-6-14 23:33:43] Waiting for connection...
+[2024-6-14 23:34:15] Received signal 2
+[2024-6-14 23:34:17] Server listening on 127.0.0.1:8080
+[2024-6-14 23:34:17] Waiting for connection...
+[2024-6-14 23:34:24] Server listening on 127.0.0.1:8080
+[2024-6-14 23:34:24] Waiting for connection...
+[2024-6-14 23:34:28] Number of orders: 20
+[2024-6-14 23:34:32] Server listening on 127.0.0.1:8080
+[2024-6-14 23:34:32] Waiting for connection...
+[2024-6-14 23:34:33] Number of orders: 20
+[2024-06-14 23:39:30] Server listening on 127.0.0.1:8080
+[2024-06-14 23:39:30] Waiting for connection...
+[2024-06-14 23:39:36] Number of orders: 20
+[2024-06-14 23:39:43] Most active chef: Chef 0 with 2 orders
+[2024-06-14 23:39:43] Most active courier: Courier 1 with 3 orders
+[2024-06-14 23:39:43] done serving client @ 127.0.0.1 Pid: 9078
+[2024-06-14 23:39:43] Waiting for connection...
+[2024-06-14 23:39:50] Server listening on 127.0.0.1:8080
+[2024-06-14 23:39:51] Waiting for connection...
+[2024-06-14 23:39:53] Number of orders: 20

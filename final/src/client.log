@@ -3153,3 +3153,2084 @@ Most active courier: Courier 0 with 0 orders
 [2024-6-14 21:42:48] Order 3 has been given to courier 7. Delivery time: 2.176626 seconds
 [2024-6-14 21:42:48] Order 2 has been delivered by courier 2
 [2024-6-14 21:42:49] Order 3 has been delivered by courier 7
+[2024-6-14 22:32:17] Order ID: 0, p: 12, q: 18
+[2024-6-14 22:32:17] Order ID: 1, p: 11, q: 14
+[2024-6-14 22:32:17] Order ID: 2, p: 13, q: 16
+[2024-6-14 22:32:17] Order ID: 3, p: 5, q: 12
+[2024-6-14 22:32:17] Order ID: 4, p: 6, q: 19
+[2024-6-14 22:32:18] Order ID: 5, p: 17, q: 8
+[2024-6-14 22:32:18] Order 5 prepared by chef 0
+[2024-6-14 22:32:18] Order 4 prepared by chef 3
+[2024-6-14 22:32:18] Order 3 prepared by chef 2
+[2024-6-14 22:32:18] Order 0 prepared by chef 8
+[2024-6-14 22:32:18] Order 2 prepared by chef 4
+[2024-6-14 22:32:18] Order 1 prepared by chef 7
+[2024-6-14 22:32:18] Order 0 placed in the oven by chef 8
+[2024-6-14 22:32:18] Order 5 placed in the oven by chef 0
+[2024-6-14 22:32:18] Order 4 placed in the oven by chef 3
+[2024-6-14 22:32:19] Order 3 placed in the oven by chef 2
+[2024-6-14 22:32:19] Order 2 placed in the oven by chef 4
+[2024-6-14 22:32:19] Order 1 placed in the oven by chef 7
+[2024-6-14 22:32:19] Order 5 has been given to courier 4. Delivery time: 0.436807 seconds
+[2024-6-14 22:32:19] Order 2 has been given to courier 5. Delivery time: 0.402492 seconds
+[2024-6-14 22:32:19] Order 2 has been delivered by courier 5
+[2024-6-14 22:32:19] Order 5 has been delivered by courier 4
+[2024-6-14 22:32:19] Order 1 has been given to courier 5. Delivery time: 0.572198 seconds
+[2024-6-14 22:32:19] Order 4 has been given to courier 4. Delivery time: 1.370188 seconds
+[2024-6-14 22:32:20] Order 1 has been delivered by courier 5
+[2024-6-14 22:32:20] Order 3 has been given to courier 5. Delivery time: 0.951671 seconds
+[2024-6-14 22:32:20] Order 4 has been delivered by courier 4
+[2024-6-14 22:32:20] Order 3 has been delivered by courier 5
+[2024-6-14 22:32:21] Order 0 has been given to courier 4. Delivery time: 1.735153 seconds
+[2024-6-14 22:32:21] Order 0 has been delivered by courier 4
+[2024-6-14 22:32:37] Order ID: 0, p: 15, q: 9
+[2024-6-14 22:32:37] Order ID: 1, p: 10, q: 18
+[2024-6-14 22:32:37] Order ID: 2, p: 8, q: 15
+[2024-6-14 22:32:37] Order ID: 3, p: 11, q: 7
+[2024-6-14 22:32:37] Order ID: 4, p: 10, q: 0
+[2024-6-14 22:32:37] Order ID: 5, p: 10, q: 3
+[2024-6-14 22:32:37] Order ID: 6, p: 7, q: 2
+[2024-6-14 22:32:37] Order ID: 7, p: 4, q: 14
+[2024-6-14 22:32:38] Order ID: 8, p: 3, q: 12
+[2024-6-14 22:32:38] Order ID: 9, p: 1, q: 17
+[2024-6-14 22:32:38] Order ID: 10, p: 3, q: 19
+[2024-6-14 22:32:38] Order ID: 11, p: 16, q: 16
+[2024-6-14 22:32:38] Order ID: 12, p: 0, q: 4
+[2024-6-14 22:32:38] Order ID: 13, p: 4, q: 13
+[2024-6-14 22:32:38] Order ID: 14, p: 10, q: 2
+[2024-6-14 22:32:38] Order ID: 15, p: 0, q: 17
+[2024-6-14 22:32:38] Order ID: 16, p: 11, q: 10
+[2024-6-14 22:32:39] Order ID: 17, p: 8, q: 12
+[2024-6-14 22:32:39] Order ID: 18, p: 17, q: 19
+[2024-6-14 22:32:39] Order ID: 19, p: 11, q: 8
+[2024-6-14 22:32:39] Order 19 prepared by chef 0
+[2024-6-14 22:32:39] Order 18 prepared by chef 1
+[2024-6-14 22:32:39] Order 17 prepared by chef 2
+[2024-6-14 22:32:39] Order 16 prepared by chef 3
+[2024-6-14 22:32:39] Order 15 prepared by chef 4
+[2024-6-14 22:32:39] Order 14 prepared by chef 5
+[2024-6-14 22:32:39] Order 13 prepared by chef 6
+[2024-6-14 22:32:40] Order 12 prepared by chef 9
+[2024-6-14 22:32:40] Order 11 prepared by chef 8
+[2024-6-14 22:32:40] Order 10 prepared by chef 7
+[2024-6-14 22:32:40] Order 16 placed in the oven by chef 3
+[2024-6-14 22:32:40] Order 13 placed in the oven by chef 6
+[2024-6-14 22:32:40] Order 14 placed in the oven by chef 5
+[2024-6-14 22:32:40] Order 15 placed in the oven by chef 4
+[2024-6-14 22:32:40] Order 12 placed in the oven by chef 9
+[2024-6-14 22:32:40] Order 10 placed in the oven by chef 7
+[2024-6-14 22:32:40] Order 18 placed in the oven by chef 1
+[2024-6-14 22:32:41] Order 9 prepared by chef 3
+[2024-6-14 22:32:41] Order 8 prepared by chef 6
+[2024-6-14 22:32:41] Order 7 prepared by chef 5
+[2024-6-14 22:32:41] Order 6 prepared by chef 4
+[2024-6-14 22:32:41] Order 14 has been given to courier 7. Delivery time: 0.480000 seconds
+[2024-6-14 22:32:41] Order 17 placed in the oven by chef 2
+[2024-6-14 22:32:41] Order 11 placed in the oven by chef 8
+[2024-6-14 22:32:41] Order 19 placed in the oven by chef 0
+[2024-6-14 22:32:41] Order 7 placed in the oven by chef 5
+[2024-6-14 22:32:42] Order 9 placed in the oven by chef 3
+[2024-6-14 22:32:42] Order 5 prepared by chef 9
+[2024-6-14 22:32:42] Order 4 prepared by chef 7
+[2024-6-14 22:32:42] Order 10 has been given to courier 5. Delivery time: 0.684105 seconds
+[2024-6-14 22:32:42] Order 3 prepared by chef 2
+[2024-6-14 22:32:42] Order 2 prepared by chef 1
+[2024-6-14 22:32:42] Order 8 placed in the oven by chef 6
+[2024-6-14 22:32:42] Order 6 placed in the oven by chef 4
+[2024-6-14 22:32:42] Order 14 has been delivered by courier 7
+[2024-6-14 22:32:42] Order 1 prepared by chef 0
+[2024-6-14 22:32:43] Order 0 prepared by chef 8
+[2024-6-14 22:32:43] Order 19 has been given to courier 1. Delivery time: 0.134164 seconds
+[2024-6-14 22:32:43] Order 2 placed in the oven by chef 1
+[2024-6-14 22:32:43] Order 3 placed in the oven by chef 2
+[2024-6-14 22:32:43] Order 7 has been given to courier 2. Delivery time: 0.432666 seconds
+[2024-6-14 22:32:43] Order 13 has been given to courier 7. Delivery time: 1.231798 seconds
+[2024-6-14 22:32:43] Order 5 placed in the oven by chef 9
+[2024-6-14 22:32:43] Order 4 placed in the oven by chef 7
+[2024-6-14 22:32:43] Order 19 has been delivered by courier 1
+[2024-6-14 22:32:43] Order 0 placed in the oven by chef 8
+[2024-6-14 22:32:44] Order 1 placed in the oven by chef 0
+[2024-6-14 22:32:44] Order 2 has been given to courier 3. Delivery time: 0.323110 seconds
+[2024-6-14 22:32:44] Order 10 has been delivered by courier 5
+[2024-6-14 22:32:44] Order 18 has been given to courier 1. Delivery time: 0.885962 seconds
+[2024-6-14 22:32:44] Order 4 has been given to courier 9. Delivery time: 0.600000 seconds
+[2024-6-14 22:32:44] Order 1 has been given to courier 4. Delivery time: 0.480000 seconds
+[2024-6-14 22:32:44] Order 7 has been delivered by courier 2
+[2024-6-14 22:32:44] Order 12 has been given to courier 5. Delivery time: 1.601929 seconds
+[2024-6-14 22:32:44] Order 9 has been given to courier 2. Delivery time: 0.687225 seconds
+[2024-6-14 22:32:45] Order 2 has been delivered by courier 3
+[2024-6-14 22:32:45] Order 13 has been delivered by courier 7
+[2024-6-14 22:32:45] Order 8 has been given to courier 3. Delivery time: 0.672967 seconds
+[2024-6-14 22:32:45] Order 16 has been given to courier 7. Delivery time: 1.688744 seconds
+[2024-6-14 22:32:45] Order 1 has been delivered by courier 4
+[2024-6-14 22:32:45] Order 9 has been delivered by courier 2
+[2024-6-14 22:32:45] Order 4 has been delivered by courier 9
+[2024-6-14 22:32:45] Order 18 has been delivered by courier 1
+[2024-6-14 22:32:45] Order 11 has been given to courier 2. Delivery time: 1.589222 seconds
+[2024-6-14 22:32:45] Order 0 has been given to courier 4. Delivery time: 1.097738 seconds
+[2024-6-14 22:32:46] Order 5 has been given to courier 9. Delivery time: 0.780000 seconds
+[2024-6-14 22:32:46] Order 17 has been given to courier 1. Delivery time: 1.570067 seconds
+[2024-6-14 22:32:46] Order 8 has been delivered by courier 3
+[2024-6-14 22:32:46] Order 12 has been delivered by courier 5
+[2024-6-14 22:32:46] Order 16 has been delivered by courier 7
+[2024-6-14 22:32:46] Order 6 has been given to courier 3. Delivery time: 1.319187 seconds
+[2024-6-14 22:32:46] Order 15 has been given to courier 5. Delivery time: 2.381929 seconds
+[2024-6-14 22:32:46] Order 5 has been delivered by courier 9
+[2024-6-14 22:32:46] Order 3 has been given to courier 9. Delivery time: 1.027386 seconds
+[2024-6-14 22:32:47] Order 0 has been delivered by courier 4
+[2024-6-14 22:32:47] Order 17 has been delivered by courier 1
+[2024-6-14 22:32:47] Order 11 has been delivered by courier 2
+[2024-6-14 22:32:47] Order 3 has been delivered by courier 9
+[2024-6-14 22:32:47] Order 6 has been delivered by courier 3
+[2024-6-14 22:32:47] Order 15 has been delivered by courier 5
+[2024-6-14 22:41:27] Order ID: 0, p: 10, q: 11
+[2024-6-14 22:41:27] Order ID: 1, p: 0, q: 10
+[2024-6-14 22:41:27] Order ID: 2, p: 12, q: 16
+[2024-6-14 22:41:27] Order ID: 3, p: 7, q: 3
+[2024-6-14 22:41:27] Order ID: 4, p: 2, q: 1
+[2024-6-14 22:41:27] Order ID: 5, p: 0, q: 17
+[2024-6-14 22:41:27] Order ID: 6, p: 1, q: 10
+[2024-6-14 22:41:28] Order ID: 7, p: 10, q: 11
+[2024-6-14 22:41:28] Order ID: 8, p: 8, q: 1
+[2024-6-14 22:41:28] Order ID: 9, p: 12, q: 7
+[2024-6-14 22:41:28] Order ID: 10, p: 14, q: 4
+[2024-6-14 22:41:28] Order ID: 11, p: 12, q: 17
+[2024-6-14 22:41:28] Order ID: 12, p: 4, q: 8
+[2024-6-14 22:41:28] Order ID: 13, p: 10, q: 17
+[2024-6-14 22:41:28] Order ID: 14, p: 14, q: 11
+[2024-6-14 22:41:28] Order ID: 15, p: 17, q: 16
+[2024-6-14 22:41:28] Order ID: 16, p: 15, q: 17
+[2024-6-14 22:41:29] Order ID: 17, p: 6, q: 19
+[2024-6-14 22:41:29] Order ID: 18, p: 6, q: 13
+[2024-6-14 22:41:29] Order ID: 19, p: 2, q: 0
+[2024-6-14 22:41:29] Order 19 prepared by chef 2
+[2024-6-14 22:41:29] Order 18 prepared by chef 0
+[2024-6-14 22:41:29] Order 16 prepared by chef 3
+[2024-6-14 22:41:29] Order 15 prepared by chef 4
+[2024-6-14 22:41:29] Order 14 prepared by chef 5
+[2024-6-14 22:41:29] Order 17 prepared by chef 1
+[2024-6-14 22:41:30] Order 12 prepared by chef 6
+[2024-6-14 22:41:30] Order 11 prepared by chef 8
+[2024-6-14 22:41:30] Order 10 prepared by chef 9
+[2024-6-14 22:41:30] Order 13 prepared by chef 7
+[2024-6-14 22:41:30] Order 11 placed in the oven by chef 8
+[2024-6-14 22:41:30] Order 15 placed in the oven by chef 4
+[2024-6-14 22:41:30] Order 17 placed in the oven by chef 1
+[2024-6-14 22:41:30] Order 14 placed in the oven by chef 5
+[2024-6-14 22:41:30] Order 13 placed in the oven by chef 7
+[2024-6-14 22:41:30] Order 16 placed in the oven by chef 3
+[2024-6-14 22:41:31] Order 9 prepared by chef 8
+[2024-6-14 22:41:31] Order 14 has been given to courier 3. Delivery time: 0.247386 seconds
+[2024-6-14 22:41:31] Order 8 prepared by chef 4
+[2024-6-14 22:41:31] Order 7 prepared by chef 5
+[2024-6-14 22:41:31] Order 19 placed in the oven by chef 2
+[2024-6-14 22:41:31] Order 10 placed in the oven by chef 9
+[2024-6-14 22:41:31] Order 12 placed in the oven by chef 6
+[2024-6-14 22:41:31] Order 6 prepared by chef 1
+[2024-6-14 22:41:31] Order 4 prepared by chef 3
+[2024-6-14 22:41:31] Order 16 has been given to courier 4. Delivery time: 0.516140 seconds
+[2024-6-14 22:41:32] Order 5 prepared by chef 7
+[2024-6-14 22:41:32] Order 18 placed in the oven by chef 0
+[2024-6-14 22:41:32] Order 3 prepared by chef 2
+[2024-6-14 22:41:32] Order 9 placed in the oven by chef 8
+[2024-6-14 22:41:32] Order 8 placed in the oven by chef 4
+[2024-6-14 22:41:32] Order 14 has been delivered by courier 3
+[2024-6-14 22:41:32] Order 7 placed in the oven by chef 5
+[2024-6-14 22:41:32] Order 2 prepared by chef 9
+[2024-6-14 22:41:32] Order 1 prepared by chef 6
+[2024-6-14 22:41:33] Order 4 placed in the oven by chef 3
+[2024-6-14 22:41:33] Order 0 prepared by chef 0
+[2024-6-14 22:41:33] Order 18 has been given to courier 7. Delivery time: 0.300000 seconds
+[2024-6-14 22:41:33] Order 15 has been given to courier 3. Delivery time: 0.597243 seconds
+[2024-6-14 22:41:33] Order 6 placed in the oven by chef 1
+[2024-6-14 22:41:33] Order 5 placed in the oven by chef 7
+[2024-6-14 22:41:33] Order 16 has been delivered by courier 4
+[2024-6-14 22:41:33] Order 3 placed in the oven by chef 2
+[2024-6-14 22:41:33] Order 2 placed in the oven by chef 9
+[2024-6-14 22:41:33] Order 8 has been given to courier 0. Delivery time: 0.553173 seconds
+[2024-6-14 22:41:34] Order 18 has been delivered by courier 7
+[2024-6-14 22:41:34] Order 13 has been given to courier 4. Delivery time: 0.816140 seconds
+[2024-6-14 22:41:34] Order 15 has been delivered by courier 3
+[2024-6-14 22:41:34] Order 1 placed in the oven by chef 6
+[2024-6-14 22:41:34] Order 0 placed in the oven by chef 0
+[2024-6-14 22:41:34] Order 12 has been given to courier 7. Delivery time: 0.623110 seconds
+[2024-6-14 22:41:34] Order 11 has been given to courier 3. Delivery time: 0.903185 seconds
+[2024-6-14 22:41:34] Order 2 has been given to courier 8. Delivery time: 0.379473 seconds
+[2024-6-14 22:41:34] Order 3 has been given to courier 2. Delivery time: 0.456946 seconds
+[2024-6-14 22:41:35] Order 0 has been given to courier 6. Delivery time: 0.060000 seconds
+[2024-6-14 22:41:35] Order 13 has been delivered by courier 4
+[2024-6-14 22:41:35] Order 0 has been delivered by courier 6
+[2024-6-14 22:41:35] Order 8 has been delivered by courier 0
+[2024-6-14 22:41:35] Order 17 has been given to courier 4. Delivery time: 1.084468 seconds
+[2024-6-14 22:41:35] Order 12 has been delivered by courier 7
+[2024-6-14 22:41:35] Order 1 has been given to courier 6. Delivery time: 0.662993 seconds
+[2024-6-14 22:41:35] Order 11 has been delivered by courier 3
+[2024-6-14 22:41:35] Order 9 has been given to courier 0. Delivery time: 0.985839 seconds
+[2024-6-14 22:41:35] Order 2 has been delivered by courier 8
+[2024-6-14 22:41:36] Order 10 has been given to courier 7. Delivery time: 1.269330 seconds
+[2024-6-14 22:41:36] Order 3 has been delivered by courier 2
+[2024-6-14 22:41:36] Order 7 has been given to courier 8. Delivery time: 0.702583 seconds
+[2024-6-14 22:41:36] Order 5 has been given to courier 2. Delivery time: 1.396095 seconds
+[2024-6-14 22:41:36] Order 17 has been delivered by courier 4
+[2024-6-14 22:41:36] Order 9 has been delivered by courier 0
+[2024-6-14 22:41:36] Order 1 has been delivered by courier 6
+[2024-6-14 22:41:36] Order 7 has been delivered by courier 8
+[2024-6-14 22:41:36] Order 19 has been given to courier 0. Delivery time: 1.718232 seconds
+[2024-6-14 22:41:37] Order 10 has been delivered by courier 7
+[2024-6-14 22:41:37] Order 4 has been given to courier 8. Delivery time: 1.470958 seconds
+[2024-6-14 22:41:37] Order 5 has been delivered by courier 2
+[2024-6-14 22:41:37] Order 6 has been given to courier 2. Delivery time: 1.820359 seconds
+[2024-6-14 22:41:37] Order 19 has been delivered by courier 0
+[2024-6-14 22:41:37] Order 4 has been delivered by courier 8
+[2024-6-14 22:41:37] Order 6 has been delivered by courier 2
+[2024-6-14 22:43:55] Order ID: 0, p: 17, q: 12
+[2024-6-14 22:43:55] Order ID: 1, p: 0, q: 0
+[2024-6-14 22:43:55] Order ID: 2, p: 1, q: 13
+[2024-6-14 22:43:56] Order ID: 3, p: 8, q: 4
+[2024-6-14 22:43:56] Order ID: 4, p: 6, q: 9
+[2024-6-14 22:43:56] Order ID: 5, p: 18, q: 1
+[2024-6-14 22:43:56] Order ID: 6, p: 19, q: 14
+[2024-6-14 22:43:56] Order ID: 7, p: 17, q: 15
+[2024-6-14 22:43:56] Order ID: 8, p: 7, q: 18
+[2024-6-14 22:43:56] Order ID: 9, p: 17, q: 9
+[2024-6-14 22:43:56] Order ID: 10, p: 1, q: 10
+[2024-6-14 22:43:56] Order ID: 11, p: 6, q: 9
+[2024-6-14 22:43:56] Order ID: 12, p: 5, q: 2
+[2024-6-14 22:43:57] Order ID: 13, p: 1, q: 7
+[2024-6-14 22:43:57] Order ID: 14, p: 6, q: 18
+[2024-6-14 22:43:57] Order ID: 15, p: 1, q: 3
+[2024-6-14 22:43:57] Order ID: 16, p: 2, q: 1
+[2024-6-14 22:43:57] Order ID: 17, p: 15, q: 3
+[2024-6-14 22:43:57] Order ID: 18, p: 14, q: 15
+[2024-6-14 22:43:57] Order ID: 19, p: 19, q: 12
+[2024-6-14 22:43:57] Order 19 prepared by chef 0
+[2024-6-14 22:43:57] Order 18 prepared by chef 1
+[2024-6-14 22:43:58] Order 17 prepared by chef 2
+[2024-6-14 22:43:58] Order 16 prepared by chef 3
+[2024-6-14 22:43:58] Order 15 prepared by chef 4
+[2024-6-14 22:43:58] Order 14 prepared by chef 5
+[2024-6-14 22:43:58] Order 13 prepared by chef 6
+[2024-6-14 22:43:58] Order 12 prepared by chef 7
+[2024-6-14 22:43:58] Order 11 prepared by chef 8
+[2024-6-14 22:43:58] Order 10 prepared by chef 9
+[2024-6-14 22:43:58] Order 15 placed in the oven by chef 4
+[2024-6-14 22:43:58] Order 11 placed in the oven by chef 8
+[2024-6-14 22:43:59] Order 13 placed in the oven by chef 6
+[2024-6-14 22:43:59] Order 16 placed in the oven by chef 3
+[2024-6-14 22:43:59] Order 12 placed in the oven by chef 7
+[2024-6-14 22:43:59] Order 14 placed in the oven by chef 5
+[2024-6-14 22:43:59] Order 9 prepared by chef 4
+[2024-6-14 22:43:59] Order 17 placed in the oven by chef 2
+[2024-6-14 22:43:59] Order 8 prepared by chef 8
+[2024-6-14 22:43:59] Order 7 prepared by chef 6
+[2024-6-14 22:43:59] Order 13 has been given to courier 2. Delivery time: 0.569210 seconds
+[2024-6-14 22:43:59] Order 18 placed in the oven by chef 1
+[2024-6-14 22:44:0] Order 6 prepared by chef 3
+[2024-6-14 22:44:0] Order 19 placed in the oven by chef 0
+[2024-6-14 22:44:0] Order 5 prepared by chef 5
+[2024-6-14 22:44:0] Order 10 placed in the oven by chef 9
+[2024-6-14 22:44:0] Order 9 placed in the oven by chef 4
+[2024-6-14 22:44:0] Order 4 prepared by chef 7
+[2024-6-14 22:44:0] Order 12 has been given to courier 3. Delivery time: 0.566039 seconds
+[2024-6-14 22:44:0] Order 8 placed in the oven by chef 8
+[2024-6-14 22:44:0] Order 3 prepared by chef 2
+[2024-6-14 22:44:1] Order 2 prepared by chef 1
+[2024-6-14 22:44:1] Order 6 placed in the oven by chef 3
+[2024-6-14 22:44:1] Order 1 prepared by chef 0
+[2024-6-14 22:44:1] Order 0 prepared by chef 9
+[2024-6-14 22:44:1] Order 7 placed in the oven by chef 6
+[2024-6-14 22:44:1] Order 10 has been given to courier 9. Delivery time: 0.540000 seconds
+[2024-6-14 22:44:1] Order 13 has been delivered by courier 2
+[2024-6-14 22:44:1] Order 5 placed in the oven by chef 5
+[2024-6-14 22:44:1] Order 2 placed in the oven by chef 1
+[2024-6-14 22:44:1] Order 9 has been given to courier 4. Delivery time: 0.424264 seconds
+[2024-6-14 22:44:2] Order 11 has been given to courier 2. Delivery time: 0.892320 seconds
+[2024-6-14 22:44:2] Order 4 placed in the oven by chef 7
+[2024-6-14 22:44:2] Order 3 placed in the oven by chef 2
+[2024-6-14 22:44:2] Order 12 has been delivered by courier 3
+[2024-6-14 22:44:2] Order 0 placed in the oven by chef 9
+[2024-6-14 22:44:2] Order 1 placed in the oven by chef 0
+[2024-6-14 22:44:2] Order 5 has been given to courier 5. Delivery time: 0.722496 seconds
+[2024-6-14 22:44:2] Order 10 has been delivered by courier 9
+[2024-6-14 22:44:2] Order 14 has been given to courier 3. Delivery time: 1.527912 seconds
+[2024-6-14 22:44:3] Order 3 has been given to courier 1. Delivery time: 0.379473 seconds
+[2024-6-14 22:44:3] Order 1 has been given to courier 7. Delivery time: 0.848528 seconds
+[2024-6-14 22:44:3] Order 9 has been delivered by courier 4
+[2024-6-14 22:44:3] Order 11 has been delivered by courier 2
+[2024-6-14 22:44:3] Order 19 has been given to courier 9. Delivery time: 1.626646 seconds
+[2024-6-14 22:44:3] Order 8 has been given to courier 4. Delivery time: 1.231482 seconds
+[2024-6-14 22:44:3] Order 15 has been given to courier 2. Delivery time: 1.360935 seconds
+[2024-6-14 22:44:3] Order 3 has been delivered by courier 1
+[2024-6-14 22:44:3] Order 5 has been delivered by courier 5
+[2024-6-14 22:44:3] Order 2 has been given to courier 1. Delivery time: 1.063579 seconds
+[2024-6-14 22:44:4] Order 4 has been given to courier 5. Delivery time: 1.587828 seconds
+[2024-6-14 22:44:4] Order 15 has been delivered by courier 2
+[2024-6-14 22:44:4] Order 1 has been delivered by courier 7
+[2024-6-14 22:44:4] Order 14 has been delivered by courier 3
+[2024-6-14 22:44:4] Order 8 has been delivered by courier 4
+[2024-6-14 22:44:4] Order 0 has been given to courier 7. Delivery time: 2.097047 seconds
+[2024-6-14 22:44:4] Order 16 has been given to courier 3. Delivery time: 2.575767 seconds
+[2024-6-14 22:44:4] Order 19 has been delivered by courier 9
+[2024-6-14 22:44:4] Order 17 has been given to courier 4. Delivery time: 2.251482 seconds
+[2024-6-14 22:44:5] Order 18 has been given to courier 9. Delivery time: 1.976503 seconds
+[2024-6-14 22:44:5] Order 2 has been delivered by courier 1
+[2024-6-14 22:44:5] Order 6 has been given to courier 1. Delivery time: 2.145244 seconds
+[2024-6-14 22:44:5] Order 4 has been delivered by courier 5
+[2024-6-14 22:44:5] Order 18 has been delivered by courier 9
+[2024-6-14 22:44:5] Order 7 has been given to courier 5. Delivery time: 2.339626 seconds
+[2024-6-14 22:44:5] Order 16 has been delivered by courier 3
+[2024-6-14 22:44:5] Order 17 has been delivered by courier 4
+[2024-6-14 22:44:5] Order 0 has been delivered by courier 7
+[2024-6-14 22:44:5] Order 7 has been delivered by courier 5
+[2024-6-14 22:44:6] Order 6 has been delivered by courier 1
+[2024-6-14 22:47:34] Order ID: 0, p: 18, q: 15
+[2024-6-14 22:47:35] Order ID: 1, p: 5, q: 12
+[2024-6-14 22:47:35] Order ID: 2, p: 11, q: 10
+[2024-6-14 22:47:35] Order ID: 3, p: 6, q: 8
+[2024-6-14 22:47:35] Order ID: 4, p: 3, q: 3
+[2024-6-14 22:47:35] Order ID: 5, p: 17, q: 18
+[2024-6-14 22:47:35] Order ID: 6, p: 6, q: 17
+[2024-6-14 22:47:35] Order ID: 7, p: 18, q: 17
+[2024-6-14 22:47:35] Order ID: 8, p: 4, q: 3
+[2024-6-14 22:47:35] Order ID: 9, p: 9, q: 1
+[2024-6-14 22:47:35] Order ID: 10, p: 12, q: 14
+[2024-6-14 22:47:36] Order ID: 11, p: 10, q: 15
+[2024-6-14 22:47:36] Order ID: 12, p: 18, q: 5
+[2024-6-14 22:47:36] Order ID: 13, p: 14, q: 19
+[2024-6-14 22:47:36] Order ID: 14, p: 6, q: 5
+[2024-6-14 22:47:36] Order ID: 15, p: 17, q: 4
+[2024-6-14 22:47:36] Order ID: 16, p: 12, q: 2
+[2024-6-14 22:47:36] Order ID: 17, p: 9, q: 3
+[2024-6-14 22:47:36] Order ID: 18, p: 12, q: 7
+[2024-6-14 22:47:52] Order ID: 0, p: 10, q: 11
+[2024-6-14 22:47:52] Order ID: 1, p: 13, q: 19
+[2024-6-14 22:47:52] Order ID: 2, p: 7, q: 7
+[2024-6-14 22:47:52] Order ID: 3, p: 19, q: 1
+[2024-6-14 22:47:52] Order ID: 4, p: 2, q: 12
+[2024-6-14 22:47:52] Order ID: 5, p: 3, q: 11
+[2024-6-14 22:47:52] Order ID: 6, p: 14, q: 19
+[2024-6-14 22:47:53] Order ID: 7, p: 3, q: 11
+[2024-6-14 22:47:53] Order ID: 8, p: 16, q: 0
+[2024-6-14 22:47:53] Order ID: 9, p: 10, q: 3
+[2024-6-14 22:47:53] Order ID: 10, p: 11, q: 17
+[2024-6-14 22:47:53] Order ID: 11, p: 18, q: 15
+[2024-6-14 22:47:53] Order ID: 12, p: 18, q: 0
+[2024-6-14 22:47:53] Order ID: 13, p: 8, q: 14
+[2024-6-14 22:47:53] Order ID: 14, p: 7, q: 18
+[2024-6-14 22:47:53] Order ID: 15, p: 3, q: 17
+[2024-6-14 22:47:54] Order ID: 16, p: 1, q: 8
+[2024-6-14 22:47:54] Order ID: 17, p: 9, q: 8
+[2024-6-14 22:47:54] Order ID: 18, p: 15, q: 0
+[2024-6-14 22:47:54] Order ID: 19, p: 2, q: 10
+[2024-6-14 22:47:54] Order 19 prepared by chef 0
+[2024-6-14 22:47:54] Order 18 prepared by chef 1
+[2024-6-14 22:47:54] Order 17 prepared by chef 2
+[2024-6-14 22:47:54] Order 16 prepared by chef 3
+[2024-6-14 22:47:54] Order 15 prepared by chef 4
+[2024-6-14 22:47:54] Order 14 prepared by chef 5
+[2024-6-14 22:47:55] Order 13 prepared by chef 6
+[2024-6-14 22:47:55] Order 12 prepared by chef 7
+[2024-6-14 22:47:55] Order 11 prepared by chef 8
+[2024-6-14 22:47:55] Order 10 prepared by chef 9
+[2024-6-14 22:47:55] Order 10 placed in the oven by chef 9
+[2024-6-14 22:47:55] Order 17 placed in the oven by chef 2
+[2024-6-14 22:47:55] Order 12 placed in the oven by chef 7
+[2024-6-14 22:47:55] Order 19 placed in the oven by chef 0
+[2024-6-14 22:47:55] Order 15 placed in the oven by chef 4
+[2024-6-14 22:47:55] Order 13 placed in the oven by chef 6
+[2024-6-14 22:47:56] Order 9 prepared by chef 9
+[2024-6-14 22:47:56] Order 8 prepared by chef 0
+[2024-6-14 22:47:56] Order 14 placed in the oven by chef 5
+[2024-6-14 22:47:56] Order 18 placed in the oven by chef 1
+[2024-6-14 22:47:56] Order 7 prepared by chef 7
+[2024-6-14 22:47:56] Order 12 has been given to courier 0. Delivery time: 0.768375 seconds
+[2024-6-14 22:47:56] Order 6 prepared by chef 2
+[2024-6-14 22:47:56] Order 11 placed in the oven by chef 8
+[2024-6-14 22:47:56] Order 16 placed in the oven by chef 3
+[2024-6-14 22:47:57] Order 8 placed in the oven by chef 0
+[2024-6-14 22:47:57] Order 6 placed in the oven by chef 2
+[2024-6-14 22:47:57] Order 5 prepared by chef 4
+[2024-6-14 22:47:57] Order 4 prepared by chef 1
+[2024-6-14 22:47:57] Order 3 prepared by chef 6
+[2024-6-14 22:47:57] Order 13 has been given to courier 5. Delivery time: 0.268328 seconds
+[2024-6-14 22:47:57] Order 2 prepared by chef 5
+[2024-6-14 22:47:57] Order 7 placed in the oven by chef 7
+[2024-6-14 22:47:57] Order 1 prepared by chef 8
+[2024-6-14 22:47:57] Order 9 placed in the oven by chef 9
+[2024-6-14 22:47:58] Order 11 has been given to courier 9. Delivery time: 0.566039 seconds
+[2024-6-14 22:47:58] Order 0 prepared by chef 3
+[2024-6-14 22:47:58] Order 3 placed in the oven by chef 6
+[2024-6-14 22:47:58] Order 8 has been given to courier 1. Delivery time: 0.699714 seconds
+[2024-6-14 22:47:58] Order 2 placed in the oven by chef 5
+[2024-6-14 22:47:58] Order 13 has been delivered by courier 5
+[2024-6-14 22:47:58] Order 12 has been delivered by courier 0
+[2024-6-14 22:47:58] Order 5 placed in the oven by chef 4
+[2024-6-14 22:47:58] Order 4 placed in the oven by chef 1
+[2024-6-14 22:47:59] Order 18 has been given to courier 5. Delivery time: 1.207477 seconds
+[2024-6-14 22:47:59] Order 19 has been given to courier 0. Delivery time: 1.900453 seconds
+[2024-6-14 22:47:59] Order 1 placed in the oven by chef 8
+[2024-6-14 22:47:59] Order 0 placed in the oven by chef 3
+[2024-6-14 22:47:59] Order 2 has been given to courier 4. Delivery time: 0.254558 seconds
+[2024-6-14 22:47:59] Order 11 has been delivered by courier 9
+[2024-6-14 22:47:59] Order 5 has been given to courier 6. Delivery time: 0.424264 seconds
+[2024-6-14 22:47:59] Order 1 has been given to courier 8. Delivery time: 0.569210 seconds
+[2024-6-14 22:47:59] Order 14 has been given to courier 9. Delivery time: 1.250144 seconds
+[2024-6-14 22:47:59] Order 2 has been delivered by courier 4
+[2024-6-14 22:48:0] Order 8 has been delivered by courier 1
+[2024-6-14 22:48:0] Order 3 has been given to courier 4. Delivery time: 1.059543 seconds
+[2024-6-14 22:48:0] Order 6 has been given to courier 1. Delivery time: 1.846013 seconds
+[2024-6-14 22:48:0] Order 5 has been delivered by courier 6
+[2024-6-14 22:48:0] Order 1 has been delivered by courier 8
+[2024-6-14 22:48:0] Order 18 has been delivered by courier 5
+[2024-6-14 22:48:0] Order 4 has been given to courier 6. Delivery time: 0.509117 seconds
+[2024-6-14 22:48:0] Order 0 has been given to courier 8. Delivery time: 1.081850 seconds
+[2024-6-14 22:48:0] Order 15 has been given to courier 5. Delivery time: 2.455996 seconds
+[2024-6-14 22:48:1] Order 14 has been delivered by courier 9
+[2024-6-14 22:48:1] Order 19 has been delivered by courier 0
+[2024-6-14 22:48:1] Order 4 has been delivered by courier 6
+[2024-6-14 22:48:1] Order 17 has been given to courier 9. Delivery time: 1.862026 seconds
+[2024-6-14 22:48:1] Order 10 has been given to courier 0. Delivery time: 2.584558 seconds
+[2024-6-14 22:48:1] Order 7 has been given to courier 6. Delivery time: 0.593970 seconds
+[2024-6-14 22:48:1] Order 3 has been delivered by courier 4
+[2024-6-14 22:48:1] Order 7 has been delivered by courier 6
+[2024-6-14 22:48:1] Order 9 has been given to courier 4. Delivery time: 1.612716 seconds
+[2024-6-14 22:48:1] Order 0 has been delivered by courier 8
+[2024-6-14 22:48:2] Order 6 has been delivered by courier 1
+[2024-6-14 22:48:2] Order 16 has been given to courier 1. Delivery time: 2.867776 seconds
+[2024-6-14 22:48:2] Order 17 has been delivered by courier 9
+[2024-6-14 22:48:2] Order 10 has been delivered by courier 0
+[2024-6-14 22:48:2] Order 9 has been delivered by courier 4
+[2024-6-14 22:48:2] Order 15 has been delivered by courier 5
+[2024-6-14 22:48:2] Order 16 has been delivered by courier 1
+[2024-6-14 22:50:24] Order ID: 0, p: 10, q: 8
+[2024-6-14 22:50:24] Order ID: 1, p: 3, q: 5
+[2024-6-14 22:50:24] Order ID: 2, p: 15, q: 12
+[2024-6-14 22:50:25] Order ID: 3, p: 0, q: 6
+[2024-6-14 22:50:25] Order ID: 4, p: 5, q: 1
+[2024-6-14 22:50:25] Order ID: 5, p: 1, q: 12
+[2024-6-14 22:50:25] Order ID: 6, p: 8, q: 11
+[2024-6-14 22:50:25] Order ID: 7, p: 6, q: 4
+[2024-6-14 22:50:25] Order ID: 8, p: 2, q: 2
+[2024-6-14 22:50:25] Order ID: 9, p: 3, q: 19
+[2024-6-14 22:50:25] Order ID: 10, p: 13, q: 3
+[2024-6-14 22:50:25] Order ID: 11, p: 15, q: 19
+[2024-6-14 22:50:26] Order ID: 12, p: 8, q: 15
+[2024-6-14 22:50:26] Order ID: 13, p: 12, q: 9
+[2024-6-14 22:50:26] Order ID: 14, p: 17, q: 8
+[2024-6-14 22:50:26] Order ID: 15, p: 14, q: 8
+[2024-6-14 22:50:26] Order ID: 16, p: 8, q: 9
+[2024-6-14 22:50:26] Order ID: 17, p: 5, q: 3
+[2024-6-14 22:50:26] Order ID: 18, p: 13, q: 5
+[2024-6-14 22:50:26] Order ID: 19, p: 2, q: 18
+[2024-6-14 22:50:26] Order 19 prepared by chef 0
+[2024-6-14 22:50:26] Order 18 prepared by chef 1
+[2024-6-14 22:50:27] Order 17 prepared by chef 2
+[2024-6-14 22:50:27] Order 16 prepared by chef 3
+[2024-6-14 22:50:27] Order 15 prepared by chef 4
+[2024-6-14 22:50:27] Order 14 prepared by chef 5
+[2024-6-14 22:50:27] Order 13 prepared by chef 6
+[2024-6-14 22:50:27] Order 12 prepared by chef 7
+[2024-6-14 22:50:27] Order 11 prepared by chef 8
+[2024-6-14 22:50:27] Order 10 prepared by chef 9
+[2024-6-14 22:50:27] Order 18 placed in the oven by chef 1
+[2024-6-14 22:50:28] Order 13 placed in the oven by chef 6
+[2024-6-14 22:50:28] Order 12 placed in the oven by chef 7
+[2024-6-14 22:50:28] Order 15 placed in the oven by chef 4
+[2024-6-14 22:50:28] Order 11 placed in the oven by chef 8
+[2024-6-14 22:50:28] Order 10 placed in the oven by chef 9
+[2024-6-14 22:50:28] Order 9 prepared by chef 1
+[2024-6-14 22:50:28] Order 16 placed in the oven by chef 3
+[2024-6-14 22:50:28] Order 12 has been given to courier 1. Delivery time: 0.323110 seconds
+[2024-6-14 22:50:28] Order 8 prepared by chef 6
+[2024-6-14 22:50:28] Order 19 placed in the oven by chef 0
+[2024-6-14 22:50:29] Order 7 prepared by chef 7
+[2024-6-14 22:50:29] Order 6 prepared by chef 4
+[2024-6-14 22:50:29] Order 17 placed in the oven by chef 2
+[2024-6-14 22:50:29] Order 5 prepared by chef 8
+[2024-6-14 22:50:29] Order 14 placed in the oven by chef 5
+[2024-6-14 22:50:29] Order 4 prepared by chef 9
+[2024-6-14 22:50:29] Order 6 placed in the oven by chef 4
+[2024-6-14 22:50:29] Order 3 prepared by chef 0
+[2024-6-14 22:50:29] Order 9 placed in the oven by chef 1
+[2024-6-14 22:50:30] Order 16 has been given to courier 4. Delivery time: 0.134164 seconds
+[2024-6-14 22:50:30] Order 2 prepared by chef 3
+[2024-6-14 22:50:30] Order 12 has been delivered by courier 1
+[2024-6-14 22:50:30] Order 8 placed in the oven by chef 6
+[2024-6-14 22:50:30] Order 7 placed in the oven by chef 7
+[2024-6-14 22:50:30] Order 1 prepared by chef 5
+[2024-6-14 22:50:30] Order 14 has been given to courier 3. Delivery time: 0.436807 seconds
+[2024-6-14 22:50:30] Order 13 has been given to courier 1. Delivery time: 0.755776 seconds
+[2024-6-14 22:50:30] Order 16 has been delivered by courier 4
+[2024-6-14 22:50:30] Order 0 prepared by chef 4
+[2024-6-14 22:50:31] Order 4 placed in the oven by chef 9
+[2024-6-14 22:50:31] Order 9 has been given to courier 7. Delivery time: 0.684105 seconds
+[2024-6-14 22:50:31] Order 5 placed in the oven by chef 8
+[2024-6-14 22:50:31] Order 19 has been given to courier 4. Delivery time: 0.783163 seconds
+[2024-6-14 22:50:31] Order 2 placed in the oven by chef 3
+[2024-6-14 22:50:31] Order 3 placed in the oven by chef 0
+[2024-6-14 22:50:31] Order 1 placed in the oven by chef 5
+[2024-6-14 22:50:31] Order 4 has been given to courier 8. Delivery time: 0.617738 seconds
+[2024-6-14 22:50:31] Order 0 placed in the oven by chef 4
+[2024-6-14 22:50:31] Order 14 has been delivered by courier 3
+[2024-6-14 22:50:32] Order 13 has been delivered by courier 1
+[2024-6-14 22:50:32] Order 2 has been given to courier 9. Delivery time: 0.323110 seconds
+[2024-6-14 22:50:32] Order 0 has been given to courier 6. Delivery time: 0.120000 seconds
+[2024-6-14 22:50:32] Order 11 has been given to courier 3. Delivery time: 1.107627 seconds
+[2024-6-14 22:50:32] Order 18 has been given to courier 1. Delivery time: 1.003162 seconds
+[2024-6-14 22:50:32] Order 9 has been delivered by courier 7
+[2024-6-14 22:50:32] Order 0 has been delivered by courier 6
+[2024-6-14 22:50:32] Order 19 has been delivered by courier 4
+[2024-6-14 22:50:32] Order 17 has been given to courier 7. Delivery time: 1.651576 seconds
+[2024-6-14 22:50:33] Order 1 has been given to courier 6. Delivery time: 0.576946 seconds
+[2024-6-14 22:50:33] Order 2 has been delivered by courier 9
+[2024-6-14 22:50:33] Order 10 has been given to courier 4. Delivery time: 1.899228 seconds
+[2024-6-14 22:50:33] Order 18 has been delivered by courier 1
+[2024-6-14 22:50:33] Order 4 has been delivered by courier 8
+[2024-6-14 22:50:33] Order 3 has been given to courier 9. Delivery time: 1.292440 seconds
+[2024-6-14 22:50:33] Order 7 has been given to courier 8. Delivery time: 0.807474 seconds
+[2024-6-14 22:50:33] Order 11 has been delivered by courier 3
+[2024-6-14 22:50:33] Order 15 has been given to courier 3. Delivery time: 1.770349 seconds
+[2024-6-14 22:50:33] Order 1 has been delivered by courier 6
+[2024-6-14 22:50:34] Order 7 has been delivered by courier 8
+[2024-6-14 22:50:34] Order 5 has been given to courier 8. Delivery time: 1.373513 seconds
+[2024-6-14 22:50:34] Order 17 has been delivered by courier 7
+[2024-6-14 22:50:34] Order 6 has been given to courier 7. Delivery time: 2.164216 seconds
+[2024-6-14 22:50:34] Order 10 has been delivered by courier 4
+[2024-6-14 22:50:34] Order 3 has been delivered by courier 9
+[2024-6-14 22:50:34] Order 15 has been delivered by courier 3
+[2024-6-14 22:50:34] Order 8 has been given to courier 9. Delivery time: 1.560768 seconds
+[2024-6-14 22:50:34] Order 5 has been delivered by courier 8
+[2024-6-14 22:50:35] Order 6 has been delivered by courier 7
+[2024-6-14 22:50:35] Order 8 has been delivered by courier 9
+[2024-6-14 22:51:46] Order ID: 0, p: 16, q: 12
+[2024-6-14 22:51:46] Order ID: 1, p: 2, q: 13
+[2024-6-14 22:51:46] Order ID: 2, p: 16, q: 14
+[2024-6-14 22:51:46] Order ID: 3, p: 15, q: 2
+[2024-6-14 22:51:46] Order ID: 4, p: 19, q: 15
+[2024-6-14 22:51:47] Order ID: 5, p: 9, q: 1
+[2024-6-14 22:51:47] Order ID: 6, p: 4, q: 16
+[2024-6-14 22:51:47] Order ID: 7, p: 16, q: 9
+[2024-6-14 22:51:47] Order ID: 8, p: 16, q: 13
+[2024-6-14 22:51:47] Order ID: 9, p: 15, q: 5
+[2024-6-14 22:51:47] Order ID: 10, p: 14, q: 2
+[2024-6-14 22:51:47] Order ID: 11, p: 7, q: 18
+[2024-6-14 22:51:47] Order ID: 12, p: 6, q: 10
+[2024-6-14 22:51:47] Order ID: 13, p: 8, q: 7
+[2024-6-14 22:51:48] Order ID: 14, p: 6, q: 18
+[2024-6-14 22:51:48] Order ID: 15, p: 19, q: 3
+[2024-6-14 22:51:48] Order ID: 16, p: 3, q: 13
+[2024-6-14 22:51:48] Order ID: 17, p: 8, q: 11
+[2024-6-14 22:51:48] Order ID: 18, p: 7, q: 3
+[2024-6-14 22:51:48] Order ID: 19, p: 6, q: 7
+[2024-6-14 22:51:48] Order 19 prepared by chef 0
+[2024-6-14 22:51:48] Order 17 prepared by chef 2
+[2024-6-14 22:51:48] Order 18 prepared by chef 1
+[2024-6-14 22:51:48] Order 15 prepared by chef 4
+[2024-6-14 22:51:49] Order 14 prepared by chef 5
+[2024-6-14 22:51:49] Order 13 prepared by chef 6
+[2024-6-14 22:51:49] Order 12 prepared by chef 7
+[2024-6-14 22:51:49] Order 10 prepared by chef 9
+[2024-6-14 22:51:49] Order 11 prepared by chef 8
+[2024-6-14 22:51:49] Order 16 prepared by chef 3
+[2024-6-14 22:51:49] Order 13 placed in the oven by chef 6
+[2024-6-14 22:51:49] Order 10 placed in the oven by chef 9
+[2024-6-14 22:51:49] Order 14 placed in the oven by chef 5
+[2024-6-14 22:51:49] Order 16 placed in the oven by chef 3
+[2024-6-14 22:51:50] Order 18 placed in the oven by chef 1
+[2024-6-14 22:51:50] Order 15 placed in the oven by chef 4
+[2024-6-14 22:51:50] Order 9 prepared by chef 9
+[2024-6-14 22:51:50] Order 16 has been given to courier 8. Delivery time: 0.456946 seconds
+[2024-6-14 22:51:50] Order 8 prepared by chef 6
+[2024-6-14 22:51:50] Order 19 placed in the oven by chef 0
+[2024-6-14 22:51:50] Order 7 prepared by chef 3
+[2024-6-14 22:51:50] Order 12 placed in the oven by chef 7
+[2024-6-14 22:51:50] Order 6 prepared by chef 5
+[2024-6-14 22:51:51] Order 11 placed in the oven by chef 8
+[2024-6-14 22:51:51] Order 17 placed in the oven by chef 2
+[2024-6-14 22:51:51] Order 9 placed in the oven by chef 9
+[2024-6-14 22:51:51] Order 5 prepared by chef 1
+[2024-6-14 22:51:51] Order 8 placed in the oven by chef 6
+[2024-6-14 22:51:51] Order 4 prepared by chef 7
+[2024-6-14 22:51:51] Order 12 has been given to courier 1. Delivery time: 0.240000 seconds
+[2024-6-14 22:51:51] Order 3 prepared by chef 4
+[2024-6-14 22:51:51] Order 2 prepared by chef 0
+[2024-6-14 22:51:51] Order 6 placed in the oven by chef 5
+[2024-6-14 22:51:52] Order 5 placed in the oven by chef 1
+[2024-6-14 22:51:52] Order 1 prepared by chef 8
+[2024-6-14 22:51:52] Order 11 has been given to courier 0. Delivery time: 0.512640 seconds
+[2024-6-14 22:51:52] Order 0 prepared by chef 2
+[2024-6-14 22:51:52] Order 16 has been delivered by courier 8
+[2024-6-14 22:51:52] Order 7 placed in the oven by chef 3
+[2024-6-14 22:51:52] Order 2 placed in the oven by chef 0
+[2024-6-14 22:51:52] Order 8 has been given to courier 3. Delivery time: 0.402492 seconds
+[2024-6-14 22:51:52] Order 12 has been delivered by courier 1
+[2024-6-14 22:51:52] Order 13 has been given to courier 8. Delivery time: 0.925561 seconds
+[2024-6-14 22:51:53] Order 4 placed in the oven by chef 7
+[2024-6-14 22:51:53] Order 3 placed in the oven by chef 4
+[2024-6-14 22:51:53] Order 18 has been given to courier 1. Delivery time: 0.664264 seconds
+[2024-6-14 22:51:53] Order 0 placed in the oven by chef 2
+[2024-6-14 22:51:53] Order 1 placed in the oven by chef 8
+[2024-6-14 22:51:53] Order 5 has been given to courier 2. Delivery time: 0.543323 seconds
+[2024-6-14 22:51:53] Order 11 has been delivered by courier 0
+[2024-6-14 22:51:53] Order 8 has been delivered by courier 3
+[2024-6-14 22:51:53] Order 4 has been given to courier 9. Delivery time: 0.617738 seconds
+[2024-6-14 22:51:54] Order 1 has been given to courier 6. Delivery time: 0.512640 seconds
+[2024-6-14 22:51:54] Order 19 has been given to courier 0. Delivery time: 1.175362 seconds
+[2024-6-14 22:51:54] Order 13 has been delivered by courier 8
+[2024-6-14 22:51:54] Order 9 has been given to courier 3. Delivery time: 0.886228 seconds
+[2024-6-14 22:51:54] Order 18 has been delivered by courier 1
+[2024-6-14 22:51:54] Order 10 has been given to courier 8. Delivery time: 1.394176 seconds
+[2024-6-14 22:51:54] Order 14 has been given to courier 1. Delivery time: 1.566262 seconds
+[2024-6-14 22:51:54] Order 5 has been delivered by courier 2
+[2024-6-14 22:51:54] Order 1 has been delivered by courier 6
+[2024-6-14 22:51:54] Order 7 has been given to courier 2. Delivery time: 1.181132 seconds
+[2024-6-14 22:51:55] Order 4 has been delivered by courier 9
+[2024-6-14 22:51:55] Order 9 has been delivered by courier 3
+[2024-6-14 22:51:55] Order 0 has been given to courier 6. Delivery time: 1.354780 seconds
+[2024-6-14 22:51:55] Order 19 has been delivered by courier 0
+[2024-6-14 22:51:55] Order 10 has been delivered by courier 8
+[2024-6-14 22:51:55] Order 3 has been given to courier 9. Delivery time: 1.433826 seconds
+[2024-6-14 22:51:55] Order 17 has been given to courier 3. Delivery time: 1.439400 seconds
+[2024-6-14 22:51:55] Order 15 has been given to courier 0. Delivery time: 1.991450 seconds
+[2024-6-14 22:51:55] Order 7 has been delivered by courier 2
+[2024-6-14 22:51:56] Order 14 has been delivered by courier 1
+[2024-6-14 22:51:56] Order 6 has been given to courier 2. Delivery time: 2.014678 seconds
+[2024-6-14 22:51:56] Order 17 has been delivered by courier 3
+[2024-6-14 22:51:56] Order 0 has been delivered by courier 6
+[2024-6-14 22:51:56] Order 3 has been delivered by courier 9
+[2024-6-14 22:51:56] Order 15 has been delivered by courier 0
+[2024-6-14 22:51:56] Order 2 has been given to courier 9. Delivery time: 2.156322 seconds
+[2024-6-14 22:51:56] Order 6 has been delivered by courier 2
+[2024-6-14 22:51:56] Order 2 has been delivered by courier 9
+[2024-6-14 22:52:3] Order ID: 0, p: 0, q: 1
+[2024-6-14 22:52:3] Order ID: 1, p: 3, q: 1
+[2024-6-14 22:52:3] Order ID: 2, p: 12, q: 10
+[2024-6-14 22:52:3] Order ID: 3, p: 0, q: 18
+[2024-6-14 22:52:3] Order ID: 4, p: 10, q: 16
+[2024-6-14 22:52:3] Order ID: 5, p: 5, q: 0
+[2024-6-14 22:52:3] Order ID: 6, p: 14, q: 0
+[2024-6-14 22:52:3] Order ID: 7, p: 0, q: 19
+[2024-6-14 22:52:3] Order ID: 8, p: 6, q: 9
+[2024-6-14 22:52:3] Order ID: 9, p: 1, q: 3
+[2024-6-14 22:52:4] Order ID: 10, p: 13, q: 9
+[2024-6-14 22:52:4] Order ID: 11, p: 15, q: 2
+[2024-6-14 22:52:4] Order ID: 12, p: 2, q: 15
+[2024-6-14 22:52:4] Order ID: 13, p: 0, q: 1
+[2024-6-14 22:52:4] Order ID: 14, p: 12, q: 3
+[2024-6-14 22:52:4] Order ID: 15, p: 10, q: 4
+[2024-6-14 22:52:4] Order ID: 16, p: 4, q: 14
+[2024-6-14 22:52:4] Order ID: 17, p: 17, q: 8
+[2024-6-14 22:52:4] Order ID: 18, p: 4, q: 10
+[2024-6-14 22:52:5] Order ID: 19, p: 6, q: 6
+[2024-6-14 22:52:5] Order 19 prepared by chef 0
+[2024-6-14 22:52:5] Order 18 prepared by chef 1
+[2024-6-14 22:52:5] Order 16 prepared by chef 3
+[2024-6-14 22:52:5] Order 15 prepared by chef 4
+[2024-6-14 22:52:5] Order 14 prepared by chef 5
+[2024-6-14 22:52:5] Order 17 prepared by chef 2
+[2024-6-14 22:52:5] Order 12 prepared by chef 7
+[2024-6-14 22:52:5] Order 13 prepared by chef 6
+[2024-6-14 22:52:5] Order 10 prepared by chef 9
+[2024-6-14 22:52:6] Order 11 prepared by chef 8
+[2024-6-14 22:52:6] Order 12 placed in the oven by chef 7
+[2024-6-14 22:52:6] Order 14 placed in the oven by chef 5
+[2024-6-14 22:52:6] Order 19 placed in the oven by chef 0
+[2024-6-14 22:52:6] Order 17 placed in the oven by chef 2
+[2024-6-14 22:52:6] Order 11 placed in the oven by chef 8
+[2024-6-14 22:52:6] Order 15 placed in the oven by chef 4
+[2024-6-14 22:52:6] Order 9 prepared by chef 5
+[2024-6-14 22:52:6] Order 10 placed in the oven by chef 9
+[2024-6-14 22:52:7] Order 13 placed in the oven by chef 6
+[2024-6-14 22:52:7] Order 8 prepared by chef 0
+[2024-6-14 22:52:7] Order 19 has been given to courier 0. Delivery time: 0.339411 seconds
+[2024-6-14 22:52:7] Order 7 prepared by chef 7
+[2024-6-14 22:52:7] Order 16 placed in the oven by chef 3
+[2024-6-14 22:52:7] Order 6 prepared by chef 2
+[2024-6-14 22:52:7] Order 4 prepared by chef 8
+[2024-6-14 22:52:7] Order 5 prepared by chef 4
+[2024-6-14 22:52:7] Order 11 has been given to courier 8. Delivery time: 0.566039 seconds
+[2024-6-14 22:52:7] Order 18 placed in the oven by chef 1
+[2024-6-14 22:52:8] Order 9 placed in the oven by chef 5
+[2024-6-14 22:52:8] Order 3 prepared by chef 6
+[2024-6-14 22:52:8] Order 8 placed in the oven by chef 0
+[2024-6-14 22:52:8] Order 2 prepared by chef 9
+[2024-6-14 22:52:8] Order 19 has been delivered by courier 0
+[2024-6-14 22:52:8] Order 7 placed in the oven by chef 7
+[2024-6-14 22:52:8] Order 1 prepared by chef 3
+[2024-6-14 22:52:8] Order 16 has been given to courier 5. Delivery time: 0.432666 seconds
+[2024-6-14 22:52:8] Order 0 prepared by chef 1
+[2024-6-14 22:52:9] Order 6 placed in the oven by chef 2
+[2024-6-14 22:52:9] Order 12 has been given to courier 0. Delivery time: 0.930343 seconds
+[2024-6-14 22:52:9] Order 5 placed in the oven by chef 4
+[2024-6-14 22:52:9] Order 4 placed in the oven by chef 8
+[2024-6-14 22:52:9] Order 11 has been delivered by courier 8
+[2024-6-14 22:52:9] Order 3 placed in the oven by chef 6
+[2024-6-14 22:52:9] Order 2 placed in the oven by chef 9
+[2024-6-14 22:52:9] Order 7 has been given to courier 2. Delivery time: 0.807217 seconds
+[2024-6-14 22:52:9] Order 15 has been given to courier 8. Delivery time: 0.889149 seconds
+[2024-6-14 22:52:9] Order 0 placed in the oven by chef 1
+[2024-6-14 22:52:10] Order 1 placed in the oven by chef 3
+[2024-6-14 22:52:10] Order 5 has been given to courier 4. Delivery time: 0.670820 seconds
+[2024-6-14 22:52:10] Order 16 has been delivered by courier 5
+[2024-6-14 22:52:10] Order 2 has been given to courier 9. Delivery time: 0.120000 seconds
+[2024-6-14 22:52:10] Order 1 has been given to courier 7. Delivery time: 0.684105 seconds
+[2024-6-14 22:52:10] Order 10 has been given to courier 5. Delivery time: 1.050404 seconds
+[2024-6-14 22:52:10] Order 12 has been delivered by courier 0
+[2024-6-14 22:52:10] Order 15 has been delivered by courier 8
+[2024-6-14 22:52:10] Order 14 has been given to courier 0. Delivery time: 1.867573 seconds
+[2024-6-14 22:52:10] Order 2 has been delivered by courier 9
+[2024-6-14 22:52:11] Order 17 has been given to courier 8. Delivery time: 1.372884 seconds
+[2024-6-14 22:52:11] Order 3 has been given to courier 9. Delivery time: 0.985332 seconds
+[2024-6-14 22:52:11] Order 7 has been delivered by courier 2
+[2024-6-14 22:52:11] Order 5 has been delivered by courier 4
+[2024-6-14 22:52:11] Order 8 has been given to courier 2. Delivery time: 1.506932 seconds
+[2024-6-14 22:52:11] Order 10 has been delivered by courier 5
+[2024-6-14 22:52:11] Order 6 has been given to courier 4. Delivery time: 1.210820 seconds
+[2024-6-14 22:52:11] Order 1 has been delivered by courier 7
+[2024-6-14 22:52:11] Order 13 has been given to courier 5. Delivery time: 1.966264 seconds
+[2024-6-14 22:52:12] Order 0 has been given to courier 7. Delivery time: 0.864105 seconds
+[2024-6-14 22:52:12] Order 17 has been delivered by courier 8
+[2024-6-14 22:52:12] Order 14 has been delivered by courier 0
+[2024-6-14 22:52:12] Order 0 has been delivered by courier 7
+[2024-6-14 22:52:12] Order 3 has been delivered by courier 9
+[2024-6-14 22:52:12] Order 6 has been delivered by courier 4
+[2024-6-14 22:52:12] Order 8 has been delivered by courier 2
+[2024-6-14 22:52:12] Order 4 has been given to courier 9. Delivery time: 1.597215 seconds
+[2024-6-14 22:52:12] Order 18 has been given to courier 4. Delivery time: 2.059349 seconds
+[2024-6-14 22:52:12] Order 9 has been given to courier 2. Delivery time: 1.975547 seconds
+[2024-6-14 22:52:13] Order 13 has been delivered by courier 5
+[2024-6-14 22:52:13] Order 9 has been delivered by courier 2
+[2024-6-14 22:52:13] Order 4 has been delivered by courier 9
+[2024-6-14 22:52:13] Order 18 has been delivered by courier 4
+[2024-6-14 23:9:40] Order ID: 0, p: 14, q: 12
+[2024-6-14 23:9:40] Order ID: 1, p: 18, q: 2
+[2024-6-14 23:9:40] Order ID: 2, p: 16, q: 6
+[2024-6-14 23:9:40] Order ID: 3, p: 15, q: 13
+[2024-6-14 23:9:40] Order ID: 4, p: 3, q: 14
+[2024-6-14 23:9:40] Order ID: 5, p: 5, q: 3
+[2024-6-14 23:9:40] Order ID: 6, p: 15, q: 17
+[2024-6-14 23:9:40] Order ID: 7, p: 7, q: 5
+[2024-6-14 23:9:40] Order ID: 8, p: 2, q: 1
+[2024-6-14 23:9:41] Order ID: 9, p: 12, q: 12
+[2024-6-14 23:9:41] Order ID: 10, p: 11, q: 13
+[2024-6-14 23:9:41] Order ID: 11, p: 17, q: 0
+[2024-6-14 23:9:41] Order ID: 12, p: 5, q: 13
+[2024-6-14 23:9:41] Order ID: 13, p: 12, q: 4
+[2024-6-14 23:9:41] Order ID: 14, p: 10, q: 19
+[2024-6-14 23:9:41] Order ID: 15, p: 7, q: 5
+[2024-6-14 23:9:41] Order ID: 16, p: 3, q: 5
+[2024-6-14 23:9:41] Order ID: 17, p: 19, q: 0
+[2024-6-14 23:9:41] Order ID: 18, p: 4, q: 14
+[2024-6-14 23:9:42] Order ID: 19, p: 13, q: 7
+[2024-6-14 23:9:42] Order 19 prepared by chef 0
+[2024-6-14 23:9:42] Order 18 prepared by chef 1
+[2024-6-14 23:9:42] Order 17 prepared by chef 2
+[2024-6-14 23:9:42] Order 15 prepared by chef 4
+[2024-6-14 23:9:42] Order 14 prepared by chef 5
+[2024-6-14 23:9:42] Order 13 prepared by chef 6
+[2024-6-14 23:9:42] Order 12 prepared by chef 7
+[2024-6-14 23:9:42] Order 11 prepared by chef 8
+[2024-6-14 23:9:43] Order 16 prepared by chef 3
+[2024-6-14 23:9:43] Order 10 prepared by chef 9
+[2024-6-14 23:9:43] Order 12 placed in the oven by chef 7
+[2024-6-14 23:9:43] Order 14 placed in the oven by chef 5
+[2024-6-14 23:9:43] Order 17 placed in the oven by chef 2
+[2024-6-14 23:9:43] Order 13 placed in the oven by chef 6
+[2024-6-14 23:9:43] Order 16 placed in the oven by chef 3
+[2024-6-14 23:9:43] Order 10 placed in the oven by chef 9
+[2024-6-14 23:9:43] Order 9 prepared by chef 7
+[2024-6-14 23:9:43] Order 8 prepared by chef 5
+[2024-6-14 23:9:44] Order 19 placed in the oven by chef 0
+[2024-6-14 23:9:44] Order 13 has been given to courier 7. Delivery time: 0.379473 seconds
+[2024-6-14 23:9:44] Order 7 prepared by chef 6
+[2024-6-14 23:9:44] Order 18 placed in the oven by chef 1
+[2024-6-14 23:9:44] Order 15 placed in the oven by chef 4
+[2024-6-14 23:9:44] Order 6 prepared by chef 2
+[2024-6-14 23:9:44] Order 5 prepared by chef 3
+[2024-6-14 23:9:44] Order 4 prepared by chef 9
+[2024-6-14 23:9:44] Order 11 placed in the oven by chef 8
+[2024-6-14 23:9:44] Order 10 has been given to courier 1. Delivery time: 0.189737 seconds
+[2024-6-14 23:9:45] Order 3 prepared by chef 0
+[2024-6-14 23:9:45] Order 7 placed in the oven by chef 6
+[2024-6-14 23:9:45] Order 8 placed in the oven by chef 5
+[2024-6-14 23:9:45] Order 13 has been delivered by courier 7
+[2024-6-14 23:9:45] Order 10 has been delivered by courier 1
+[2024-6-14 23:9:45] Order 9 placed in the oven by chef 7
+[2024-6-14 23:9:45] Order 4 placed in the oven by chef 9
+[2024-6-14 23:9:45] Order 2 prepared by chef 8
+[2024-6-14 23:9:45] Order 1 prepared by chef 1
+[2024-6-14 23:9:46] Order 18 has been given to courier 0. Delivery time: 0.432666 seconds
+[2024-6-14 23:9:46] Order 14 has been given to courier 7. Delivery time: 1.287438 seconds
+[2024-6-14 23:9:46] Order 16 has been given to courier 1. Delivery time: 0.868559 seconds
+[2024-6-14 23:9:46] Order 0 prepared by chef 5
+[2024-6-14 23:9:46] Order 6 placed in the oven by chef 2
+[2024-6-14 23:9:46] Order 5 placed in the oven by chef 3
+[2024-6-14 23:9:46] Order 7 has been given to courier 2. Delivery time: 0.349857 seconds
+[2024-6-14 23:9:46] Order 3 placed in the oven by chef 0
+[2024-6-14 23:9:46] Order 1 placed in the oven by chef 1
+[2024-6-14 23:9:46] Order 2 placed in the oven by chef 8
+[2024-6-14 23:9:47] Order 0 placed in the oven by chef 5
+[2024-6-14 23:9:47] Order 3 has been given to courier 8. Delivery time: 0.349857 seconds
+[2024-6-14 23:9:47] Order 18 has been delivered by courier 0
+[2024-6-14 23:9:47] Order 7 has been delivered by courier 2
+[2024-6-14 23:9:47] Order 1 has been given to courier 4. Delivery time: 0.678823 seconds
+[2024-6-14 23:9:47] Order 0 has been given to courier 5. Delivery time: 0.268328 seconds
+[2024-6-14 23:9:47] Order 11 has been given to courier 0. Delivery time: 1.578965 seconds
+[2024-6-14 23:9:47] Order 15 has been given to courier 2. Delivery time: 0.349857 seconds
+[2024-6-14 23:9:47] Order 16 has been delivered by courier 1
+[2024-6-14 23:9:48] Order 3 has been delivered by courier 8
+[2024-6-14 23:9:48] Order 15 has been delivered by courier 2
+[2024-6-14 23:9:48] Order 17 has been given to courier 1. Delivery time: 1.874342 seconds
+[2024-6-14 23:9:48] Order 14 has been delivered by courier 7
+[2024-6-14 23:9:48] Order 0 has been delivered by courier 5
+[2024-6-14 23:9:48] Order 5 has been given to courier 8. Delivery time: 1.198385 seconds
+[2024-6-14 23:9:48] Order 8 has been given to courier 2. Delivery time: 0.734045 seconds
+[2024-6-14 23:9:48] Order 12 has been given to courier 7. Delivery time: 1.756053 seconds
+[2024-6-14 23:9:48] Order 2 has been given to courier 5. Delivery time: 0.647801 seconds
+[2024-6-14 23:9:48] Order 1 has been delivered by courier 4
+[2024-6-14 23:9:49] Order 6 has been given to courier 4. Delivery time: 1.596646 seconds
+[2024-6-14 23:9:49] Order 8 has been delivered by courier 2
+[2024-6-14 23:9:49] Order 2 has been delivered by courier 5
+[2024-6-14 23:9:49] Order 12 has been delivered by courier 7
+[2024-6-14 23:9:49] Order 11 has been delivered by courier 0
+[2024-6-14 23:9:49] Order 19 has been given to courier 0. Delivery time: 2.062700 seconds
+[2024-6-14 23:9:49] Order 5 has been delivered by courier 8
+[2024-6-14 23:9:49] Order 17 has been delivered by courier 1
+[2024-6-14 23:9:49] Order 9 has been given to courier 8. Delivery time: 1.882491 seconds
+[2024-6-14 23:9:49] Order 6 has been delivered by courier 4
+[2024-6-14 23:9:50] Order 19 has been delivered by courier 0
+[2024-6-14 23:9:50] Order 4 has been given to courier 4. Delivery time: 2.338805 seconds
+[2024-6-14 23:9:50] Order 9 has been delivered by courier 8
+[2024-6-14 23:9:50] Order 4 has been delivered by courier 4
+[2024-6-14 23:12:59] Order ID: 0, p: 15, q: 0
+[2024-6-14 23:12:59] Order ID: 1, p: 1, q: 17
+[2024-6-14 23:12:59] Order ID: 2, p: 19, q: 6
+[2024-6-14 23:12:59] Order ID: 3, p: 18, q: 12
+[2024-6-14 23:12:59] Order ID: 4, p: 16, q: 0
+[2024-6-14 23:12:59] Order ID: 5, p: 6, q: 4
+[2024-6-14 23:12:59] Order ID: 6, p: 3, q: 2
+[2024-6-14 23:12:59] Order ID: 7, p: 19, q: 19
+[2024-6-14 23:12:59] Order ID: 8, p: 15, q: 10
+[2024-6-14 23:12:59] Order ID: 9, p: 4, q: 0
+[2024-6-14 23:13:0] Order ID: 10, p: 11, q: 13
+[2024-6-14 23:13:0] Order ID: 11, p: 8, q: 14
+[2024-6-14 23:13:0] Order ID: 12, p: 10, q: 17
+[2024-6-14 23:13:0] Order ID: 13, p: 5, q: 15
+[2024-6-14 23:13:0] Order ID: 14, p: 16, q: 8
+[2024-6-14 23:13:0] Order ID: 15, p: 18, q: 4
+[2024-6-14 23:13:0] Order ID: 16, p: 8, q: 19
+[2024-6-14 23:13:0] Order ID: 17, p: 13, q: 0
+[2024-6-14 23:13:0] Order ID: 18, p: 17, q: 11
+[2024-6-14 23:13:0] Order ID: 19, p: 4, q: 5
+[2024-6-14 23:13:1] Order 19 prepared by chef 0
+[2024-6-14 23:13:1] Order 18 prepared by chef 1
+[2024-6-14 23:13:1] Order 17 prepared by chef 2
+[2024-6-14 23:13:1] Order 16 prepared by chef 3
+[2024-6-14 23:13:1] Order 15 prepared by chef 4
+[2024-6-14 23:13:1] Order 14 prepared by chef 5
+[2024-6-14 23:13:1] Order 13 prepared by chef 6
+[2024-6-14 23:13:1] Order 12 prepared by chef 7
+[2024-6-14 23:13:1] Order 11 prepared by chef 8
+[2024-6-14 23:13:2] Order 10 prepared by chef 9
+[2024-6-14 23:13:2] Order 11 placed in the oven by chef 8
+[2024-6-14 23:13:2] Order 15 placed in the oven by chef 4
+[2024-6-14 23:13:2] Order 12 placed in the oven by chef 7
+[2024-6-14 23:13:2] Order 14 placed in the oven by chef 5
+[2024-6-14 23:13:2] Order 13 placed in the oven by chef 6
+[2024-6-14 23:13:2] Order 17 placed in the oven by chef 2
+[2024-6-14 23:13:2] Order 8 prepared by chef 8
+[2024-6-14 23:13:2] Order 18 placed in the oven by chef 1
+[2024-6-14 23:13:2] Order 9 prepared by chef 4
+[2024-6-14 23:13:3] Order 19 placed in the oven by chef 0
+[2024-6-14 23:13:3] Order 7 prepared by chef 7
+[2024-6-14 23:13:3] Order 12 has been given to courier 5. Delivery time: 0.420000 seconds
+[2024-6-14 23:13:3] Order 6 prepared by chef 5
+[2024-6-14 23:13:3] Order 16 placed in the oven by chef 3
+[2024-6-14 23:13:3] Order 5 prepared by chef 6
+[2024-6-14 23:13:3] Order 10 placed in the oven by chef 9
+[2024-6-14 23:13:3] Order 10 placed in the oven by chef 9
+[2024-6-14 23:13:59] Order ID: 0, p: 1, q: 18
+[2024-6-14 23:14:0] Order ID: 1, p: 8, q: 13
+[2024-6-14 23:14:0] Order ID: 2, p: 0, q: 2
+[2024-6-14 23:14:0] Order ID: 3, p: 13, q: 12
+[2024-6-14 23:14:0] Order ID: 4, p: 12, q: 17
+[2024-6-14 23:14:0] Order ID: 5, p: 6, q: 14
+[2024-6-14 23:14:0] Order ID: 6, p: 13, q: 16
+[2024-6-14 23:14:0] Order ID: 7, p: 5, q: 3
+[2024-6-14 23:14:0] Order ID: 8, p: 10, q: 9
+[2024-6-14 23:14:0] Order ID: 9, p: 18, q: 19
+[2024-6-14 23:14:0] Order ID: 10, p: 6, q: 19
+[2024-6-14 23:14:1] Order ID: 11, p: 2, q: 14
+[2024-6-14 23:14:1] Order ID: 12, p: 12, q: 9
+[2024-6-14 23:14:1] Order ID: 13, p: 5, q: 4
+[2024-6-14 23:14:1] Order ID: 14, p: 5, q: 5
+[2024-6-14 23:14:1] Order ID: 15, p: 19, q: 18
+[2024-6-14 23:14:1] Order ID: 16, p: 15, q: 19
+[2024-6-14 23:14:1] Order ID: 17, p: 3, q: 8
+[2024-6-14 23:14:1] Order ID: 18, p: 14, q: 16
+[2024-6-14 23:14:1] Order ID: 19, p: 0, q: 18
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:2] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:3] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:14:4] 20
+[2024-6-14 23:15:24] Order ID: 0, p: 13, q: 7
+[2024-6-14 23:15:24] Order ID: 1, p: 16, q: 2
+[2024-6-14 23:15:24] Order ID: 2, p: 6, q: 13
+[2024-6-14 23:15:24] Order ID: 3, p: 14, q: 17
+[2024-6-14 23:15:24] Order ID: 4, p: 11, q: 11
+[2024-6-14 23:15:24] Order ID: 5, p: 3, q: 1
+[2024-6-14 23:15:25] Order ID: 6, p: 15, q: 0
+[2024-6-14 23:15:25] Order ID: 7, p: 5, q: 6
+[2024-6-14 23:15:25] Order ID: 8, p: 8, q: 14
+[2024-6-14 23:15:25] Order ID: 9, p: 0, q: 5
+[2024-6-14 23:15:25] Order ID: 10, p: 8, q: 8
+[2024-6-14 23:15:25] Order ID: 11, p: 6, q: 13
+[2024-6-14 23:15:25] Order ID: 12, p: 16, q: 3
+[2024-6-14 23:15:25] Order ID: 13, p: 7, q: 3
+[2024-6-14 23:15:25] Order ID: 14, p: 14, q: 18
+[2024-6-14 23:15:26] Order ID: 15, p: 16, q: 19
+[2024-6-14 23:15:26] Order ID: 16, p: 5, q: 4
+[2024-6-14 23:15:26] Order ID: 17, p: 1, q: 3
+[2024-6-14 23:15:26] Order ID: 18, p: 17, q: 8
+[2024-6-14 23:15:26] Order ID: 19, p: 12, q: 0
+[2024-6-14 23:15:26] Order 19 prepared by chef 4
+[2024-6-14 23:15:27] Order 18 prepared by chef 0
+[2024-6-14 23:15:27] Order 17 prepared by chef 5
+[2024-6-14 23:15:27] Order 16 prepared by chef 6
+[2024-6-14 23:15:27] Order 15 prepared by chef 7
+[2024-6-14 23:15:27] Order 14 prepared by chef 8
+[2024-6-14 23:15:27] Order 13 prepared by chef 1
+[2024-6-14 23:15:27] Order 12 prepared by chef 9
+[2024-6-14 23:15:27] Order 11 prepared by chef 3
+[2024-6-14 23:15:27] Order 10 prepared by chef 2
+[2024-6-14 23:15:28] Order 14 placed in the oven by chef 8
+[2024-6-14 23:15:28] Order 18 placed in the oven by chef 0
+[2024-6-14 23:15:28] Order 13 placed in the oven by chef 1
+[2024-6-14 23:15:28] Order 12 placed in the oven by chef 9
+[2024-6-14 23:15:28] Order 10 placed in the oven by chef 2
+[2024-6-14 23:15:28] Order 19 placed in the oven by chef 4
+[2024-6-14 23:15:28] Order 9 prepared by chef 8
+[2024-6-14 23:15:28] Order 8 prepared by chef 0
+[2024-6-14 23:15:28] Order 17 placed in the oven by chef 5
+[2024-6-14 23:15:28] Order 16 placed in the oven by chef 6
+[2024-6-14 23:15:29] Order 7 prepared by chef 1
+[2024-6-14 23:15:29] Order 6 prepared by chef 9
+[2024-6-14 23:15:29] Order 12 has been given to courier 3. Delivery time: 0.553173 seconds
+[2024-6-14 23:15:29] Order 15 placed in the oven by chef 7
+[2024-6-14 23:15:29] Order 11 placed in the oven by chef 3
+[2024-6-14 23:15:29] Order 5 prepared by chef 2
+[2024-6-14 23:15:29] Order 4 prepared by chef 4
+[2024-6-14 23:15:29] Order 19 has been given to courier 6. Delivery time: 0.611882 seconds
+[2024-6-14 23:15:29] Order 8 placed in the oven by chef 0
+[2024-6-14 23:15:30] Order 3 prepared by chef 6
+[2024-6-14 23:15:30] Order 2 prepared by chef 5
+[2024-6-14 23:15:30] Order 9 placed in the oven by chef 8
+[2024-6-14 23:15:30] Order 7 placed in the oven by chef 1
+[2024-6-14 23:15:30] Order 12 has been delivered by courier 3
+[2024-6-14 23:15:30] Order 4 placed in the oven by chef 4
+[2024-6-14 23:15:30] Order 1 prepared by chef 0
+[2024-6-14 23:15:30] Order 2 placed in the oven by chef 5
+[2024-6-14 23:15:30] Order 13 has been given to courier 3. Delivery time: 1.093173 seconds
+[2024-6-14 23:15:56] Order 0 prepared by chef 3
+[2024-6-14 23:15:57] Order 11 has been given to courier 8. Delivery time: 0.300000 seconds
+[2024-6-14 23:16:19] Order ID: 0, p: 19, q: 5
+[2024-6-14 23:16:20] Order ID: 1, p: 18, q: 1
+[2024-6-14 23:16:20] Order ID: 2, p: 18, q: 16
+[2024-6-14 23:16:20] Order ID: 3, p: 11, q: 7
+[2024-6-14 23:16:20] Order ID: 4, p: 9, q: 2
+[2024-6-14 23:16:20] Order ID: 5, p: 3, q: 9
+[2024-6-14 23:16:20] Order ID: 6, p: 12, q: 15
+[2024-6-14 23:16:20] Order ID: 7, p: 5, q: 11
+[2024-6-14 23:16:20] Order ID: 8, p: 15, q: 16
+[2024-6-14 23:16:20] Order ID: 9, p: 15, q: 15
+[2024-6-14 23:16:20] Order ID: 10, p: 2, q: 7
+[2024-6-14 23:16:21] Order ID: 11, p: 17, q: 15
+[2024-6-14 23:16:21] Order ID: 12, p: 18, q: 10
+[2024-6-14 23:16:21] Order ID: 13, p: 0, q: 15
+[2024-6-14 23:16:21] Order ID: 14, p: 6, q: 9
+[2024-6-14 23:16:21] Order ID: 15, p: 17, q: 17
+[2024-6-14 23:16:21] Order ID: 16, p: 7, q: 16
+[2024-6-14 23:16:21] Order ID: 17, p: 10, q: 5
+[2024-6-14 23:16:21] Order ID: 18, p: 12, q: 1
+[2024-6-14 23:16:21] Order ID: 19, p: 4, q: 13
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:47] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:48] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:49] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:50] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:51] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:52] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:53] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:54] 20
+[2024-6-14 23:16:55] 20
+[2024-6-14 23:16:55] 20
+[2024-6-14 23:16:55] 20
+[2024-6-14 23:16:55] 20
+[2024-06-14 23:18:02] Order ID: 0, p: 2, q: 12
+[2024-06-14 23:18:02] Order ID: 1, p: 8, q: 1
+[2024-06-14 23:18:02] Order ID: 2, p: 14, q: 0
+[2024-06-14 23:18:02] Order ID: 3, p: 8, q: 5
+[2024-06-14 23:18:02] Order ID: 4, p: 14, q: 5
+[2024-06-14 23:18:03] Order ID: 5, p: 12, q: 9
+[2024-06-14 23:18:03] Order ID: 6, p: 6, q: 11
+[2024-06-14 23:18:03] Order ID: 7, p: 17, q: 1
+[2024-06-14 23:18:03] Order ID: 8, p: 10, q: 12
+[2024-06-14 23:18:03] Order ID: 9, p: 12, q: 3
+[2024-06-14 23:18:03] Order ID: 10, p: 11, q: 19
+[2024-06-14 23:18:03] Order ID: 11, p: 18, q: 5
+[2024-06-14 23:18:03] Order ID: 12, p: 18, q: 12
+[2024-06-14 23:18:03] Order ID: 13, p: 8, q: 0
+[2024-06-14 23:18:03] Order ID: 14, p: 2, q: 11
+[2024-06-14 23:18:04] Order ID: 15, p: 19, q: 16
+[2024-06-14 23:18:04] Order ID: 16, p: 15, q: 7
+[2024-06-14 23:18:04] Order ID: 17, p: 18, q: 1
+[2024-06-14 23:18:04] Order ID: 18, p: 0, q: 18
+[2024-06-14 23:18:04] Order ID: 19, p: 19, q: 14
+[2024-06-14 23:18:04] Order 19 prepared by chef 0
+[2024-06-14 23:18:04] Order 18 prepared by chef 1
+[2024-06-14 23:18:04] Order 16 prepared by chef 3
+[2024-06-14 23:18:04] Order 14 prepared by chef 5
+[2024-06-14 23:18:05] Order 13 prepared by chef 6
+[2024-06-14 23:18:05] Order 12 prepared by chef 7
+[2024-06-14 23:18:05] Order 11 prepared by chef 8
+[2024-06-14 23:18:05] Order 17 prepared by chef 2
+[2024-06-14 23:18:05] Order 15 prepared by chef 4
+[2024-06-14 23:18:05] Order 10 prepared by chef 9
+[2024-06-14 23:18:05] Order 19 placed in the oven by chef 0
+[2024-06-14 23:18:05] Order 18 placed in the oven by chef 1
+[2024-06-14 23:18:05] Order 15 placed in the oven by chef 4
+[2024-06-14 23:18:05] Order 14 placed in the oven by chef 5
+[2024-06-14 23:18:06] Order 12 placed in the oven by chef 7
+[2024-06-14 23:18:06] Order 13 placed in the oven by chef 6
+[2024-06-14 23:18:06] Order 9 prepared by chef 1
+[2024-06-14 23:18:06] Order 15 has been given to courier 1. Delivery time: 0.648999 seconds
+[2024-06-14 23:18:06] Order 10 placed in the oven by chef 9
+[2024-06-14 23:18:06] Order 7 prepared by chef 4
+[2024-06-14 23:18:06] Order 8 prepared by chef 0
+[2024-06-14 23:18:06] Order 11 placed in the oven by chef 8
+[2024-06-14 23:18:06] Order 17 placed in the oven by chef 2
+[2024-06-14 23:18:07] Order 6 prepared by chef 5
+[2024-06-14 23:18:07] Order 5 prepared by chef 6
+[2024-06-14 23:18:07] Order 4 prepared by chef 7
+[2024-06-14 23:18:07] Order 16 placed in the oven by chef 3
+[2024-06-14 23:18:07] Order 12 has been given to courier 4. Delivery time: 0.494773 seconds
+[2024-06-14 23:18:07] Order 3 prepared by chef 8
+[2024-06-14 23:18:07] Order 8 placed in the oven by chef 0
+[2024-06-14 23:18:07] Order 7 placed in the oven by chef 4
+[2024-06-14 23:18:07] Order 2 prepared by chef 9
+[2024-06-14 23:18:07] Order 9 placed in the oven by chef 1
+[2024-06-14 23:18:08] Order 1 prepared by chef 2
+[2024-06-14 23:18:08] Order 0 prepared by chef 3
+[2024-06-14 23:18:08] Order 16 has been given to courier 8. Delivery time: 0.349857 seconds
+[2024-06-14 23:18:08] Order 4 placed in the oven by chef 7
+[2024-06-14 23:18:08] Order 6 placed in the oven by chef 5
+[2024-06-14 23:18:08] Order 5 placed in the oven by chef 6
+[2024-06-14 23:18:08] Order 15 has been delivered by courier 1
+[2024-06-14 23:18:08] Order 12 has been delivered by courier 4
+[2024-06-14 23:18:08] Order 3 placed in the oven by chef 8
+[2024-06-14 23:18:09] Order 8 has been given to courier 2. Delivery time: 0.120000 seconds
+[2024-06-14 23:18:09] Order 1 placed in the oven by chef 2
+[2024-06-14 23:18:09] Order 19 has been given to courier 1. Delivery time: 0.768999 seconds
+[2024-06-14 23:18:09] Order 13 has been given to courier 4. Delivery time: 1.432003 seconds
+[2024-06-14 23:18:09] Order 16 has been delivered by courier 8
+[2024-06-14 23:18:09] Order 0 placed in the oven by chef 3
+[2024-06-14 23:18:09] Order 2 placed in the oven by chef 9
+[2024-06-14 23:18:09] Order 8 has been delivered by courier 2
+[2024-06-14 23:18:09] Order 17 has been given to courier 8. Delivery time: 0.752349 seconds
+[2024-06-14 23:18:09] Order 19 has been delivered by courier 1
+[2024-06-14 23:18:10] Order 3 has been given to courier 7. Delivery time: 0.323110 seconds
+[2024-06-14 23:18:10] Order 1 has been given to courier 0. Delivery time: 0.553173 seconds
+[2024-06-14 23:18:10] Order 2 has been given to courier 5. Delivery time: 0.646220 seconds
+[2024-06-14 23:18:10] Order 7 has been given to courier 2. Delivery time: 0.902304 seconds
+[2024-06-14 23:18:10] Order 18 has been given to courier 1. Delivery time: 1.933988 seconds
+[2024-06-14 23:18:10] Order 3 has been delivered by courier 7
+[2024-06-14 23:18:10] Order 17 has been delivered by courier 8
+[2024-06-14 23:18:10] Order 4 has been given to courier 7. Delivery time: 0.683110 seconds
+[2024-06-14 23:18:10] Order 1 has been delivered by courier 0
+[2024-06-14 23:18:11] Order 10 has been given to courier 8. Delivery time: 1.911142 seconds
+[2024-06-14 23:18:11] Order 13 has been delivered by courier 4
+[2024-06-14 23:18:11] Order 2 has been delivered by courier 5
+[2024-06-14 23:18:11] Order 5 has been given to courier 0. Delivery time: 1.089829 seconds
+[2024-06-14 23:18:11] Order 14 has been given to courier 4. Delivery time: 2.183800 seconds
+[2024-06-14 23:18:11] Order 0 has been given to courier 5. Delivery time: 1.664454 seconds
+[2024-06-14 23:18:11] Order 7 has been delivered by courier 2
+[2024-06-14 23:18:11] Order 4 has been delivered by courier 7
+[2024-06-14 23:18:11] Order 11 has been given to courier 2. Delivery time: 1.149691 seconds
+[2024-06-14 23:18:11] Order 9 has been given to courier 7. Delivery time: 0.852816 seconds
+[2024-06-14 23:18:12] Order 18 has been delivered by courier 1
+[2024-06-14 23:18:12] Order 5 has been delivered by courier 0
+[2024-06-14 23:18:12] Order 11 has been delivered by courier 2
+[2024-06-14 23:18:12] Order 9 has been delivered by courier 7
+[2024-06-14 23:18:12] Order 6 has been given to courier 0. Delivery time: 1.469302 seconds
+[2024-06-14 23:18:12] Order 14 has been delivered by courier 4
+[2024-06-14 23:18:12] Order 10 has been delivered by courier 8
+[2024-06-14 23:18:12] Order 0 has been delivered by courier 5
+[2024-06-14 23:18:12] Order 6 has been delivered by courier 0
+[2024-06-14 23:20:26] Order ID: 0, p: 10, q: 18
+[2024-06-14 23:20:26] Order ID: 1, p: 6, q: 8
+[2024-06-14 23:20:26] Order ID: 2, p: 13, q: 17
+[2024-06-14 23:20:27] Order ID: 3, p: 17, q: 14
+[2024-06-14 23:20:27] Order ID: 4, p: 10, q: 4
+[2024-06-14 23:20:27] Order ID: 5, p: 4, q: 9
+[2024-06-14 23:20:27] Order ID: 6, p: 7, q: 16
+[2024-06-14 23:20:27] Order ID: 7, p: 19, q: 3
+[2024-06-14 23:20:27] Order ID: 8, p: 8, q: 1
+[2024-06-14 23:20:27] Order ID: 9, p: 1, q: 15
+[2024-06-14 23:20:27] Order ID: 10, p: 8, q: 9
+[2024-06-14 23:20:27] Order ID: 11, p: 11, q: 12
+[2024-06-14 23:20:27] Order ID: 12, p: 16, q: 1
+[2024-06-14 23:20:28] Order ID: 13, p: 9, q: 2
+[2024-06-14 23:20:28] Order ID: 14, p: 1, q: 5
+[2024-06-14 23:20:28] Order ID: 15, p: 2, q: 3
+[2024-06-14 23:20:28] Order ID: 16, p: 15, q: 0
+[2024-06-14 23:20:28] Order ID: 17, p: 12, q: 8
+[2024-06-14 23:20:28] Order ID: 18, p: 18, q: 1
+[2024-06-14 23:20:28] Order ID: 19, p: 14, q: 8
+[2024-06-14 23:20:28] Order 19 prepared by chef 0
+[2024-06-14 23:20:28] Order 18 prepared by chef 1
+[2024-06-14 23:20:29] Order 17 prepared by chef 2
+[2024-06-14 23:20:29] Order 15 prepared by chef 4
+[2024-06-14 23:20:29] Order 16 prepared by chef 3
+[2024-06-14 23:20:29] Order 13 prepared by chef 6
+[2024-06-14 23:20:29] Order 14 prepared by chef 5
+[2024-06-14 23:20:29] Order 11 prepared by chef 8
+[2024-06-14 23:20:29] Order 12 prepared by chef 7
+[2024-06-14 23:20:29] Order 10 prepared by chef 9
+[2024-06-14 23:20:29] Order 15 placed in the oven by chef 4
+[2024-06-14 23:20:29] Order 18 placed in the oven by chef 1
+[2024-06-14 23:20:30] Order 12 placed in the oven by chef 7
+[2024-06-14 23:20:30] Order 11 placed in the oven by chef 8
+[2024-06-14 23:20:30] Order 14 placed in the oven by chef 5
+[2024-06-14 23:20:30] Order 10 placed in the oven by chef 9
+[2024-06-14 23:20:30] Order 9 prepared by chef 4
+[2024-06-14 23:20:30] Order 18 has been given to courier 0. Delivery time: 0.722496 seconds
+[2024-06-14 23:20:30] Order 16 placed in the oven by chef 3
+[2024-06-14 23:20:30] Order 8 prepared by chef 8
+[2024-06-14 23:20:30] Order 7 prepared by chef 1
+[2024-06-14 23:20:30] Order 6 prepared by chef 7
+[2024-06-14 23:20:31] Order 19 placed in the oven by chef 0
+[2024-06-14 23:20:31] Order 17 placed in the oven by chef 2
+[2024-06-14 23:20:31] Order 13 placed in the oven by chef 6
+[2024-06-14 23:20:31] Order 5 prepared by chef 9
+[2024-06-14 23:20:31] Order 4 prepared by chef 3
+[2024-06-14 23:20:31] Order 7 placed in the oven by chef 1
+[2024-06-14 23:20:31] Order 3 prepared by chef 0
+[2024-06-14 23:20:31] Order 16 has been given to courier 7. Delivery time: 0.670820 seconds
+[2024-06-14 23:20:31] Order 2 prepared by chef 5
+[2024-06-14 23:20:32] Order 8 placed in the oven by chef 8
+[2024-06-14 23:20:32] Order 6 placed in the oven by chef 7
+[2024-06-14 23:20:32] Order 9 placed in the oven by chef 4
+[2024-06-14 23:20:32] Order 1 prepared by chef 6
+[2024-06-14 23:20:32] Order 7 has been given to courier 6. Delivery time: 0.684105 seconds
+[2024-06-14 23:20:32] Order 5 placed in the oven by chef 9
+[2024-06-14 23:20:32] Order 0 prepared by chef 2
+[2024-06-14 23:20:32] Order 3 placed in the oven by chef 0
+[2024-06-14 23:20:32] Order 8 has been given to courier 9. Delivery time: 0.553173 seconds
+[2024-06-14 23:20:32] Order 18 has been delivered by courier 0
+[2024-06-14 23:20:33] Order 4 placed in the oven by chef 3
+[2024-06-14 23:20:33] Order 2 placed in the oven by chef 5
+[2024-06-14 23:20:33] Order 11 has been given to courier 0. Delivery time: 1.504800 seconds
+[2024-06-14 23:20:33] Order 0 placed in the oven by chef 2
+[2024-06-14 23:20:33] Order 9 has been given to courier 4. Delivery time: 0.617738 seconds
+[2024-06-14 23:20:33] Order 1 placed in the oven by chef 6
+[2024-06-14 23:20:33] Order 16 has been delivered by courier 7
+[2024-06-14 23:20:33] Order 2 has been given to courier 3. Delivery time: 0.456946 seconds
+[2024-06-14 23:20:33] Order 0 has been given to courier 8. Delivery time: 0.480000 seconds
+[2024-06-14 23:20:34] Order 10 has been given to courier 7. Delivery time: 1.354926 seconds
+[2024-06-14 23:20:34] Order 8 has been delivered by courier 9
+[2024-06-14 23:20:34] Order 7 has been delivered by courier 6
+[2024-06-14 23:20:34] Order 14 has been given to courier 9. Delivery time: 1.036908 seconds
+[2024-06-14 23:20:34] Order 17 has been given to courier 6. Delivery time: 1.200245 seconds
+[2024-06-14 23:20:34] Order 9 has been delivered by courier 4
+[2024-06-14 23:20:34] Order 2 has been delivered by courier 3
+[2024-06-14 23:20:34] Order 11 has been delivered by courier 0
+[2024-06-14 23:20:34] Order 0 has been delivered by courier 8
+[2024-06-14 23:20:34] Order 5 has been given to courier 4. Delivery time: 1.020230 seconds
+[2024-06-14 23:20:35] Order 4 has been given to courier 3. Delivery time: 1.257446 seconds
+[2024-06-14 23:20:35] Order 15 has been given to courier 0. Delivery time: 2.268475 seconds
+[2024-06-14 23:20:35] Order 1 has been given to courier 8. Delivery time: 1.126220 seconds
+[2024-06-14 23:20:35] Order 10 has been delivered by courier 7
+[2024-06-14 23:20:35] Order 14 has been delivered by courier 9
+[2024-06-14 23:20:35] Order 12 has been given to courier 7. Delivery time: 2.033748 seconds
+[2024-06-14 23:20:35] Order 17 has been delivered by courier 6
+[2024-06-14 23:20:35] Order 19 has been given to courier 9. Delivery time: 1.837408 seconds
+[2024-06-14 23:20:35] Order 13 has been given to courier 6. Delivery time: 1.602737 seconds
+[2024-06-14 23:20:36] Order 5 has been delivered by courier 4
+[2024-06-14 23:20:36] Order 6 has been given to courier 4. Delivery time: 1.477176 seconds
+[2024-06-14 23:20:36] Order 1 has been delivered by courier 8
+[2024-06-14 23:20:36] Order 15 has been delivered by courier 0
+[2024-06-14 23:20:36] Order 4 has been delivered by courier 3
+[2024-06-14 23:20:36] Order 13 has been delivered by courier 6
+[2024-06-14 23:20:36] Order 12 has been delivered by courier 7
+[2024-06-14 23:20:36] Order 3 has been given to courier 3. Delivery time: 1.989840 seconds
+[2024-06-14 23:20:36] Order 19 has been delivered by courier 9
+[2024-06-14 23:20:36] Order 6 has been delivered by courier 4
+[2024-06-14 23:20:37] Order 3 has been delivered by courier 3
+[2024-06-14 23:21:13] Order ID: 0, p: 8, q: 17
+[2024-06-14 23:21:14] Order ID: 1, p: 0, q: 10
+[2024-06-14 23:21:14] Order ID: 2, p: 4, q: 6
+[2024-06-14 23:21:14] Order ID: 3, p: 14, q: 10
+[2024-06-14 23:21:14] Order ID: 4, p: 2, q: 10
+[2024-06-14 23:21:14] Order ID: 5, p: 16, q: 10
+[2024-06-14 23:21:14] Order ID: 6, p: 13, q: 6
+[2024-06-14 23:21:14] Order ID: 7, p: 14, q: 18
+[2024-06-14 23:21:14] Order ID: 8, p: 0, q: 14
+[2024-06-14 23:21:14] Order ID: 9, p: 8, q: 14
+[2024-06-14 23:21:15] Order ID: 10, p: 14, q: 7
+[2024-06-14 23:21:15] Order ID: 11, p: 7, q: 7
+[2024-06-14 23:21:15] Order ID: 12, p: 5, q: 0
+[2024-06-14 23:21:15] Order ID: 13, p: 5, q: 18
+[2024-06-14 23:21:15] Order ID: 14, p: 7, q: 3
+[2024-06-14 23:21:15] Order ID: 15, p: 9, q: 7
+[2024-06-14 23:21:15] Order ID: 16, p: 12, q: 9
+[2024-06-14 23:21:15] Order ID: 17, p: 9, q: 8
+[2024-06-14 23:21:15] Order ID: 18, p: 15, q: 4
+[2024-06-14 23:21:15] Order ID: 19, p: 18, q: 10
+[2024-06-14 23:21:16] Order 19 prepared by chef 0
+[2024-06-14 23:21:16] Order 18 prepared by chef 1
+[2024-06-14 23:21:16] Order 17 prepared by chef 2
+[2024-06-14 23:21:16] Order 15 prepared by chef 4
+[2024-06-14 23:21:16] Order 14 prepared by chef 5
+[2024-06-14 23:21:16] Order 16 prepared by chef 3
+[2024-06-14 23:21:16] Order 13 prepared by chef 6
+[2024-06-14 23:21:16] Order 12 prepared by chef 7
+[2024-06-14 23:21:16] Order 11 prepared by chef 8
+[2024-06-14 23:21:17] Order 10 prepared by chef 9
+[2024-06-14 23:21:17] Order 15 placed in the oven by chef 4
+[2024-06-14 23:21:17] Order 19 placed in the oven by chef 0
+[2024-06-14 23:21:17] Order 14 placed in the oven by chef 5
+[2024-06-14 23:21:17] Order 16 placed in the oven by chef 3
+[2024-06-14 23:21:17] Order 12 placed in the oven by chef 7
+[2024-06-14 23:21:17] Order 13 placed in the oven by chef 6
+[2024-06-14 23:21:17] Order 9 prepared by chef 0
+[2024-06-14 23:21:17] Order 14 has been given to courier 1. Delivery time: 0.456946 seconds
+[2024-06-14 23:21:17] Order 10 placed in the oven by chef 9
+[2024-06-14 23:21:18] Order 7 prepared by chef 5
+[2024-06-14 23:21:18] Order 8 prepared by chef 4
+[2024-06-14 23:21:18] Order 11 placed in the oven by chef 8
+[2024-06-14 23:21:18] Order 17 placed in the oven by chef 2
+[2024-06-14 23:21:18] Order 6 prepared by chef 3
+[2024-06-14 23:21:18] Order 5 prepared by chef 7
+[2024-06-14 23:21:18] Order 4 prepared by chef 6
+[2024-06-14 23:21:18] Order 18 placed in the oven by chef 1
+[2024-06-14 23:21:18] Order 13 has been given to courier 3. Delivery time: 0.566039 seconds
+[2024-06-14 23:21:18] Order 9 placed in the oven by chef 0
+[2024-06-14 23:21:19] Order 7 placed in the oven by chef 5
+[2024-06-14 23:21:19] Order 8 placed in the oven by chef 4
+[2024-06-14 23:21:19] Order 0 prepared by chef 1
+[2024-06-14 23:21:19] Order 2 prepared by chef 9
+[2024-06-14 23:21:19] Order 3 prepared by chef 8
+[2024-06-14 23:21:19] Order 1 prepared by chef 2
+[2024-06-14 23:21:19] Order 6 placed in the oven by chef 3
+[2024-06-14 23:21:19] Order 18 has been given to courier 6. Delivery time: 0.468615 seconds
+[2024-06-14 23:21:19] Order 14 has been delivered by courier 1
+[2024-06-14 23:21:20] Order 4 placed in the oven by chef 6
+[2024-06-14 23:21:20] Order 5 placed in the oven by chef 7
+[2024-06-14 23:21:20] Order 15 has been given to courier 1. Delivery time: 0.725275 seconds
+[2024-06-14 23:21:20] Order 13 has been delivered by courier 3
+[2024-06-14 23:21:20] Order 2 placed in the oven by chef 9
+[2024-06-14 23:21:20] Order 0 placed in the oven by chef 1
+[2024-06-14 23:21:20] Order 7 has been given to courier 0. Delivery time: 0.536656 seconds
+[2024-06-14 23:21:20] Order 12 has been given to courier 3. Delivery time: 1.646039 seconds
+[2024-06-14 23:21:20] Order 3 placed in the oven by chef 8
+[2024-06-14 23:21:20] Order 1 placed in the oven by chef 2
+[2024-06-14 23:21:21] Order 4 has been given to courier 2. Delivery time: 0.480000 seconds
+[2024-06-14 23:21:21] Order 18 has been delivered by courier 6
+[2024-06-14 23:21:21] Order 15 has been delivered by courier 1
+[2024-06-14 23:21:21] Order 0 has been given to courier 7. Delivery time: 0.436807 seconds
+[2024-06-14 23:21:21] Order 1 has been given to courier 9. Delivery time: 0.600000 seconds
+[2024-06-14 23:21:21] Order 17 has been given to courier 6. Delivery time: 0.901281 seconds
+[2024-06-14 23:21:21] Order 19 has been given to courier 1. Delivery time: 1.294485 seconds
+[2024-06-14 23:21:21] Order 7 has been delivered by courier 0
+[2024-06-14 23:21:21] Order 4 has been delivered by courier 2
+[2024-06-14 23:21:22] Order 9 has been given to courier 0. Delivery time: 0.969322 seconds
+[2024-06-14 23:21:22] Order 0 has been delivered by courier 7
+[2024-06-14 23:21:22] Order 8 has been given to courier 2. Delivery time: 0.748328 seconds
+[2024-06-14 23:21:22] Order 17 has been delivered by courier 6
+[2024-06-14 23:21:22] Order 1 has been delivered by courier 9
+[2024-06-14 23:21:27] Order ID: 0, p: 12, q: 0
+[2024-06-14 23:21:27] Order ID: 1, p: 13, q: 13
+[2024-06-14 23:21:27] Order ID: 2, p: 19, q: 7
+[2024-06-14 23:21:28] Order ID: 3, p: 11, q: 7
+[2024-06-14 23:21:28] Order ID: 4, p: 11, q: 13
+[2024-06-14 23:21:28] Order ID: 5, p: 12, q: 14
+[2024-06-14 23:21:28] Order ID: 6, p: 0, q: 2
+[2024-06-14 23:21:28] Order ID: 7, p: 9, q: 4
+[2024-06-14 23:21:28] Order ID: 8, p: 18, q: 19
+[2024-06-14 23:21:28] Order ID: 9, p: 0, q: 4
+[2024-06-14 23:21:28] Order ID: 10, p: 2, q: 3
+[2024-06-14 23:21:28] Order ID: 11, p: 1, q: 9
+[2024-06-14 23:21:29] Order ID: 12, p: 4, q: 2
+[2024-06-14 23:21:29] Order ID: 13, p: 2, q: 15
+[2024-06-14 23:21:29] Order ID: 14, p: 15, q: 10
+[2024-06-14 23:21:29] Order ID: 15, p: 13, q: 19
+[2024-06-14 23:21:29] Order ID: 16, p: 2, q: 7
+[2024-06-14 23:21:29] Order ID: 17, p: 4, q: 13
+[2024-06-14 23:21:29] Order ID: 18, p: 6, q: 15
+[2024-06-14 23:21:29] Order ID: 19, p: 0, q: 18
+[2024-06-14 23:21:29] Order 19 prepared by chef 0
+[2024-06-14 23:21:29] Order 17 prepared by chef 2
+[2024-06-14 23:21:30] Order 18 prepared by chef 1
+[2024-06-14 23:21:30] Order 15 prepared by chef 4
+[2024-06-14 23:21:30] Order 16 prepared by chef 3
+[2024-06-14 23:21:30] Order 14 prepared by chef 5
+[2024-06-14 23:21:30] Order 13 prepared by chef 6
+[2024-06-14 23:21:30] Order 12 prepared by chef 7
+[2024-06-14 23:21:30] Order 11 prepared by chef 8
+[2024-06-14 23:21:30] Order 10 prepared by chef 9
+[2024-06-14 23:21:30] Order 19 placed in the oven by chef 0
+[2024-06-14 23:21:37] Order ID: 0, p: 18, q: 4
+[2024-06-14 23:21:37] Order ID: 1, p: 3, q: 2
+[2024-06-14 23:21:37] Order ID: 2, p: 2, q: 12
+[2024-06-14 23:21:37] Order ID: 3, p: 5, q: 19
+[2024-06-14 23:21:38] Order ID: 4, p: 19, q: 14
+[2024-06-14 23:21:38] Order ID: 5, p: 14, q: 11
+[2024-06-14 23:22:26] Order ID: 0, p: 19, q: 5
+[2024-06-14 23:22:26] Order ID: 1, p: 4, q: 3
+[2024-06-14 23:22:26] Order ID: 2, p: 0, q: 2
+[2024-06-14 23:22:26] Order ID: 3, p: 19, q: 6
+[2024-06-14 23:22:26] Order ID: 4, p: 17, q: 14
+[2024-06-14 23:22:27] Order ID: 5, p: 18, q: 14
+[2024-06-14 23:22:27] Order ID: 6, p: 10, q: 16
+[2024-06-14 23:22:27] Order ID: 7, p: 12, q: 15
+[2024-06-14 23:22:27] Order ID: 8, p: 4, q: 18
+[2024-06-14 23:22:27] Order ID: 9, p: 15, q: 13
+[2024-06-14 23:22:27] Order ID: 10, p: 19, q: 6
+[2024-06-14 23:22:27] Order ID: 11, p: 13, q: 15
+[2024-06-14 23:22:27] Order ID: 12, p: 10, q: 12
+[2024-06-14 23:22:27] Order ID: 13, p: 8, q: 11
+[2024-06-14 23:22:28] Order ID: 14, p: 17, q: 19
+[2024-06-14 23:22:28] Order ID: 15, p: 6, q: 8
+[2024-06-14 23:22:28] Order ID: 16, p: 4, q: 11
+[2024-06-14 23:22:28] Order ID: 17, p: 3, q: 4
+[2024-06-14 23:22:28] Order ID: 18, p: 5, q: 2
+[2024-06-14 23:22:28] Order ID: 19, p: 2, q: 14
+[2024-06-14 23:22:29] Order 19 prepared by chef 4
+[2024-06-14 23:22:29] Order 18 prepared by chef 0
+[2024-06-14 23:22:29] Order 17 prepared by chef 5
+[2024-06-14 23:22:29] Order 16 prepared by chef 6
+[2024-06-14 23:22:30] Order 15 prepared by chef 7
+[2024-06-14 23:22:30] Order 14 prepared by chef 8
+[2024-06-14 23:22:30] Order 13 prepared by chef 9
+[2024-06-14 23:22:30] Order 12 prepared by chef 2
+[2024-06-14 23:22:30] Order 11 prepared by chef 1
+[2024-06-14 23:22:30] Order 10 prepared by chef 3
+[2024-06-14 23:22:30] Order 19 placed in the oven by chef 4
+[2024-06-14 23:22:30] Order 18 placed in the oven by chef 0
+[2024-06-14 23:22:30] Order 16 placed in the oven by chef 6
+[2024-06-14 23:22:31] Order 12 placed in the oven by chef 2
+[2024-06-14 23:22:31] Order 10 placed in the oven by chef 3
+[2024-06-14 23:22:31] Order 14 placed in the oven by chef 8
+[2024-06-14 23:22:31] Order 9 prepared by chef 4
+[2024-06-14 23:22:31] Order 8 prepared by chef 0
+[2024-06-14 23:22:31] Order 11 placed in the oven by chef 1
+[2024-06-14 23:22:31] Order 7 prepared by chef 2
+[2024-06-14 23:22:31] Order 6 prepared by chef 6
+[2024-06-14 23:22:31] Order 16 has been given to courier 3. Delivery time: 0.364966 seconds
+[2024-06-14 23:22:31] Order 17 placed in the oven by chef 5
+[2024-06-14 23:22:32] Order 5 prepared by chef 5
+[2024-06-14 23:22:32] Order 8 placed in the oven by chef 0
+[2024-06-14 23:22:32] Order 15 placed in the oven by chef 7
+[2024-06-14 23:22:32] Order 16 has been delivered by courier 3
+[2024-06-14 23:22:32] Order 13 placed in the oven by chef 9
+[2024-06-14 23:22:32] Order 7 placed in the oven by chef 2
+[2024-06-14 23:22:32] Order 4 prepared by chef 1
+[2024-06-14 23:22:32] Order 3 prepared by chef 8
+[2024-06-14 23:22:32] Order 14 has been given to courier 6. Delivery time: 0.684105 seconds
+[2024-06-14 23:22:32] Order 2 prepared by chef 3
+[2024-06-14 23:22:33] Order 6 placed in the oven by chef 6
+[2024-06-14 23:22:33] Order 9 placed in the oven by chef 4
+[2024-06-14 23:22:33] Order 12 has been given to courier 3. Delivery time: 0.729932 seconds
+[2024-06-14 23:22:33] Order 1 prepared by chef 2
+[2024-06-14 23:22:33] Order 0 prepared by chef 9
+[2024-06-14 23:22:33] Order 3 placed in the oven by chef 8
+[2024-06-14 23:22:33] Order 2 placed in the oven by chef 3
+[2024-06-14 23:22:33] Order 15 has been given to courier 0. Delivery time: 0.268328 seconds
+[2024-06-14 23:22:39] Order 14 has been delivered by courier 6
+[2024-06-14 23:22:39] Order 12 has been delivered by courier 3
+[2024-06-14 23:22:39] Order 8 has been given to courier 7. Delivery time: 0.600000 seconds
+[2024-06-14 23:22:39] Order 5 placed in the oven by chef 5
+[2024-06-14 23:22:39] Order 18 has been given to courier 3. Delivery time: 1.400752 seconds
+[2024-06-14 23:22:39] Order 4 placed in the oven by chef 1
+[2024-06-14 23:22:39] Order 15 has been delivered by courier 0
+[2024-06-14 23:22:39] Order 11 has been given to courier 6. Delivery time: 1.023517 seconds
+[2024-06-14 23:22:39] Order 0 placed in the oven by chef 9
+[2024-06-14 23:22:40] Order 1 placed in the oven by chef 2
+[2024-06-14 23:22:40] Order 13 has been given to courier 0. Delivery time: 0.484661 seconds
+[2024-06-14 23:22:40] Order 4 has been given to courier 5. Delivery time: 0.483735 seconds
+[2024-06-14 23:22:40] Order 11 has been delivered by courier 6
+[2024-06-14 23:22:40] Order 8 has been delivered by courier 7
+[2024-06-14 23:22:40] Order 18 has been delivered by courier 3
+[2024-06-14 23:22:40] Order 0 has been given to courier 2. Delivery time: 0.617738 seconds
+[2024-06-14 23:22:50] Order 13 has been delivered by courier 0
+[2024-06-14 23:22:50] Order 4 has been delivered by courier 5
+[2024-06-14 23:22:51] Order 1 has been given to courier 4. Delivery time: 0.553173 seconds
+[2024-06-14 23:22:51] Order 10 has been given to courier 7. Delivery time: 1.752562 seconds
+[2024-06-14 23:22:51] Order 17 has been given to courier 6. Delivery time: 1.915481 seconds
+[2024-06-14 23:22:51] Order 7 has been given to courier 0. Delivery time: 0.824072 seconds
+[2024-06-14 23:22:51] Order 3 has been given to courier 5. Delivery time: 0.978508 seconds
+[2024-06-14 23:22:51] Order 0 has been delivered by courier 2
+[2024-06-14 23:24:56] Order ID: 0, p: 15, q: 13
+[2024-06-14 23:24:56] Order ID: 1, p: 14, q: 10
+[2024-06-14 23:24:56] Order ID: 2, p: 1, q: 17
+[2024-06-14 23:24:56] Order ID: 3, p: 2, q: 5
+[2024-06-14 23:24:56] Order ID: 4, p: 16, q: 2
+[2024-06-14 23:24:56] Order ID: 5, p: 19, q: 8
+[2024-06-14 23:24:56] Order ID: 6, p: 12, q: 4
+[2024-06-14 23:24:56] Order ID: 7, p: 16, q: 15
+[2024-06-14 23:24:56] Order ID: 8, p: 15, q: 13
+[2024-06-14 23:24:57] Order ID: 9, p: 10, q: 19
+[2024-06-14 23:24:57] Order ID: 10, p: 3, q: 2
+[2024-06-14 23:24:57] Order ID: 11, p: 0, q: 4
+[2024-06-14 23:24:57] Order ID: 12, p: 4, q: 5
+[2024-06-14 23:24:57] Order ID: 13, p: 8, q: 11
+[2024-06-14 23:24:57] Order ID: 14, p: 10, q: 6
+[2024-06-14 23:24:57] Order ID: 15, p: 2, q: 5
+[2024-06-14 23:24:57] Order ID: 16, p: 0, q: 16
+[2024-06-14 23:24:57] Order ID: 17, p: 7, q: 13
+[2024-06-14 23:24:57] Order ID: 18, p: 5, q: 1
+[2024-06-14 23:24:58] Order ID: 19, p: 19, q: 14
+[2024-06-14 23:24:59] Order 19 prepared by chef 4
+[2024-06-14 23:24:59] Order 18 prepared by chef 0
+[2024-06-14 23:24:59] Order 17 prepared by chef 5
+[2024-06-14 23:24:59] Order 16 prepared by chef 2
+[2024-06-14 23:24:59] Order 15 prepared by chef 3
+[2024-06-14 23:24:59] Order 14 prepared by chef 8
+[2024-06-14 23:24:59] Order 13 prepared by chef 9
+[2024-06-14 23:24:59] Order 12 prepared by chef 6
+[2024-06-14 23:24:59] Order 11 prepared by chef 7
+[2024-06-14 23:25:00] Order 10 prepared by chef 1
+[2024-06-14 23:25:00] Order 18 placed in the oven by chef 0
+[2024-06-14 23:25:00] Order 13 placed in the oven by chef 9
+[2024-06-14 23:25:00] Order 16 placed in the oven by chef 2
+[2024-06-14 23:25:00] Order 15 placed in the oven by chef 3
+[2024-06-14 23:25:00] Order 9 prepared by chef 0
+[2024-06-14 23:25:00] Order 8 prepared by chef 9
+[2024-06-14 23:25:00] Order 12 placed in the oven by chef 6
+[2024-06-14 23:25:01] Order 19 placed in the oven by chef 4
+[2024-06-14 23:25:01] Order 11 placed in the oven by chef 7
+[2024-06-14 23:25:01] Order 10 placed in the oven by chef 1
+[2024-06-14 23:25:01] Order 14 placed in the oven by chef 8
+[2024-06-14 23:25:01] Order 7 prepared by chef 2
+[2024-06-14 23:25:01] Order 6 prepared by chef 6
+[2024-06-14 23:25:01] Order 12 has been given to courier 3. Delivery time: 0.468615 seconds
+[2024-06-14 23:25:01] Order 5 prepared by chef 3
+[2024-06-14 23:25:30] Order 17 placed in the oven by chef 5
+[2024-06-14 23:25:31] Order 12 has been delivered by courier 3
+[2024-06-14 23:25:31] Order 8 placed in the oven by chef 9
+[2024-06-14 23:25:32] Order 4 prepared by chef 7
+[2024-06-14 23:25:32] Order 3 prepared by chef 8
+[2024-06-14 23:25:32] Order 14 has been given to courier 9. Delivery time: 0.240000 seconds
+[2024-06-14 23:25:46] Order 9 placed in the oven by chef 0
+[2024-06-14 23:25:49] Order 7 placed in the oven by chef 2
+[2024-06-14 23:25:49] Order 16 has been given to courier 3. Delivery time: 1.170897 seconds
+[2024-06-14 23:25:50] Order 2 prepared by chef 4
+[2024-06-14 23:27:25] Order ID: 0, p: 3, q: 11
+[2024-06-14 23:27:26] Order ID: 1, p: 12, q: 14
+[2024-06-14 23:27:26] Order ID: 2, p: 15, q: 9
+[2024-06-14 23:27:26] Order ID: 3, p: 0, q: 11
+[2024-06-14 23:27:26] Order ID: 4, p: 9, q: 5
+[2024-06-14 23:27:26] Order ID: 5, p: 10, q: 11
+[2024-06-14 23:27:26] Order ID: 6, p: 4, q: 0
+[2024-06-14 23:27:26] Order ID: 7, p: 18, q: 14
+[2024-06-14 23:27:26] Order ID: 8, p: 1, q: 3
+[2024-06-14 23:27:26] Order ID: 9, p: 16, q: 9
+[2024-06-14 23:27:26] Order ID: 10, p: 15, q: 0
+[2024-06-14 23:27:27] Order ID: 11, p: 7, q: 19
+[2024-06-14 23:27:27] Order ID: 12, p: 15, q: 6
+[2024-06-14 23:27:27] Order ID: 13, p: 19, q: 8
+[2024-06-14 23:27:27] Order ID: 14, p: 12, q: 2
+[2024-06-14 23:27:27] Order ID: 15, p: 2, q: 7
+[2024-06-14 23:27:27] Order ID: 16, p: 13, q: 6
+[2024-06-14 23:27:27] Order ID: 17, p: 13, q: 0
+[2024-06-14 23:27:27] Order ID: 18, p: 8, q: 14
+[2024-06-14 23:27:27] Order ID: 19, p: 3, q: 17
+[2024-06-14 23:27:28] Order 19 prepared by chef 4
+[2024-06-14 23:27:29] Order 18 prepared by chef 0
+[2024-06-14 23:27:29] Order 17 prepared by chef 5
+[2024-06-14 23:27:29] Order 16 prepared by chef 2
+[2024-06-14 23:27:29] Order 15 prepared by chef 6
+[2024-06-14 23:27:29] Order 14 prepared by chef 7
+[2024-06-14 23:27:29] Order 13 prepared by chef 8
+[2024-06-14 23:27:29] Order 12 prepared by chef 9
+[2024-06-14 23:27:29] Order 11 prepared by chef 3
+[2024-06-14 23:27:29] Order 10 prepared by chef 1
+[2024-06-14 23:27:30] Order 12 placed in the oven by chef 9
+[2024-06-14 23:27:30] Order 16 placed in the oven by chef 2
+[2024-06-14 23:27:30] Order 19 placed in the oven by chef 4
+[2024-06-14 23:27:30] Order 9 prepared by chef 2
+[2024-06-14 23:27:30] Order 11 placed in the oven by chef 3
+[2024-06-14 23:27:30] Order 15 placed in the oven by chef 6
+[2024-06-14 23:27:30] Order 10 placed in the oven by chef 1
+[2024-06-14 23:27:30] Order 8 prepared by chef 3
+[2024-06-14 23:27:31] Order 14 placed in the oven by chef 7
+[2024-06-14 23:27:31] Order 18 placed in the oven by chef 0
+[2024-06-14 23:27:31] Order 7 prepared by chef 9
+[2024-06-14 23:27:31] Order 13 placed in the oven by chef 8
+[2024-06-14 23:27:59] Order 17 placed in the oven by chef 5
+[2024-06-14 23:27:59] Order 6 prepared by chef 6
+[2024-06-14 23:27:59] Order 15 has been given to courier 3. Delivery time: 0.512640 seconds
+[2024-06-14 23:27:59] Order 8 placed in the oven by chef 3
+[2024-06-14 23:27:59] Order 5 prepared by chef 1
+[2024-06-14 23:27:59] Order 4 prepared by chef 4
+[2024-06-14 23:27:59] Order 19 has been given to courier 6. Delivery time: 0.593970 seconds
+[2024-06-14 23:27:59] Order 9 placed in the oven by chef 2
+[2024-06-14 23:28:00] Order 3 prepared by chef 0
+[2024-06-14 23:28:00] Order 7 placed in the oven by chef 9
+[2024-06-14 23:28:00] Order 2 prepared by chef 7
+[2024-06-14 23:28:00] Order 1 prepared by chef 5
+[2024-06-14 23:28:00] Order 0 prepared by chef 3
+[2024-06-14 23:28:00] Order 8 has been given to courier 4. Delivery time: 0.684105 seconds
+[2024-06-14 23:28:00] Order 4 placed in the oven by chef 4
+[2024-06-14 23:28:00] Order 15 has been delivered by courier 3
+[2024-06-14 23:28:00] Order 5 placed in the oven by chef 1
+[2024-06-14 23:28:01] Order 12 has been given to courier 3. Delivery time: 1.294945 seconds
+[2024-06-14 23:28:01] Order 19 has been delivered by courier 6
+[2024-06-14 23:28:01] Order 6 placed in the oven by chef 6
+[2024-06-14 23:28:01] Order 0 placed in the oven by chef 3
+[2024-06-14 23:28:01] Order 9 has been given to courier 2. Delivery time: 0.364966 seconds
+[2024-06-14 23:28:01] Order 10 has been given to courier 6. Delivery time: 1.842489 seconds
+[2024-06-14 23:28:01] Order 2 placed in the oven by chef 7
+[2024-06-14 23:28:24] Order ID: 0, p: 16, q: 4
+[2024-06-14 23:28:24] Order ID: 1, p: 3, q: 15
+[2024-06-14 23:28:24] Order ID: 2, p: 5, q: 9
+[2024-06-14 23:28:24] Order ID: 3, p: 9, q: 9
+[2024-06-14 23:28:24] Order ID: 4, p: 8, q: 17
+[2024-06-14 23:28:24] Order ID: 5, p: 11, q: 17
+[2024-06-14 23:28:25] Order ID: 6, p: 11, q: 10
+[2024-06-14 23:28:25] Order ID: 7, p: 3, q: 14
+[2024-06-14 23:28:25] Order ID: 8, p: 10, q: 7
+[2024-06-14 23:28:25] Order ID: 9, p: 9, q: 13
+[2024-06-14 23:28:25] Order ID: 10, p: 9, q: 4
+[2024-06-14 23:28:25] Order ID: 11, p: 7, q: 1
+[2024-06-14 23:28:25] Order ID: 12, p: 1, q: 14
+[2024-06-14 23:28:25] Order ID: 13, p: 12, q: 4
+[2024-06-14 23:28:25] Order ID: 14, p: 4, q: 11
+[2024-06-14 23:28:26] Order ID: 15, p: 16, q: 0
+[2024-06-14 23:28:26] Order ID: 16, p: 7, q: 0
+[2024-06-14 23:28:26] Order ID: 17, p: 7, q: 5
+[2024-06-14 23:28:26] Order ID: 18, p: 1, q: 17
+[2024-06-14 23:28:26] Order ID: 19, p: 14, q: 2
+[2024-06-14 23:28:26] Order 19 prepared by chef 0
+[2024-06-14 23:28:26] Order 18 prepared by chef 1
+[2024-06-14 23:28:26] Order 17 prepared by chef 2
+[2024-06-14 23:28:26] Order 16 prepared by chef 3
+[2024-06-14 23:28:26] Order 15 prepared by chef 4
+[2024-06-14 23:28:27] Order 14 prepared by chef 5
+[2024-06-14 23:28:27] Order 13 prepared by chef 6
+[2024-06-14 23:28:27] Order 12 prepared by chef 7
+[2024-06-14 23:28:27] Order 11 prepared by chef 8
+[2024-06-14 23:28:27] Order 10 prepared by chef 9
+[2024-06-14 23:28:27] Order 18 placed in the oven by chef 1
+[2024-06-14 23:28:27] Order 10 placed in the oven by chef 9
+[2024-06-14 23:28:27] Order 14 placed in the oven by chef 5
+[2024-06-14 23:28:27] Order 11 placed in the oven by chef 8
+[2024-06-14 23:28:28] Order 19 placed in the oven by chef 0
+[2024-06-14 23:28:28] Order 15 placed in the oven by chef 4
+[2024-06-14 23:28:28] Order 9 prepared by chef 9
+[2024-06-14 23:28:28] Order 11 has been given to courier 7. Delivery time: 0.569210 seconds
+[2024-06-14 23:28:28] Order 7 prepared by chef 8
+[2024-06-14 23:28:28] Order 6 prepared by chef 1
+[2024-06-14 23:28:28] Order 16 placed in the oven by chef 3
+[2024-06-14 23:28:28] Order 8 prepared by chef 5
+[2024-06-14 23:28:28] Order 13 placed in the oven by chef 6
+[2024-06-14 23:28:28] Order 12 placed in the oven by chef 7
+[2024-06-14 23:28:29] Order 17 placed in the oven by chef 2
+[2024-06-14 23:28:29] Order 5 prepared by chef 0
+[2024-06-14 23:28:29] Order 7 placed in the oven by chef 8
+[2024-06-14 23:28:29] Order 3 prepared by chef 6
+[2024-06-14 23:28:29] Order 16 has been given to courier 2. Delivery time: 0.626418 seconds
+[2024-06-14 23:28:29] Order 8 placed in the oven by chef 5
+[2024-06-14 23:28:29] Order 4 prepared by chef 3
+[2024-06-14 23:28:29] Order 2 prepared by chef 4
+[2024-06-14 23:28:29] Order 9 placed in the oven by chef 9
+[2024-06-14 23:28:30] Order 0 prepared by chef 2
+[2024-06-14 23:28:30] Order 17 has been given to courier 0. Delivery time: 0.349857 seconds
+[2024-06-14 23:28:30] Order 6 placed in the oven by chef 1
+[2024-06-14 23:28:30] Order 1 prepared by chef 7
+[2024-06-14 23:28:30] Order 11 has been delivered by courier 7
+[2024-06-14 23:28:30] Order 5 placed in the oven by chef 0
+[2024-06-14 23:28:30] Order 2 placed in the oven by chef 4
+[2024-06-14 23:28:30] Order 8 has been given to courier 1. Delivery time: 0.180000 seconds
+[2024-06-14 23:28:30] Order 10 has been given to courier 7. Delivery time: 0.785543 seconds
+[2024-06-14 23:28:30] Order 3 placed in the oven by chef 6
+[2024-06-14 23:28:31] Order 4 placed in the oven by chef 3
+[2024-06-14 23:28:31] Order 17 has been delivered by courier 0
+[2024-06-14 23:28:31] Order 8 has been delivered by courier 1
+[2024-06-14 23:28:31] Order 2 has been given to courier 8. Delivery time: 0.305941 seconds
+[2024-06-14 23:28:31] Order 1 placed in the oven by chef 7
+[2024-06-14 23:28:31] Order 0 placed in the oven by chef 2
+[2024-06-14 23:28:31] Order 16 has been delivered by courier 2
+[2024-06-14 23:28:31] Order 12 has been given to courier 0. Delivery time: 0.998856 seconds
+[2024-06-14 23:28:31] Order 7 has been given to courier 1. Delivery time: 0.773970 seconds
+[2024-06-14 23:28:32] Order 10 has been delivered by courier 7
+[2024-06-14 23:28:32] Order 4 has been given to courier 5. Delivery time: 0.436807 seconds
+[2024-06-14 23:28:32] Order 1 has been given to courier 6. Delivery time: 0.516140 seconds
+[2024-06-14 23:28:32] Order 13 has been given to courier 2. Delivery time: 1.010606 seconds
+[2024-06-14 23:28:32] Order 14 has been given to courier 7. Delivery time: 1.301683 seconds
+[2024-06-14 23:28:32] Order 2 has been delivered by courier 8
+[2024-06-14 23:28:32] Order 5 has been given to courier 8. Delivery time: 0.905941 seconds
+[2024-06-14 23:28:32] Order 13 has been delivered by courier 2
+[2024-06-14 23:28:32] Order 4 has been delivered by courier 5
+[2024-06-14 23:28:32] Order 1 has been delivered by courier 6
+[2024-06-14 23:30:10] Order ID: 0, p: 18, q: 12
+[2024-06-14 23:30:10] Order ID: 1, p: 11, q: 15
+[2024-06-14 23:30:10] Order ID: 2, p: 13, q: 12
+[2024-06-14 23:30:10] Order ID: 3, p: 19, q: 2
+[2024-06-14 23:30:10] Order ID: 4, p: 7, q: 11
+[2024-06-14 23:30:10] Order ID: 5, p: 11, q: 6
+[2024-06-14 23:30:10] Order ID: 6, p: 7, q: 9
+[2024-06-14 23:30:10] Order ID: 7, p: 9, q: 2
+[2024-06-14 23:30:10] Order ID: 8, p: 3, q: 18
+[2024-06-14 23:30:11] Order ID: 9, p: 12, q: 9
+[2024-06-14 23:30:11] Order ID: 10, p: 12, q: 17
+[2024-06-14 23:30:11] Order ID: 11, p: 11, q: 16
+[2024-06-14 23:30:11] Order ID: 12, p: 19, q: 17
+[2024-06-14 23:30:11] Order ID: 13, p: 16, q: 18
+[2024-06-14 23:30:11] Order ID: 14, p: 5, q: 10
+[2024-06-14 23:30:11] Order ID: 15, p: 19, q: 4
+[2024-06-14 23:30:11] Order ID: 16, p: 2, q: 10
+[2024-06-14 23:30:11] Order ID: 17, p: 11, q: 15
+[2024-06-14 23:30:12] Order ID: 18, p: 14, q: 3
+[2024-06-14 23:30:12] Order ID: 19, p: 10, q: 1
+[2024-06-14 23:30:13] Order 19 prepared by chef 4
+[2024-06-14 23:30:13] Order 18 prepared by chef 0
+[2024-06-14 23:30:13] Order 17 prepared by chef 5
+[2024-06-14 23:30:13] Order 16 prepared by chef 2
+[2024-06-14 23:30:13] Order 15 prepared by chef 7
+[2024-06-14 23:30:13] Order 14 prepared by chef 8
+[2024-06-14 23:30:13] Order 13 prepared by chef 9
+[2024-06-14 23:30:13] Order 12 prepared by chef 6
+[2024-06-14 23:30:14] Order 11 prepared by chef 3
+[2024-06-14 23:30:14] Order 10 prepared by chef 1
+[2024-06-14 23:30:14] Order 14 placed in the oven by chef 8
+[2024-06-14 23:30:14] Order 10 placed in the oven by chef 1
+[2024-06-14 23:30:14] Order 19 placed in the oven by chef 4
+[2024-06-14 23:30:14] Order 12 placed in the oven by chef 6
+[2024-06-14 23:30:14] Order 13 placed in the oven by chef 9
+[2024-06-14 23:30:14] Order 16 placed in the oven by chef 2
+[2024-06-14 23:30:14] Order 15 placed in the oven by chef 7
+[2024-06-14 23:30:15] Order 9 prepared by chef 8
+[2024-06-14 23:30:15] Order 8 prepared by chef 4
+[2024-06-14 23:30:15] Order 7 prepared by chef 1
+[2024-06-14 23:30:15] Order 10 has been given to courier 0. Delivery time: 0.436807 seconds
+[2024-06-14 23:30:15] Order 11 placed in the oven by chef 3
+[2024-06-14 23:30:15] Order 17 placed in the oven by chef 5
+[2024-06-14 23:30:15] Order 6 prepared by chef 6
+[2024-06-14 23:30:15] Order 5 prepared by chef 2
+[2024-06-14 23:30:15] Order 8 placed in the oven by chef 4
+[2024-06-14 23:30:51] Order 7 placed in the oven by chef 1
+[2024-06-14 23:30:57] Order 18 placed in the oven by chef 0
+[2024-06-14 23:30:57] Order 10 has been delivered by courier 0
+[2024-06-14 23:30:57] Order 9 placed in the oven by chef 8
+[2024-06-14 23:30:57] Order 5 placed in the oven by chef 2
+[2024-06-14 23:30:57] 
+[2024-06-14 23:31:39] Order ID: 0, p: 19, q: 18
+[2024-06-14 23:31:39] Order ID: 1, p: 7, q: 18
+[2024-06-14 23:31:39] Order ID: 2, p: 14, q: 5
+[2024-06-14 23:31:39] Order ID: 3, p: 5, q: 5
+[2024-06-14 23:31:39] Order ID: 4, p: 8, q: 16
+[2024-06-14 23:31:39] Order ID: 5, p: 17, q: 17
+[2024-06-14 23:31:39] Order ID: 6, p: 2, q: 15
+[2024-06-14 23:31:39] Order ID: 7, p: 19, q: 9
+[2024-06-14 23:31:40] Order ID: 8, p: 7, q: 19
+[2024-06-14 23:31:40] Order ID: 9, p: 19, q: 13
+[2024-06-14 23:31:40] Order ID: 10, p: 7, q: 1
+[2024-06-14 23:31:40] Order ID: 11, p: 7, q: 16
+[2024-06-14 23:31:40] Order ID: 12, p: 6, q: 13
+[2024-06-14 23:31:40] Order ID: 13, p: 14, q: 16
+[2024-06-14 23:31:40] Order ID: 14, p: 12, q: 14
+[2024-06-14 23:31:40] Order ID: 15, p: 3, q: 4
+[2024-06-14 23:31:40] Order ID: 16, p: 5, q: 10
+[2024-06-14 23:31:41] Order ID: 17, p: 2, q: 19
+[2024-06-14 23:31:41] Order ID: 18, p: 15, q: 7
+[2024-06-14 23:31:41] Order ID: 19, p: 5, q: 3
+[2024-06-14 23:31:42] Order 19 prepared by chef 4
+[2024-06-14 23:31:42] Order 18 prepared by chef 0
+[2024-06-14 23:31:42] Order 17 prepared by chef 5
+[2024-06-14 23:31:42] Order 16 prepared by chef 6
+[2024-06-14 23:31:42] Order 15 prepared by chef 7
+[2024-06-14 23:31:42] Order 14 prepared by chef 8
+[2024-06-14 23:31:42] Order 13 prepared by chef 1
+[2024-06-14 23:31:43] Order 12 prepared by chef 9
+[2024-06-14 23:31:43] Order 11 prepared by chef 2
+[2024-06-14 23:31:43] Order 10 prepared by chef 3
+[2024-06-14 23:31:43] Order 18 placed in the oven by chef 0
+[2024-06-14 23:31:43] Order 12 placed in the oven by chef 9
+[2024-06-14 23:31:43] Order 11 placed in the oven by chef 2
+[2024-06-14 23:31:43] Order 10 placed in the oven by chef 3
+[2024-06-14 23:31:43] Order 14 placed in the oven by chef 8
+[2024-06-14 23:31:43] Order 13 placed in the oven by chef 1
+[2024-06-14 23:31:43] Order 9 prepared by chef 9
+[2024-06-14 23:31:44] Order 16 placed in the oven by chef 6
+[2024-06-14 23:31:44] Order 8 prepared by chef 2
+[2024-06-14 23:33:36] Order ID: 0, p: 10, q: 15
+[2024-06-14 23:33:36] Order ID: 1, p: 16, q: 8
+[2024-06-14 23:33:36] Order ID: 2, p: 15, q: 15
+[2024-06-14 23:33:36] Order ID: 3, p: 11, q: 11
+[2024-06-14 23:33:36] Order ID: 4, p: 14, q: 4
+[2024-06-14 23:33:36] Order ID: 5, p: 15, q: 16
+[2024-06-14 23:33:36] Order ID: 6, p: 17, q: 13
+[2024-06-14 23:33:36] Order ID: 7, p: 3, q: 6
+[2024-06-14 23:33:37] Order ID: 8, p: 16, q: 19
+[2024-06-14 23:33:37] Order ID: 9, p: 4, q: 18
+[2024-06-14 23:33:37] Order ID: 10, p: 4, q: 13
+[2024-06-14 23:33:37] Order ID: 11, p: 10, q: 4
+[2024-06-14 23:33:37] Order ID: 12, p: 19, q: 10
+[2024-06-14 23:33:37] Order ID: 13, p: 1, q: 9
+[2024-06-14 23:33:37] Order ID: 14, p: 2, q: 4
+[2024-06-14 23:33:37] Order ID: 15, p: 12, q: 13
+[2024-06-14 23:33:37] Order ID: 16, p: 12, q: 9
+[2024-06-14 23:33:38] Order ID: 17, p: 13, q: 19
+[2024-06-14 23:33:38] Order ID: 18, p: 16, q: 4
+[2024-06-14 23:33:38] Order ID: 19, p: 10, q: 10
+[2024-06-14 23:33:38] Order 19 prepared by chef 0
+[2024-06-14 23:33:38] Order 18 prepared by chef 1
+[2024-06-14 23:33:38] Order 17 prepared by chef 2
+[2024-06-14 23:33:38] Order 16 prepared by chef 4
+[2024-06-14 23:33:38] Order 15 prepared by chef 3
+[2024-06-14 23:33:38] Order 13 prepared by chef 6
+[2024-06-14 23:33:38] Order 12 prepared by chef 7
+[2024-06-14 23:33:39] Order 14 prepared by chef 5
+[2024-06-14 23:33:39] Order 11 prepared by chef 8
+[2024-06-14 23:33:39] Order 10 prepared by chef 9
+[2024-06-14 23:33:39] Order 16 placed in the oven by chef 4
+[2024-06-14 23:33:39] Order 17 placed in the oven by chef 2
+[2024-06-14 23:33:39] Order 14 placed in the oven by chef 5
+[2024-06-14 23:33:39] Order 13 placed in the oven by chef 6
+[2024-06-14 23:33:39] Order 18 placed in the oven by chef 1
+[2024-06-14 23:33:39] Order 19 placed in the oven by chef 0
+[2024-06-14 23:33:40] Order 9 prepared by chef 4
+[2024-06-14 23:33:40] Order 13 has been given to courier 5. Delivery time: 0.543323 seconds
+[2024-06-14 23:33:40] Order 8 prepared by chef 2
+[2024-06-14 23:33:40] Order 7 prepared by chef 5
+[2024-06-14 23:33:40] Order 6 prepared by chef 6
+[2024-06-14 23:33:40] Order 11 placed in the oven by chef 8
+[2024-06-14 23:33:40] Order 12 placed in the oven by chef 7
+[2024-06-14 23:33:40] Order 15 placed in the oven by chef 3
+[2024-06-14 23:33:40] Order 10 placed in the oven by chef 9
+[2024-06-14 23:33:40] Order 5 prepared by chef 0
+[2024-06-14 23:33:41] Order 4 prepared by chef 1
+[2024-06-14 23:33:41] Order 18 has been given to courier 9. Delivery time: 0.509117 seconds
+[2024-06-14 23:33:41] Order 9 placed in the oven by chef 4
+[2024-06-14 23:33:41] Order 6 placed in the oven by chef 6
+[2024-06-14 23:33:41] Order 5 placed in the oven by chef 0
+[2024-06-14 23:33:41] Order 3 prepared by chef 8
+[2024-06-14 23:33:41] Order 2 prepared by chef 7
+[2024-06-14 23:33:41] Order 7 placed in the oven by chef 5
+[2024-06-14 23:33:41] Order 1 prepared by chef 9
+[2024-06-14 23:33:42] Order 10 has been given to courier 2. Delivery time: 0.402492 seconds
+[2024-06-14 23:33:42] Order 13 has been delivered by courier 5
+[2024-06-14 23:33:42] Order 0 prepared by chef 3
+[2024-06-14 23:33:42] Order 8 placed in the oven by chef 2
+[2024-06-14 23:33:42] Order 4 placed in the oven by chef 1
+[2024-06-14 23:33:42] Order 18 has been delivered by courier 9
+[2024-06-14 23:33:42] Order 14 has been given to courier 5. Delivery time: 0.849264 seconds
+[2024-06-14 23:33:42] Order 3 placed in the oven by chef 8
+[2024-06-14 23:33:42] Order 2 placed in the oven by chef 7
+[2024-06-14 23:33:42] Order 7 has been given to courier 1. Delivery time: 0.483735 seconds
+[2024-06-14 23:33:43] Order 19 has been given to courier 9. Delivery time: 1.018234 seconds
+[2024-06-14 23:33:43] Order 10 has been delivered by courier 2
+[2024-06-14 23:33:43] Order 0 placed in the oven by chef 3
+[2024-06-14 23:33:43] Order 1 placed in the oven by chef 9
+[2024-06-14 23:33:43] Order 12 has been given to courier 2. Delivery time: 1.320316 seconds
+[2024-06-14 23:33:43] Order 3 has been given to courier 6. Delivery time: 0.084853 seconds
+[2024-06-14 23:33:43] Order 4 has been given to courier 4. Delivery time: 0.432666 seconds
+[2024-06-14 23:33:43] Order 1 has been given to courier 3. Delivery time: 0.379473 seconds
+[2024-06-14 23:33:43] Order 14 has been delivered by courier 5
+[2024-06-14 23:33:44] Order 17 has been given to courier 5. Delivery time: 1.965329 seconds
+[2024-06-14 23:33:44] Order 7 has been delivered by courier 1
+[2024-06-14 23:33:44] Order 3 has been delivered by courier 6
+[2024-06-14 23:33:44] Order 19 has been delivered by courier 9
+[2024-06-14 23:33:44] Order 6 has been given to courier 1. Delivery time: 1.422884 seconds
+[2024-06-14 23:33:44] Order 5 has been given to courier 6. Delivery time: 0.469040 seconds
+[2024-06-14 23:33:44] Order 1 has been delivered by courier 3
+[2024-06-14 23:33:44] Order 16 has been given to courier 9. Delivery time: 1.152398 seconds
+[2024-06-14 23:33:44] Order 4 has been delivered by courier 4
+[2024-06-14 23:34:28] Order ID: 0, p: 11, q: 19
+[2024-06-14 23:34:29] Order ID: 1, p: 18, q: 12
+[2024-06-14 23:34:29] Order ID: 2, p: 3, q: 14
+[2024-06-14 23:34:29] Order ID: 3, p: 7, q: 17
+[2024-06-14 23:34:29] Order ID: 4, p: 10, q: 9
+[2024-06-14 23:34:29] Order ID: 5, p: 19, q: 17
+[2024-06-14 23:34:29] Order ID: 6, p: 17, q: 1
+[2024-06-14 23:34:29] Order ID: 7, p: 12, q: 2
+[2024-06-14 23:34:29] Order ID: 8, p: 0, q: 6
+[2024-06-14 23:34:29] Order ID: 9, p: 14, q: 15
+[2024-06-14 23:34:30] Order ID: 10, p: 1, q: 18
+[2024-06-14 23:34:34] Order ID: 0, p: 7, q: 3
+[2024-06-14 23:34:34] Order ID: 1, p: 19, q: 7
+[2024-06-14 23:34:34] Order ID: 2, p: 14, q: 9
+[2024-06-14 23:34:34] Order ID: 3, p: 0, q: 14
+[2024-06-14 23:34:34] Order ID: 4, p: 13, q: 2
+[2024-06-14 23:34:34] Order ID: 5, p: 18, q: 4
+[2024-06-14 23:34:34] Order ID: 6, p: 9, q: 4
+[2024-06-14 23:34:34] Order ID: 7, p: 14, q: 0
+[2024-06-14 23:34:34] Order ID: 8, p: 10, q: 3
+[2024-06-14 23:34:34] Order ID: 9, p: 15, q: 14
+[2024-06-14 23:34:35] Order ID: 10, p: 8, q: 10
+[2024-06-14 23:34:35] Order ID: 11, p: 3, q: 14
+[2024-06-14 23:34:35] Order ID: 12, p: 8, q: 8
+[2024-06-14 23:34:35] Order ID: 13, p: 1, q: 3
+[2024-06-14 23:34:35] Order ID: 14, p: 3, q: 2
+[2024-06-14 23:34:35] Order ID: 15, p: 16, q: 10
+[2024-06-14 23:34:35] Order ID: 16, p: 5, q: 7
+[2024-06-14 23:34:35] Order ID: 17, p: 18, q: 19
+[2024-06-14 23:34:35] Order ID: 18, p: 17, q: 18
+[2024-06-14 23:34:36] Order ID: 19, p: 6, q: 2
+[2024-06-14 23:34:37] Order 19 prepared by chef 4
+[2024-06-14 23:34:37] Order 18 prepared by chef 0
+[2024-06-14 23:34:37] Order 17 prepared by chef 5
+[2024-06-14 23:34:37] Order 16 prepared by chef 2
+[2024-06-14 23:34:37] Order 15 prepared by chef 6
+[2024-06-14 23:34:37] Order 14 prepared by chef 7
+[2024-06-14 23:34:37] Order 13 prepared by chef 3
+[2024-06-14 23:34:37] Order 12 prepared by chef 1
+[2024-06-14 23:34:37] Order 11 prepared by chef 8
+[2024-06-14 23:34:38] Order 10 prepared by chef 9
+[2024-06-14 23:34:38] Order 16 placed in the oven by chef 2
+[2024-06-14 23:34:38] Order 15 placed in the oven by chef 6
+[2024-06-14 23:34:38] Order 17 placed in the oven by chef 5
+[2024-06-14 23:34:38] Order 11 placed in the oven by chef 8
+[2024-06-14 23:34:38] Order 14 placed in the oven by chef 7
+[2024-06-14 23:34:38] Order 10 placed in the oven by chef 9
+[2024-06-14 23:34:38] Order 9 prepared by chef 2
+[2024-06-14 23:34:38] Order 13 placed in the oven by chef 3
+[2024-06-14 23:34:38] Order 8 prepared by chef 6
+[2024-06-14 23:34:39] Order 18 placed in the oven by chef 0
+[2024-06-14 23:34:39] Order 7 prepared by chef 5
+[2024-06-14 23:34:39] Order 17 has been given to courier 2. Delivery time: 0.722496 seconds
+[2024-06-14 23:34:39] Order 19 placed in the oven by chef 4
+[2024-06-14 23:34:39] Order 6 prepared by chef 0
+[2024-06-14 23:34:39] Order 5 prepared by chef 9
+[2024-06-14 23:34:39] Order 12 placed in the oven by chef 1
+[2024-06-14 23:34:39] Order 4 prepared by chef 3
+[2024-06-14 23:34:39] Order 13 has been given to courier 5. Delivery time: 0.684105 seconds
+[2024-06-14 23:34:40] Order 3 prepared by chef 8
+[2024-06-14 23:34:40] Order 2 prepared by chef 7
+[2024-06-14 23:39:36] Order ID: 0, p: 1, q: 12
+[2024-06-14 23:39:36] Order ID: 1, p: 13, q: 4
+[2024-06-14 23:39:36] Order ID: 2, p: 12, q: 16
+[2024-06-14 23:39:36] Order ID: 3, p: 5, q: 16
+[2024-06-14 23:39:36] Order ID: 4, p: 15, q: 4
+[2024-06-14 23:39:37] Order ID: 5, p: 10, q: 7
+[2024-06-14 23:39:37] Order ID: 6, p: 3, q: 18
+[2024-06-14 23:39:37] Order ID: 7, p: 14, q: 13
+[2024-06-14 23:39:37] Order ID: 8, p: 8, q: 17
+[2024-06-14 23:39:37] Order ID: 9, p: 13, q: 0
+[2024-06-14 23:39:37] Order ID: 10, p: 17, q: 9
+[2024-06-14 23:39:37] Order ID: 11, p: 9, q: 19
+[2024-06-14 23:39:37] Order ID: 12, p: 1, q: 4
+[2024-06-14 23:39:37] Order ID: 13, p: 5, q: 7
+[2024-06-14 23:39:38] Order ID: 14, p: 11, q: 16
+[2024-06-14 23:39:38] Order ID: 15, p: 12, q: 12
+[2024-06-14 23:39:38] Order ID: 16, p: 8, q: 17
+[2024-06-14 23:39:38] Order ID: 17, p: 16, q: 0
+[2024-06-14 23:39:38] Order ID: 18, p: 5, q: 13
+[2024-06-14 23:39:38] Order ID: 19, p: 16, q: 0
+[2024-06-14 23:39:38] Order 19 prepared by chef 0
+[2024-06-14 23:39:38] Order 18 prepared by chef 1
+[2024-06-14 23:39:38] Order 17 prepared by chef 2
+[2024-06-14 23:39:38] Order 16 prepared by chef 3
+[2024-06-14 23:39:39] Order 15 prepared by chef 4
+[2024-06-14 23:39:39] Order 14 prepared by chef 5
+[2024-06-14 23:39:39] Order 12 prepared by chef 7
+[2024-06-14 23:39:39] Order 13 prepared by chef 6
+[2024-06-14 23:39:39] Order 10 prepared by chef 9
+[2024-06-14 23:39:39] Order 11 prepared by chef 8
+[2024-06-14 23:39:39] Order 16 placed in the oven by chef 3
+[2024-06-14 23:39:39] Order 17 placed in the oven by chef 2
+[2024-06-14 23:39:39] Order 12 placed in the oven by chef 7
+[2024-06-14 23:39:40] Order 15 placed in the oven by chef 4
+[2024-06-14 23:39:40] Order 11 placed in the oven by chef 8
+[2024-06-14 23:39:40] Order 10 placed in the oven by chef 9
+[2024-06-14 23:39:40] Order 16 taken out of the oven by chef 3
+[2024-06-14 23:39:40] Order 15 taken out of the oven by chef 4
+[2024-06-14 23:39:40] Order 17 taken out of the oven by chef 2
+[2024-06-14 23:39:40] Order 9 prepared by chef 4
+[2024-06-14 23:39:40] Order 12 taken out of the oven by chef 7
+[2024-06-14 23:39:40] Order 8 prepared by chef 3
+[2024-06-14 23:39:40] Order 19 placed in the oven by chef 0
+[2024-06-14 23:39:41] Order 11 taken out of the oven by chef 8
+[2024-06-14 23:39:41] Order 7 prepared by chef 2
+[2024-06-14 23:39:41] Order 17 has been given to courier 7. Delivery time: 0.699714 seconds
+[2024-06-14 23:39:41] Order 6 prepared by chef 7
+[2024-06-14 23:39:41] Order 13 placed in the oven by chef 6
+[2024-06-14 23:39:41] Order 5 prepared by chef 8
+[2024-06-14 23:39:41] Order 10 taken out of the oven by chef 9
+[2024-06-14 23:39:41] Order 14 placed in the oven by chef 5
+[2024-06-14 23:39:41] Order 18 placed in the oven by chef 1
+[2024-06-14 23:39:42] Order 4 prepared by chef 9
+[2024-06-14 23:39:42] Order 10 has been given to courier 2. Delivery time: 0.424264 seconds
+[2024-06-14 23:39:42] Order 9 placed in the oven by chef 4
+[2024-06-14 23:39:42] Order 19 taken out of the oven by chef 0
+[2024-06-14 23:39:42] Order 8 placed in the oven by chef 3
+[2024-06-14 23:39:42] Order 13 taken out of the oven by chef 6
+[2024-06-14 23:39:42] Order 3 prepared by chef 0
+[2024-06-14 23:39:42] Order 2 prepared by chef 6
+[2024-06-14 23:39:42] Order 14 taken out of the oven by chef 5
+[2024-06-14 23:39:42] Order 18 taken out of the oven by chef 1
+[2024-06-14 23:39:43] Order 1 prepared by chef 5
+[2024-06-14 23:39:43] Order 9 taken out of the oven by chef 4
+[2024-06-14 23:39:43] Order 14 has been given to courier 8. Delivery time: 0.364966 seconds
+[2024-06-14 23:39:43] Order 0 prepared by chef 1
+[2024-06-14 23:39:43] Order 7 placed in the oven by chef 2
+[2024-06-14 23:39:43] Order 3 placed in the oven by chef 0
+[2024-06-14 23:39:43] Order 6 placed in the oven by chef 7
+[2024-06-14 23:39:43] Order 10 has been delivered by courier 2
+[2024-06-14 23:39:43] Order 17 has been delivered by courier 7
+[2024-06-14 23:39:43] Order 4 placed in the oven by chef 9
+[2024-06-14 23:39:44] Order 5 placed in the oven by chef 8
+[2024-06-14 23:39:44] Order 11 has been given to courier 2. Delivery time: 1.192639 seconds
+[2024-06-14 23:39:44] Order 16 has been given to courier 7. Delivery time: 1.827012 seconds
+[2024-06-14 23:39:44] Order 8 taken out of the oven by chef 3
+[2024-06-14 23:39:44] Order 7 taken out of the oven by chef 2
+[2024-06-14 23:39:44] Order 6 taken out of the oven by chef 7
+[2024-06-14 23:39:44] Order 8 has been given to courier 4. Delivery time: 0.436807 seconds
+[2024-06-14 23:39:44] Order 3 taken out of the oven by chef 0
+[2024-06-14 23:39:44] Order 14 has been delivered by courier 8
+[2024-06-14 23:39:45] Order 4 taken out of the oven by chef 9
+[2024-06-14 23:39:53] Order ID: 0, p: 19, q: 12
+[2024-06-14 23:39:53] Order ID: 1, p: 8, q: 13
+[2024-06-14 23:39:53] Order ID: 2, p: 4, q: 11
+[2024-06-14 23:39:53] Order ID: 3, p: 0, q: 14
+[2024-06-14 23:39:53] Order ID: 4, p: 6, q: 3
+[2024-06-14 23:39:54] Order ID: 5, p: 2, q: 18
+[2024-06-14 23:39:54] Order ID: 6, p: 6, q: 4
+[2024-06-14 23:39:54] Order ID: 7, p: 9, q: 4
+[2024-06-14 23:39:54] Order ID: 8, p: 12, q: 15
+[2024-06-14 23:39:54] Order ID: 9, p: 14, q: 2
+[2024-06-14 23:39:54] Order ID: 10, p: 19, q: 10
+[2024-06-14 23:39:54] Order ID: 11, p: 6, q: 11
+[2024-06-14 23:39:54] Order ID: 12, p: 7, q: 6
+[2024-06-14 23:39:54] Order ID: 13, p: 13, q: 5
+[2024-06-14 23:39:54] Order ID: 14, p: 3, q: 19
+[2024-06-14 23:39:55] Order ID: 15, p: 8, q: 2
+[2024-06-14 23:39:55] Order ID: 16, p: 11, q: 9
+[2024-06-14 23:39:55] Order ID: 17, p: 15, q: 16
+[2024-06-14 23:39:55] Order ID: 18, p: 0, q: 7
+[2024-06-14 23:39:55] Order ID: 19, p: 2, q: 18
+[2024-06-14 23:39:56] Order 19 prepared by chef 4
+[2024-06-14 23:39:56] Order 18 prepared by chef 0
+[2024-06-14 23:39:56] Order 17 prepared by chef 5
+[2024-06-14 23:39:56] Order 16 prepared by chef 6
+[2024-06-14 23:39:56] Order 15 prepared by chef 7
+[2024-06-14 23:39:57] Order 14 prepared by chef 8
+[2024-06-14 23:39:57] Order 13 prepared by chef 9
+[2024-06-14 23:39:57] Order 12 prepared by chef 3
+[2024-06-14 23:39:57] Order 11 prepared by chef 2
+[2024-06-14 23:39:57] Order 10 prepared by chef 1
+[2024-06-14 23:39:57] Order 13 placed in the oven by chef 9
+[2024-06-14 23:39:57] Order 14 placed in the oven by chef 8
+[2024-06-14 23:39:57] Order 10 placed in the oven by chef 1
+[2024-06-14 23:39:57] Order 11 placed in the oven by chef 2
+[2024-06-14 23:39:58] Order 17 placed in the oven by chef 5
+[2024-06-14 23:39:58] Order 15 placed in the oven by chef 7
+[2024-06-14 23:39:58] Order 14 taken out of the oven by chef 8
+[2024-06-14 23:39:58] Order 13 taken out of the oven by chef 9
+[2024-06-14 23:39:58] Order 9 prepared by chef 8
+[2024-06-14 23:39:58] Order 11 taken out of the oven by chef 2
+[2024-06-14 23:39:58] Order 10 taken out of the oven by chef 1
+[2024-06-14 23:39:58] Order 8 prepared by chef 9
+[2024-06-14 23:39:58] Order 17 taken out of the oven by chef 5
+[2024-06-14 23:39:58] Order 16 placed in the oven by chef 6
+[2024-06-14 23:39:59] Order 7 prepared by chef 1
+[2024-06-14 23:39:59] Order 6 prepared by chef 2
+[2024-06-14 23:39:59] Order 11 has been given to courier 0. Delivery time: 0.247386 seconds
+[2024-06-14 23:39:59] Order 18 placed in the oven by chef 0
+[2024-06-14 23:40:00] Order 12 placed in the oven by chef 3
+[2024-06-14 23:40:00] Order 5 prepared by chef 5
+[2024-06-14 23:40:05] Order 9 placed in the oven by chef 8
+[2024-06-14 23:40:05] Order 15 taken out of the oven by chef 7

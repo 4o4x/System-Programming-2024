@@ -8,7 +8,7 @@ run:
 	./test
 
 run2:
-	valgrind --leak-check=full --show-leak-kinds=all -s ./test
+	valgrind --leak-check=full --show-leak-kinds=all -s --track-origins=yes ./test
 
 clean:
 	rm test
